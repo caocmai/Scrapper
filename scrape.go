@@ -12,18 +12,27 @@ type Food struct {
 	Calorie int    `json: "calorie"`
 }
 
-// main() contains code adapted from example found in Colly's docs:
-// http://go-colly.org/docs/examples/basic/
 func main() {
-	// Instantiate default collector
+	// default collector
 	c := colly.NewCollector()
 
-	// On every a element which has href attribute call callback
-	c.OnHTML("a[href]", func(e *colly.HTMLElement) {
-		link := e.Attr("href")
+	// On every a element which has specified attribute call callback
+	c.OnHTML(".table", func(e *colly.HTMLElement) {
+		// fmt.Println(e.Text)
 
-		// Print link
-		fmt.Printf("Link found: %q -> %s\n", e.Text, link)
+		// link := e.Attr("href")
+		// fmt.Println(e.ChildText("td.food.sorting_1"))
+		e.ForEach("tr", func(_ int, el *colly.HTMLElement) {
+			// fmt.Println(e.Text)
+
+			fmt.Println(el.ChildText("td:first-child"))
+
+			fmt.Println(el.ChildText("td:nth-child(5)"))
+
+			// fmt.Println(e.ChildText(".food > a"))
+
+		})
+
 	})
 
 	// Before making a request print "Visiting ..."
