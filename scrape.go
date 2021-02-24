@@ -6,6 +6,12 @@ import (
 	"github.com/gocolly/colly"
 )
 
+// Food stores calorie info of a food
+type Food struct {
+	Name    string `json: "name"`
+	Calorie int    `json: "calorie"`
+}
+
 // main() contains code adapted from example found in Colly's docs:
 // http://go-colly.org/docs/examples/basic/
 func main() {
