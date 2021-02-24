@@ -31,10 +31,6 @@ func main() {
 
 	cloned := c.Clone()
 
-	c.OnRequest(func(r *colly.Request) {
-		log.Println("visiting", r.URL.String())
-	})
-
 	cloned.OnHTML("body", func(e *colly.HTMLElement) {
 		link := e.Attr("href")
 		fmt.Println(link)
@@ -54,10 +50,8 @@ func main() {
 			tmpFood := Food{}
 
 			tmpFood.Name = el.ChildText("td:first-child")
-
 			tmpFood.Calorie = el.ChildText("td:nth-child(5)")
 
-			// fmt.Println(e.ChildText(".food > a"))
 			tmpFoodList.Foods = append(tmpFoodList.Foods, tmpFood)
 
 		})
@@ -66,7 +60,7 @@ func main() {
 		if err != nil {
 			log.Fatal(err)
 		}
-		// fmt.Println(string(js))
+		fmt.Println(string(js))
 
 		_ = ioutil.WriteFile("foods.json", js, 0644)
 
