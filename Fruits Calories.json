@@ -1,0 +1,225 @@
+{
+    "FoodType": "Fruits Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Acai",
+            "Calorie": "70 cal"
+        },
+        {
+            "Name": "Apple",
+            "Calorie": "52 cal"
+        },
+        {
+            "Name": "Applesauce",
+            "Calorie": "68 cal"
+        },
+        {
+            "Name": "Apricot",
+            "Calorie": "48 cal"
+        },
+        {
+            "Name": "Avocado",
+            "Calorie": "160 cal"
+        },
+        {
+            "Name": "Banana",
+            "Calorie": "89 cal"
+        },
+        {
+            "Name": "Blackberries",
+            "Calorie": "43 cal"
+        },
+        {
+            "Name": "Blood Oranges",
+            "Calorie": "50 cal"
+        },
+        {
+            "Name": "Blueberries",
+            "Calorie": "57 cal"
+        },
+        {
+            "Name": "Cantaloupe",
+            "Calorie": "34 cal"
+        },
+        {
+            "Name": "Cherries",
+            "Calorie": "50 cal"
+        },
+        {
+            "Name": "Clementine",
+            "Calorie": "47 cal"
+        },
+        {
+            "Name": "Cranberries",
+            "Calorie": "46 cal"
+        },
+        {
+            "Name": "Currants",
+            "Calorie": "56 cal"
+        },
+        {
+            "Name": "Custard Apple",
+            "Calorie": "101 cal"
+        },
+        {
+            "Name": "Dates",
+            "Calorie": "282 cal"
+        },
+        {
+            "Name": "Figs",
+            "Calorie": "74 cal"
+        },
+        {
+            "Name": "Fruit salad",
+            "Calorie": "50 cal"
+        },
+        {
+            "Name": "Grapes",
+            "Calorie": "69 cal"
+        },
+        {
+            "Name": "Greengage",
+            "Calorie": "41 cal"
+        },
+        {
+            "Name": "Guava",
+            "Calorie": "68 cal"
+        },
+        {
+            "Name": "Jackfruit",
+            "Calorie": "95 cal"
+        },
+        {
+            "Name": "Jujube",
+            "Calorie": "79 cal"
+        },
+        {
+            "Name": "Kiwi",
+            "Calorie": "61 cal"
+        },
+        {
+            "Name": "Lemon",
+            "Calorie": "29 cal"
+        },
+        {
+            "Name": "Lime",
+            "Calorie": "30 cal"
+        },
+        {
+            "Name": "Lychees",
+            "Calorie": "66 cal"
+        },
+        {
+            "Name": "Mandarin Oranges",
+            "Calorie": "53 cal"
+        },
+        {
+            "Name": "Mango",
+            "Calorie": "60 cal"
+        },
+        {
+            "Name": "Minneola",
+            "Calorie": "64 cal"
+        },
+        {
+            "Name": "Mulberries",
+            "Calorie": "43 cal"
+        },
+        {
+            "Name": "Nectarine",
+            "Calorie": "44 cal"
+        },
+        {
+            "Name": "Olives",
+            "Calorie": "115 cal"
+        },
+        {
+            "Name": "Orange",
+            "Calorie": "47 cal"
+        },
+        {
+            "Name": "Papaya",
+            "Calorie": "43 cal"
+        },
+        {
+            "Name": "Passion Fruit",
+            "Calorie": "97 cal"
+        },
+        {
+            "Name": "Peach",
+            "Calorie": "39 cal"
+        },
+        {
+            "Name": "Pear",
+            "Calorie": "57 cal"
+        },
+        {
+            "Name": "Persimmon",
+            "Calorie": "127 cal"
+        },
+        {
+            "Name": "Physalis",
+            "Calorie": "49 cal"
+        },
+        {
+            "Name": "Pineapple",
+            "Calorie": "50 cal"
+        },
+        {
+            "Name": "Plantains",
+            "Calorie": "122 cal"
+        },
+        {
+            "Name": "Plum",
+            "Calorie": "46 cal"
+        },
+        {
+            "Name": "Pomegranate",
+            "Calorie": "83 cal"
+        },
+        {
+            "Name": "Quince",
+            "Calorie": "57 cal"
+        },
+        {
+            "Name": "Raisins",
+            "Calorie": "299 cal"
+        },
+        {
+            "Name": "Rambutan",
+            "Calorie": "82 cal"
+        },
+        {
+            "Name": "Raspberries",
+            "Calorie": "52 cal"
+        },
+        {
+            "Name": "Rhubarb",
+            "Calorie": "21 cal"
+        },
+        {
+            "Name": "Starfruit",
+            "Calorie": "31 cal"
+        },
+        {
+            "Name": "Strawberries",
+            "Calorie": "32 cal"
+        },
+        {
+            "Name": "Tamarind",
+            "Calorie": "239 cal"
+        },
+        {
+            "Name": "Tangerine",
+            "Calorie": "53 cal"
+        },
+        {
+            "Name": "Watermelon",
+            "Calorie": "30 cal"
+        }
+    ]
+}

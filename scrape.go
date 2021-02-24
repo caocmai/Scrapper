@@ -11,7 +11,8 @@ import (
 
 // FoodList stores a list of food
 type FoodList struct {
-	Foods []Food
+	FoodType string
+	Foods    []Food
 }
 
 // Food stores calorie info of a food
@@ -21,32 +22,39 @@ type Food struct {
 }
 
 func main() {
-	// default collector
+	// Default collector
 	c := colly.NewCollector(
-		// visit only domains of calories.info or www.calories.info
+		// Visit only domains of calories.info or www.calories.info
 		colly.AllowedDomains("calories.info", "www.calories.info"),
-		// caching to prevent multiple download of pages
+		// Caching to prevent multiple download of pages
 		colly.CacheDir("./calorie_cache"),
 	)
 
-	cloned := c.Clone()
+	// So can do two things at once
+	getFoodInfo := c.Clone()
 
-	cloned.OnHTML("body", func(e *colly.HTMLElement) {
-		link := e.Attr("href")
-		fmt.Println(link)
-		fmt.Println("went inside of here")
+	// Only visit links on the sidebar
+	c.OnHTML("#menu-calorie-tables", func(e *colly.HTMLElement) {
+		// Finding valid links to visit
+		e.ForEach("li", func(_ int, el *colly.HTMLElement) {
+			link := (el.ChildAttr("a", "href"))
+
+			getFoodInfo.Visit(link)
+
+		})
+
 	})
 
-	// On every a element which has specified attribute call callback
-	c.OnHTML(`body`, func(e *colly.HTMLElement) {
+	// Parse food and its calorie into struct then json then save the file
+	getFoodInfo.OnHTML(`body`, func(e *colly.HTMLElement) {
 		// fmt.Println(e.Text)
 		tmpFoodList := FoodList{}
-		link := e.Attr("href")
-		fmt.Println(link)
+		foodType := (e.ChildText(".page-title"))
 
+		tmpFoodList.FoodType = foodType
+
+		// Loop through each table cell
 		e.ForEach("tr", func(_ int, el *colly.HTMLElement) {
-			// fmt.Println(e.Text)
-
 			tmpFood := Food{}
 
 			tmpFood.Name = el.ChildText("td:first-child")
@@ -56,22 +64,27 @@ func main() {
 
 		})
 
+		// Converts to JSON
 		js, err := json.MarshalIndent(tmpFoodList, "", "    ")
 		if err != nil {
 			log.Fatal(err)
 		}
 		fmt.Println(string(js))
 
-		_ = ioutil.WriteFile("foods.json", js, 0644)
+		// Write file to HD
+		_ = ioutil.WriteFile(foodType+".json", js, 0644)
 
 	})
 
-	// Before making a request print "Visiting ..."
+	// Printing the link which colly is visiting
 	c.OnRequest(func(r *colly.Request) {
 		fmt.Println("Visiting", r.URL.String())
 	})
 
-	// Start scraping
+	// Make the scrapping async
 	c.Wait()
-	c.Visit("https://www.calories.info/food/meat")
+
+	// Start scraping
+	c.Visit("https://www.calories.info/")
+
 }

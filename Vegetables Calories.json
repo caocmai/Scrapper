@@ -1,0 +1,261 @@
+{
+    "FoodType": "Vegetables Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Artichoke",
+            "Calorie": "47 cal"
+        },
+        {
+            "Name": "Arugula",
+            "Calorie": "25 cal"
+        },
+        {
+            "Name": "Asparagus",
+            "Calorie": "20 cal"
+        },
+        {
+            "Name": "Aubergine",
+            "Calorie": "25 cal"
+        },
+        {
+            "Name": "Beetroot",
+            "Calorie": "43 cal"
+        },
+        {
+            "Name": "Bell Pepper",
+            "Calorie": "20 cal"
+        },
+        {
+            "Name": "Black Olives",
+            "Calorie": "115 cal"
+        },
+        {
+            "Name": "Broccoli",
+            "Calorie": "34 cal"
+        },
+        {
+            "Name": "Brussels Sprouts",
+            "Calorie": "43 cal"
+        },
+        {
+            "Name": "Cabbage",
+            "Calorie": "25 cal"
+        },
+        {
+            "Name": "Capsicum",
+            "Calorie": "27 cal"
+        },
+        {
+            "Name": "Carrot",
+            "Calorie": "41 cal"
+        },
+        {
+            "Name": "Cauliflower",
+            "Calorie": "25 cal"
+        },
+        {
+            "Name": "Celery",
+            "Calorie": "16 cal"
+        },
+        {
+            "Name": "Chard",
+            "Calorie": "19 cal"
+        },
+        {
+            "Name": "Cherry Tomato",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Chicory",
+            "Calorie": "72 cal"
+        },
+        {
+            "Name": "Chinese Cabbage",
+            "Calorie": "16 cal"
+        },
+        {
+            "Name": "Chives",
+            "Calorie": "30 cal"
+        },
+        {
+            "Name": "Collard Greens",
+            "Calorie": "32 cal"
+        },
+        {
+            "Name": "Corn",
+            "Calorie": "365 cal"
+        },
+        {
+            "Name": "Courgette",
+            "Calorie": "17 cal"
+        },
+        {
+            "Name": "Creamed Spinach",
+            "Calorie": "74 cal"
+        },
+        {
+            "Name": "Cucumber",
+            "Calorie": "16 cal"
+        },
+        {
+            "Name": "Eggplant",
+            "Calorie": "25 cal"
+        },
+        {
+            "Name": "Endive",
+            "Calorie": "17 cal"
+        },
+        {
+            "Name": "Fennel",
+            "Calorie": "31 cal"
+        },
+        {
+            "Name": "Garlic",
+            "Calorie": "149 cal"
+        },
+        {
+            "Name": "Gherkin",
+            "Calorie": "14 cal"
+        },
+        {
+            "Name": "Gourd",
+            "Calorie": "14 cal"
+        },
+        {
+            "Name": "Green Beans",
+            "Calorie": "31 cal"
+        },
+        {
+            "Name": "Green Olives",
+            "Calorie": "115 cal"
+        },
+        {
+            "Name": "Green Onion",
+            "Calorie": "32 cal"
+        },
+        {
+            "Name": "Horseradish",
+            "Calorie": "48 cal"
+        },
+        {
+            "Name": "Kale",
+            "Calorie": "49 cal"
+        },
+        {
+            "Name": "Kohlrabi",
+            "Calorie": "27 cal"
+        },
+        {
+            "Name": "Kumara",
+            "Calorie": "86 cal"
+        },
+        {
+            "Name": "Leek",
+            "Calorie": "61 cal"
+        },
+        {
+            "Name": "Lettuce",
+            "Calorie": "15 cal"
+        },
+        {
+            "Name": "Mushrooms",
+            "Calorie": "22 cal"
+        },
+        {
+            "Name": "Mustard Greens",
+            "Calorie": "27 cal"
+        },
+        {
+            "Name": "Nori",
+            "Calorie": "35 cal"
+        },
+        {
+            "Name": "Okra",
+            "Calorie": "33 cal"
+        },
+        {
+            "Name": "Olives",
+            "Calorie": "115 cal"
+        },
+        {
+            "Name": "Onion",
+            "Calorie": "40 cal"
+        },
+        {
+            "Name": "Parsnips",
+            "Calorie": "75 cal"
+        },
+        {
+            "Name": "Peas",
+            "Calorie": "81 cal"
+        },
+        {
+            "Name": "Pepper",
+            "Calorie": "27 cal"
+        },
+        {
+            "Name": "Potato",
+            "Calorie": "77 cal"
+        },
+        {
+            "Name": "Pumpkin",
+            "Calorie": "26 cal"
+        },
+        {
+            "Name": "Radishes",
+            "Calorie": "16 cal"
+        },
+        {
+            "Name": "Red Cabbage",
+            "Calorie": "31 cal"
+        },
+        {
+            "Name": "Rutabaga",
+            "Calorie": "38 cal"
+        },
+        {
+            "Name": "Shallots",
+            "Calorie": "72 cal"
+        },
+        {
+            "Name": "Spinach",
+            "Calorie": "23 cal"
+        },
+        {
+            "Name": "Squash",
+            "Calorie": "45 cal"
+        },
+        {
+            "Name": "Sweet Potato",
+            "Calorie": "86 cal"
+        },
+        {
+            "Name": "Tomato",
+            "Calorie": "18 cal"
+        },
+        {
+            "Name": "Turnip Greens",
+            "Calorie": "20 cal"
+        },
+        {
+            "Name": "Turnips",
+            "Calorie": "28 cal"
+        },
+        {
+            "Name": "Wasabi",
+            "Calorie": "109 cal"
+        },
+        {
+            "Name": "Winter Squash",
+            "Calorie": "34 cal"
+        },
+        {
+            "Name": "Zucchini",
+            "Calorie": "17 cal"
+        }
+    ]
+}
