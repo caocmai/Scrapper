@@ -1,0 +1,185 @@
+{
+    "FoodType": "Cereal Products Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Amaranth",
+            "Calorie": "371 cal"
+        },
+        {
+            "Name": "Barley",
+            "Calorie": "354 cal"
+        },
+        {
+            "Name": "Barley Groats",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Brown Rice",
+            "Calorie": "388 cal"
+        },
+        {
+            "Name": "Buckwheat",
+            "Calorie": "343 cal"
+        },
+        {
+            "Name": "Buckwheat Groats",
+            "Calorie": "346 cal"
+        },
+        {
+            "Name": "Corn Waffles",
+            "Calorie": "274 cal"
+        },
+        {
+            "Name": "Cornmeal",
+            "Calorie": "362 cal"
+        },
+        {
+            "Name": "Cornstarch",
+            "Calorie": "381 cal"
+        },
+        {
+            "Name": "Couscous",
+            "Calorie": "376 cal"
+        },
+        {
+            "Name": "Cracker",
+            "Calorie": "502 cal"
+        },
+        {
+            "Name": "Durum Wheat Semolina",
+            "Calorie": "397 cal"
+        },
+        {
+            "Name": "Flaxseed",
+            "Calorie": "534 cal"
+        },
+        {
+            "Name": "Freekeh",
+            "Calorie": "520 cal"
+        },
+        {
+            "Name": "Gluten",
+            "Calorie": "370 cal"
+        },
+        {
+            "Name": "Grissini",
+            "Calorie": "408 cal"
+        },
+        {
+            "Name": "Kamut",
+            "Calorie": "337 cal"
+        },
+        {
+            "Name": "Millet",
+            "Calorie": "378 cal"
+        },
+        {
+            "Name": "Millet Flour",
+            "Calorie": "372 cal"
+        },
+        {
+            "Name": "Millet Gruel",
+            "Calorie": "46 cal"
+        },
+        {
+            "Name": "Oat Bran",
+            "Calorie": "246 cal"
+        },
+        {
+            "Name": "Pearl Barley",
+            "Calorie": "352 cal"
+        },
+        {
+            "Name": "Polenta",
+            "Calorie": "366 cal"
+        },
+        {
+            "Name": "Prawn Crackers",
+            "Calorie": "527 cal"
+        },
+        {
+            "Name": "Pretzel Sticks",
+            "Calorie": "380 cal"
+        },
+        {
+            "Name": "Quinoa",
+            "Calorie": "368 cal"
+        },
+        {
+            "Name": "Rusk",
+            "Calorie": "410 cal"
+        },
+        {
+            "Name": "Rye Bran",
+            "Calorie": "281 cal"
+        },
+        {
+            "Name": "Sago",
+            "Calorie": "354 cal"
+        },
+        {
+            "Name": "Savoury Biscuits",
+            "Calorie": "347 cal"
+        },
+        {
+            "Name": "Shortbread",
+            "Calorie": "502 cal"
+        },
+        {
+            "Name": "Spelt",
+            "Calorie": "338 cal"
+        },
+        {
+            "Name": "Spelt Bran",
+            "Calorie": "177 cal"
+        },
+        {
+            "Name": "Spelt Semolina",
+            "Calorie": "360 cal"
+        },
+        {
+            "Name": "Sunflower Seeds",
+            "Calorie": "584 cal"
+        },
+        {
+            "Name": "Tortilla",
+            "Calorie": "237 cal"
+        },
+        {
+            "Name": "Tortilla Chips",
+            "Calorie": "499 cal"
+        },
+        {
+            "Name": "Wheat Bran",
+            "Calorie": "216 cal"
+        },
+        {
+            "Name": "Wheat Germ",
+            "Calorie": "382 cal"
+        },
+        {
+            "Name": "Wheat Gluten",
+            "Calorie": "325 cal"
+        },
+        {
+            "Name": "Wheat Semolina",
+            "Calorie": "360 cal"
+        },
+        {
+            "Name": "Wheat Starch",
+            "Calorie": "351 cal"
+        },
+        {
+            "Name": "Whole Grain Wheat",
+            "Calorie": "339 cal"
+        },
+        {
+            "Name": "Wholegrain Oat",
+            "Calorie": "375 cal"
+        }
+    ]
+}

@@ -1,0 +1,297 @@
+{
+    "FoodType": "Fast Food Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Arby’s Grand Turkey Club",
+            "Calorie": "210 cal"
+        },
+        {
+            "Name": "Arby’s Reuben",
+            "Calorie": "208 cal"
+        },
+        {
+            "Name": "Arby’s Roast Beef Classic",
+            "Calorie": "234 cal"
+        },
+        {
+            "Name": "Arby’s Roast Beef Max",
+            "Calorie": "234 cal"
+        },
+        {
+            "Name": "BBQ Rib",
+            "Calorie": "212 cal"
+        },
+        {
+            "Name": "Bean Burrito",
+            "Calorie": "200 cal"
+        },
+        {
+            "Name": "Big N’ Tasty",
+            "Calorie": "223 cal"
+        },
+        {
+            "Name": "Bratwurst",
+            "Calorie": "333 cal"
+        },
+        {
+            "Name": "Burger King Angry Whopper",
+            "Calorie": "255 cal"
+        },
+        {
+            "Name": "Burger King Double Whopper",
+            "Calorie": "239 cal"
+        },
+        {
+            "Name": "Burger King Double Whopper with Cheese",
+            "Calorie": "249 cal"
+        },
+        {
+            "Name": "Burger King Original Chicken Sandwich",
+            "Calorie": "301 cal"
+        },
+        {
+            "Name": "Burger King Premium Alaskan Fish Sandwich",
+            "Calorie": "259 cal"
+        },
+        {
+            "Name": "Burger King Triple Whopper",
+            "Calorie": "269 cal"
+        },
+        {
+            "Name": "Burger King Whopper",
+            "Calorie": "231 cal"
+        },
+        {
+            "Name": "Burger King Whopper Jr.",
+            "Calorie": "234 cal"
+        },
+        {
+            "Name": "Burger King Whopper with Cheese",
+            "Calorie": "241 cal"
+        },
+        {
+            "Name": "Cheeseburger",
+            "Calorie": "263 cal"
+        },
+        {
+            "Name": "Chicken Breast",
+            "Calorie": "163 cal"
+        },
+        {
+            "Name": "Chicken Fajita",
+            "Calorie": "147 cal"
+        },
+        {
+            "Name": "Chicken McNuggets",
+            "Calorie": "302 cal"
+        },
+        {
+            "Name": "Chicken Nuggets",
+            "Calorie": "296 cal"
+        },
+        {
+            "Name": "Chicken Pizziola",
+            "Calorie": "141 cal"
+        },
+        {
+            "Name": "Chicken Sandwich",
+            "Calorie": "241 cal"
+        },
+        {
+            "Name": "Chicken Teriyaki Sandwich",
+            "Calorie": "138 cal"
+        },
+        {
+            "Name": "Chicken Wings",
+            "Calorie": "324 cal"
+        },
+        {
+            "Name": "Chop Suey",
+            "Calorie": "172 cal"
+        },
+        {
+            "Name": "Curly Fries",
+            "Calorie": "311 cal"
+        },
+        {
+            "Name": "Double Cheeseburger",
+            "Calorie": "267 cal"
+        },
+        {
+            "Name": "Egg Roll",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Falafel",
+            "Calorie": "335 cal"
+        },
+        {
+            "Name": "Filet-o-Fish",
+            "Calorie": "282 cal"
+        },
+        {
+            "Name": "Fish and Chips",
+            "Calorie": "195 cal"
+        },
+        {
+            "Name": "Fish Sandwich",
+            "Calorie": "273 cal"
+        },
+        {
+            "Name": "French Fries",
+            "Calorie": "312 cal"
+        },
+        {
+            "Name": "Grilled Chicken Salad",
+            "Calorie": "88 cal"
+        },
+        {
+            "Name": "Ham Sandwich",
+            "Calorie": "241 cal"
+        },
+        {
+            "Name": "Hamburger",
+            "Calorie": "254 cal"
+        },
+        {
+            "Name": "Hot Dog",
+            "Calorie": "269 cal"
+        },
+        {
+            "Name": "Italian BMT",
+            "Calorie": "183 cal"
+        },
+        {
+            "Name": "Lasagna",
+            "Calorie": "132 cal"
+        },
+        {
+            "Name": "McDonald’s Big Mac",
+            "Calorie": "256 cal"
+        },
+        {
+            "Name": "McDonald’s Cheeseburger",
+            "Calorie": "263 cal"
+        },
+        {
+            "Name": "McDonald’s Chicken Nuggets",
+            "Calorie": "297 cal"
+        },
+        {
+            "Name": "McDonald’s Double Cheeseburger",
+            "Calorie": "282 cal"
+        },
+        {
+            "Name": "McDonald’s Filet-o-Fish",
+            "Calorie": "275 cal"
+        },
+        {
+            "Name": "McDonald’s McChicken",
+            "Calorie": "251 cal"
+        },
+        {
+            "Name": "McDonald’s McDouble",
+            "Calorie": "252 cal"
+        },
+        {
+            "Name": "McDonald’s McMuffi Egg",
+            "Calorie": "225 cal"
+        },
+        {
+            "Name": "McDonald’s McRib",
+            "Calorie": "265 cal"
+        },
+        {
+            "Name": "McDonald’s Mighty Wings",
+            "Calorie": "308 cal"
+        },
+        {
+            "Name": "McRib",
+            "Calorie": "265 cal"
+        },
+        {
+            "Name": "Meatball Sandwich",
+            "Calorie": "161 cal"
+        },
+        {
+            "Name": "Nachos with Cheese",
+            "Calorie": "306 cal"
+        },
+        {
+            "Name": "Onion Rings",
+            "Calorie": "411 cal"
+        },
+        {
+            "Name": "Smoked Salmon",
+            "Calorie": "158 cal"
+        },
+        {
+            "Name": "Spicy Italian",
+            "Calorie": "219 cal"
+        },
+        {
+            "Name": "Subway Club Sandwich",
+            "Calorie": "131 cal"
+        },
+        {
+            "Name": "Tortilla Wrap",
+            "Calorie": "271 cal"
+        },
+        {
+            "Name": "Tuna",
+            "Calorie": "86 cal"
+        },
+        {
+            "Name": "Turkey",
+            "Calorie": "104 cal"
+        },
+        {
+            "Name": "Veggie Burger",
+            "Calorie": "181 cal"
+        },
+        {
+            "Name": "Veggie Delight",
+            "Calorie": "138 cal"
+        },
+        {
+            "Name": "Veggie Patty",
+            "Calorie": "390 cal"
+        },
+        {
+            "Name": "Wendy’s Baconator",
+            "Calorie": "304 cal"
+        },
+        {
+            "Name": "Wendy’s Jr. Bacon Cheeseburger",
+            "Calorie": "261 cal"
+        },
+        {
+            "Name": "Wendy’s Jr. Cheeseburger",
+            "Calorie": "225 cal"
+        },
+        {
+            "Name": "Wendy’s Son of Baconator",
+            "Calorie": "321 cal"
+        },
+        {
+            "Name": "Whopper",
+            "Calorie": "231 cal"
+        },
+        {
+            "Name": "Zinger",
+            "Calorie": "256 cal"
+        },
+        {
+            "Name": "Zinger Burger",
+            "Calorie": "256 cal"
+        },
+        {
+            "Name": "Poutine",
+            "Calorie": "227 cal"
+        }
+    ]
+}

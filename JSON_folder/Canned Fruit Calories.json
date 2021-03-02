@@ -1,0 +1,125 @@
+{
+    "FoodType": "Canned Fruit Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Applesauce",
+            "Calorie": "62 cal"
+        },
+        {
+            "Name": "Canned Apricots",
+            "Calorie": "48 cal"
+        },
+        {
+            "Name": "Canned Blackberries",
+            "Calorie": "92 cal"
+        },
+        {
+            "Name": "Canned Blueberries",
+            "Calorie": "88 cal"
+        },
+        {
+            "Name": "Canned Cherries",
+            "Calorie": "54 cal"
+        },
+        {
+            "Name": "Canned Cranberries",
+            "Calorie": "178 cal"
+        },
+        {
+            "Name": "Canned Crushed Pineapple",
+            "Calorie": "53 cal"
+        },
+        {
+            "Name": "Canned Figs",
+            "Calorie": "107 cal"
+        },
+        {
+            "Name": "Canned Fruit Cocktail",
+            "Calorie": "81 cal"
+        },
+        {
+            "Name": "Canned Fruit Salad",
+            "Calorie": "50 cal"
+        },
+        {
+            "Name": "Canned Gooseberries",
+            "Calorie": "73 cal"
+        },
+        {
+            "Name": "Canned Grapefruit",
+            "Calorie": "37 cal"
+        },
+        {
+            "Name": "Canned Grapes",
+            "Calorie": "76 cal"
+        },
+        {
+            "Name": "Canned Mandarin Oranges",
+            "Calorie": "71 cal"
+        },
+        {
+            "Name": "Canned Mango",
+            "Calorie": "65 cal"
+        },
+        {
+            "Name": "Canned Mangosteen",
+            "Calorie": "73 cal"
+        },
+        {
+            "Name": "Canned Mixed Fruit",
+            "Calorie": "71 cal"
+        },
+        {
+            "Name": "Canned Morello Cherries",
+            "Calorie": "81 cal"
+        },
+        {
+            "Name": "Canned Oranges",
+            "Calorie": "62 cal"
+        },
+        {
+            "Name": "Canned Peaches",
+            "Calorie": "54 cal"
+        },
+        {
+            "Name": "Canned Pears",
+            "Calorie": "35 cal"
+        },
+        {
+            "Name": "Canned Pineapple",
+            "Calorie": "60 cal"
+        },
+        {
+            "Name": "Canned Plums",
+            "Calorie": "58 cal"
+        },
+        {
+            "Name": "Canned Raspberries",
+            "Calorie": "91 cal"
+        },
+        {
+            "Name": "Canned Sliced Pineapple",
+            "Calorie": "53 cal"
+        },
+        {
+            "Name": "Canned Sour Cherries",
+            "Calorie": "114 cal"
+        },
+        {
+            "Name": "Canned Strawberries",
+            "Calorie": "92 cal"
+        },
+        {
+            "Name": "Canned Tangerines",
+            "Calorie": "61 cal"
+        },
+        {
+            "Name": "Dried Fruit",
+            "Calorie": "243 cal"
+        }
+    ]
+}

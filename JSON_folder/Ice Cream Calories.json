@@ -1,0 +1,189 @@
+{
+    "FoodType": "Ice Cream Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Baskin-Robbins",
+            "Calorie": "239 cal"
+        },
+        {
+            "Name": "Ben and Jerry’s",
+            "Calorie": "228 cal"
+        },
+        {
+            "Name": "Butter Pecan Ice Cream",
+            "Calorie": "248 cal"
+        },
+        {
+            "Name": "Carvel",
+            "Calorie": "212 cal"
+        },
+        {
+            "Name": "Chocolate Chip Ice Cream",
+            "Calorie": "215 cal"
+        },
+        {
+            "Name": "Chocolate Ice Cream",
+            "Calorie": "216 cal"
+        },
+        {
+            "Name": "Ciao Bella",
+            "Calorie": "109 cal"
+        },
+        {
+            "Name": "Coffee Ice Cream",
+            "Calorie": "236 cal"
+        },
+        {
+            "Name": "Cold Stone Creamery",
+            "Calorie": "232 cal"
+        },
+        {
+            "Name": "Cookie Dough Ice Cream",
+            "Calorie": "200 cal"
+        },
+        {
+            "Name": "Crunchie McFlurry",
+            "Calorie": "174 cal"
+        },
+        {
+            "Name": "Dairy Milk McFlurry",
+            "Calorie": "186 cal"
+        },
+        {
+            "Name": "Dippin Dots",
+            "Calorie": "224 cal"
+        },
+        {
+            "Name": "Double Rainbow",
+            "Calorie": "257 cal"
+        },
+        {
+            "Name": "Drumsticks",
+            "Calorie": "255 cal"
+        },
+        {
+            "Name": "French Vanilla Ice Cream",
+            "Calorie": "201 cal"
+        },
+        {
+            "Name": "Friendly’s",
+            "Calorie": "212 cal"
+        },
+        {
+            "Name": "Healthy Choice",
+            "Calorie": "125 cal"
+        },
+        {
+            "Name": "Hot Fudge Sundae",
+            "Calorie": "186 cal"
+        },
+        {
+            "Name": "Ice Cream Sandwich",
+            "Calorie": "237 cal"
+        },
+        {
+            "Name": "Ice Cream Sundae",
+            "Calorie": "142 cal"
+        },
+        {
+            "Name": "Ice Milk",
+            "Calorie": "159 cal"
+        },
+        {
+            "Name": "Magnolia",
+            "Calorie": "230 cal"
+        },
+        {
+            "Name": "Magnum",
+            "Calorie": "300 cal"
+        },
+        {
+            "Name": "Magnum Almond",
+            "Calorie": "315 cal"
+        },
+        {
+            "Name": "Magnum Double Caramel",
+            "Calorie": "355 cal"
+        },
+        {
+            "Name": "Magnum Double Chocolate",
+            "Calorie": "380 cal"
+        },
+        {
+            "Name": "Magnum Gold",
+            "Calorie": "341 cal"
+        },
+        {
+            "Name": "Magnum White",
+            "Calorie": "297 cal"
+        },
+        {
+            "Name": "McFlurry",
+            "Calorie": "153 cal"
+        },
+        {
+            "Name": "McFlurry Oreo",
+            "Calorie": "186 cal"
+        },
+        {
+            "Name": "Mini Milk",
+            "Calorie": "120 cal"
+        },
+        {
+            "Name": "Mint Chocolate Chip Ice Cream",
+            "Calorie": "239 cal"
+        },
+        {
+            "Name": "Rocky Road Ice Cream",
+            "Calorie": "257 cal"
+        },
+        {
+            "Name": "Schwan’s",
+            "Calorie": "246 cal"
+        },
+        {
+            "Name": "Smarties McFlurry",
+            "Calorie": "198 cal"
+        },
+        {
+            "Name": "Snickers Ice Cream",
+            "Calorie": "360 cal"
+        },
+        {
+            "Name": "Soft Serve",
+            "Calorie": "222 cal"
+        },
+        {
+            "Name": "Solero",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Strawberry Ice Cream",
+            "Calorie": "236 cal"
+        },
+        {
+            "Name": "Strawberry Sundae",
+            "Calorie": "158 cal"
+        },
+        {
+            "Name": "Sundae",
+            "Calorie": "215 cal"
+        },
+        {
+            "Name": "Turkey Hill",
+            "Calorie": "271 cal"
+        },
+        {
+            "Name": "Vanilla Cone",
+            "Calorie": "162 cal"
+        },
+        {
+            "Name": "Vanilla Ice Cream",
+            "Calorie": "201 cal"
+        }
+    ]
+}

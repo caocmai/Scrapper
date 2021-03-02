@@ -1,0 +1,249 @@
+{
+    "FoodType": "Fish \u0026 Seafood Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Anchovy",
+            "Calorie": "131 cal"
+        },
+        {
+            "Name": "Bluefish",
+            "Calorie": "159 cal"
+        },
+        {
+            "Name": "Bream",
+            "Calorie": "135 cal"
+        },
+        {
+            "Name": "Butterfish",
+            "Calorie": "187 cal"
+        },
+        {
+            "Name": "Calamari",
+            "Calorie": "175 cal"
+        },
+        {
+            "Name": "Carp",
+            "Calorie": "162 cal"
+        },
+        {
+            "Name": "Caviar",
+            "Calorie": "264 cal"
+        },
+        {
+            "Name": "Clam",
+            "Calorie": "148 cal"
+        },
+        {
+            "Name": "Cod",
+            "Calorie": "105 cal"
+        },
+        {
+            "Name": "Crawfish",
+            "Calorie": "82 cal"
+        },
+        {
+            "Name": "Crayfish",
+            "Calorie": "87 cal"
+        },
+        {
+            "Name": "Eel",
+            "Calorie": "236 cal"
+        },
+        {
+            "Name": "Fish Fingers",
+            "Calorie": "290 cal"
+        },
+        {
+            "Name": "Fish Sticks",
+            "Calorie": "290 cal"
+        },
+        {
+            "Name": "Flounder",
+            "Calorie": "86 cal"
+        },
+        {
+            "Name": "Grouper",
+            "Calorie": "118 cal"
+        },
+        {
+            "Name": "Haddock",
+            "Calorie": "90 cal"
+        },
+        {
+            "Name": "Hake",
+            "Calorie": "71 cal"
+        },
+        {
+            "Name": "Halibut",
+            "Calorie": "111 cal"
+        },
+        {
+            "Name": "Herring",
+            "Calorie": "203 cal"
+        },
+        {
+            "Name": "Hoki",
+            "Calorie": "121 cal"
+        },
+        {
+            "Name": "Kipper",
+            "Calorie": "217 cal"
+        },
+        {
+            "Name": "Ling",
+            "Calorie": "109 cal"
+        },
+        {
+            "Name": "Lobster",
+            "Calorie": "89 cal"
+        },
+        {
+            "Name": "Mackerel",
+            "Calorie": "262 cal"
+        },
+        {
+            "Name": "Milkfish",
+            "Calorie": "190 cal"
+        },
+        {
+            "Name": "Monkfish",
+            "Calorie": "97 cal"
+        },
+        {
+            "Name": "Mullet",
+            "Calorie": "150 cal"
+        },
+        {
+            "Name": "Mussel",
+            "Calorie": "172 cal"
+        },
+        {
+            "Name": "Octopus",
+            "Calorie": "164 cal"
+        },
+        {
+            "Name": "Pickerel",
+            "Calorie": "111 cal"
+        },
+        {
+            "Name": "Pickled Herring",
+            "Calorie": "262 cal"
+        },
+        {
+            "Name": "Pike",
+            "Calorie": "113 cal"
+        },
+        {
+            "Name": "Plaice",
+            "Calorie": "91 cal"
+        },
+        {
+            "Name": "Pollack",
+            "Calorie": "111 cal"
+        },
+        {
+            "Name": "Red Snapper",
+            "Calorie": "128 cal"
+        },
+        {
+            "Name": "Redfish",
+            "Calorie": "94 cal"
+        },
+        {
+            "Name": "Rollmops",
+            "Calorie": "171 cal"
+        },
+        {
+            "Name": "Salmon",
+            "Calorie": "206 cal"
+        },
+        {
+            "Name": "Sardines",
+            "Calorie": "208 cal"
+        },
+        {
+            "Name": "Scallops",
+            "Calorie": "111 cal"
+        },
+        {
+            "Name": "Scampi",
+            "Calorie": "84 cal"
+        },
+        {
+            "Name": "Sea Bass",
+            "Calorie": "124 cal"
+        },
+        {
+            "Name": "Shad",
+            "Calorie": "252 cal"
+        },
+        {
+            "Name": "Shark",
+            "Calorie": "130 cal"
+        },
+        {
+            "Name": "Smelt",
+            "Calorie": "124 cal"
+        },
+        {
+            "Name": "Sole",
+            "Calorie": "86 cal"
+        },
+        {
+            "Name": "Squid",
+            "Calorie": "92 cal"
+        },
+        {
+            "Name": "Sturgeon",
+            "Calorie": "135 cal"
+        },
+        {
+            "Name": "Sushi",
+            "Calorie": "150 cal"
+        },
+        {
+            "Name": "Swordfish",
+            "Calorie": "172 cal"
+        },
+        {
+            "Name": "Triggerfish",
+            "Calorie": "93 cal"
+        },
+        {
+            "Name": "Trout",
+            "Calorie": "190 cal"
+        },
+        {
+            "Name": "Tuna",
+            "Calorie": "132 cal"
+        },
+        {
+            "Name": "Tuna Salad",
+            "Calorie": "187 cal"
+        },
+        {
+            "Name": "Turbot",
+            "Calorie": "122 cal"
+        },
+        {
+            "Name": "Wahoo",
+            "Calorie": "167 cal"
+        },
+        {
+            "Name": "Whitefish",
+            "Calorie": "172 cal"
+        },
+        {
+            "Name": "Whiting",
+            "Calorie": "116 cal"
+        },
+        {
+            "Name": "Zander",
+            "Calorie": "84 cal"
+        }
+    ]
+}

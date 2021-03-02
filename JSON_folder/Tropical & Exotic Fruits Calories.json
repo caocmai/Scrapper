@@ -1,0 +1,165 @@
+{
+    "FoodType": "Tropical \u0026 Exotic Fruits Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Acerola",
+            "Calorie": "32 cal"
+        },
+        {
+            "Name": "Asian Pear",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Avocado",
+            "Calorie": "160 cal"
+        },
+        {
+            "Name": "Banana",
+            "Calorie": "89 cal"
+        },
+        {
+            "Name": "Breadfruit",
+            "Calorie": "103 cal"
+        },
+        {
+            "Name": "Cantaloupe Melon",
+            "Calorie": "34 cal"
+        },
+        {
+            "Name": "Casaba Melon",
+            "Calorie": "28 cal"
+        },
+        {
+            "Name": "Cherimoya",
+            "Calorie": "75 cal"
+        },
+        {
+            "Name": "Dragon Fruit",
+            "Calorie": "60 cal"
+        },
+        {
+            "Name": "Durian",
+            "Calorie": "147 cal"
+        },
+        {
+            "Name": "Feijoa",
+            "Calorie": "55 cal"
+        },
+        {
+            "Name": "Galia Melon",
+            "Calorie": "23 cal"
+        },
+        {
+            "Name": "Grapefruit",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Guava",
+            "Calorie": "68 cal"
+        },
+        {
+            "Name": "Honeydew",
+            "Calorie": "36 cal"
+        },
+        {
+            "Name": "Jackfruit",
+            "Calorie": "95 cal"
+        },
+        {
+            "Name": "Kiwi",
+            "Calorie": "61 cal"
+        },
+        {
+            "Name": "Kumquat",
+            "Calorie": "71 cal"
+        },
+        {
+            "Name": "Lychee",
+            "Calorie": "66 cal"
+        },
+        {
+            "Name": "Mandarin Oranges",
+            "Calorie": "53 cal"
+        },
+        {
+            "Name": "Mango",
+            "Calorie": "60 cal"
+        },
+        {
+            "Name": "Mangosteen",
+            "Calorie": "73 cal"
+        },
+        {
+            "Name": "Maracuya",
+            "Calorie": "97 cal"
+        },
+        {
+            "Name": "Maraschino Cherries",
+            "Calorie": "165 cal"
+        },
+        {
+            "Name": "Muskmelon",
+            "Calorie": "34 cal"
+        },
+        {
+            "Name": "Noni",
+            "Calorie": "53 cal"
+        },
+        {
+            "Name": "Passion Fruit",
+            "Calorie": "97 cal"
+        },
+        {
+            "Name": "Pineapple",
+            "Calorie": "50 cal"
+        },
+        {
+            "Name": "Pink Grapefruit",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Plantain",
+            "Calorie": "122 cal"
+        },
+        {
+            "Name": "Pomegranate",
+            "Calorie": "83 cal"
+        },
+        {
+            "Name": "Pomelo",
+            "Calorie": "38 cal"
+        },
+        {
+            "Name": "Prickly Pear",
+            "Calorie": "41 cal"
+        },
+        {
+            "Name": "Rambutan",
+            "Calorie": "82 cal"
+        },
+        {
+            "Name": "Sapodilla",
+            "Calorie": "83 cal"
+        },
+        {
+            "Name": "Soursop Fruit",
+            "Calorie": "66 cal"
+        },
+        {
+            "Name": "Star Fruit",
+            "Calorie": "31 cal"
+        },
+        {
+            "Name": "Tamarind",
+            "Calorie": "239 cal"
+        },
+        {
+            "Name": "Watermelon",
+            "Calorie": "30 cal"
+        }
+    ]
+}

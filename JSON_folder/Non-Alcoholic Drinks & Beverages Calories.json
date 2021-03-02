@@ -1,0 +1,213 @@
+{
+    "FoodType": "Non-Alcoholic Drinks \u0026 Beverages Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "ACE Drink",
+            "Calorie": "44 cal"
+        },
+        {
+            "Name": "Apple Spritzer",
+            "Calorie": "24 cal"
+        },
+        {
+            "Name": "Chai",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Chai Tea",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Chocolate Milk",
+            "Calorie": "89 cal"
+        },
+        {
+            "Name": "Chocolate Milkshake",
+            "Calorie": "125 cal"
+        },
+        {
+            "Name": "Club Mate",
+            "Calorie": "30 cal"
+        },
+        {
+            "Name": "Coca Cola",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Coffee",
+            "Calorie": "1 cal"
+        },
+        {
+            "Name": "Coke Zero",
+            "Calorie": "1 cal"
+        },
+        {
+            "Name": "Cola",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Crystal Light",
+            "Calorie": "263 cal"
+        },
+        {
+            "Name": "Diet Coke",
+            "Calorie": "1 cal"
+        },
+        {
+            "Name": "Egg Cream",
+            "Calorie": "94 cal"
+        },
+        {
+            "Name": "Egg Nog",
+            "Calorie": "88 cal"
+        },
+        {
+            "Name": "Elderflower Cordial",
+            "Calorie": "29 cal"
+        },
+        {
+            "Name": "Evian",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Gatorade",
+            "Calorie": "23 cal"
+        },
+        {
+            "Name": "Ginger Tea",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Hawaiian Punch",
+            "Calorie": "31 cal"
+        },
+        {
+            "Name": "Hi-C",
+            "Calorie": "49 cal"
+        },
+        {
+            "Name": "Horchata",
+            "Calorie": "54 cal"
+        },
+        {
+            "Name": "Hot Chocolate",
+            "Calorie": "89 cal"
+        },
+        {
+            "Name": "Ice Tea",
+            "Calorie": "27 cal"
+        },
+        {
+            "Name": "Iced Tea",
+            "Calorie": "27 cal"
+        },
+        {
+            "Name": "Karamalz",
+            "Calorie": "37 cal"
+        },
+        {
+            "Name": "Kombucha",
+            "Calorie": "13 cal"
+        },
+        {
+            "Name": "Kool-Aid",
+            "Calorie": "26 cal"
+        },
+        {
+            "Name": "Lassi",
+            "Calorie": "104 cal"
+        },
+        {
+            "Name": "Latte Macchiato",
+            "Calorie": "57 cal"
+        },
+        {
+            "Name": "Lemonade",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Malt Beer",
+            "Calorie": "37 cal"
+        },
+        {
+            "Name": "Milk",
+            "Calorie": "61 cal"
+        },
+        {
+            "Name": "Milkshake (dry)",
+            "Calorie": "329 cal"
+        },
+        {
+            "Name": "Milo",
+            "Calorie": "409 cal"
+        },
+        {
+            "Name": "Nectar",
+            "Calorie": "53 cal"
+        },
+        {
+            "Name": "Nestea",
+            "Calorie": "36 cal"
+        },
+        {
+            "Name": "Non-alcoholic Beer",
+            "Calorie": "37 cal"
+        },
+        {
+            "Name": "Powerade",
+            "Calorie": "16 cal"
+        },
+        {
+            "Name": "Slurpee",
+            "Calorie": "4 cal"
+        },
+        {
+            "Name": "Slush Puppie",
+            "Calorie": "50 cal"
+        },
+        {
+            "Name": "Smoothie",
+            "Calorie": "37 cal"
+        },
+        {
+            "Name": "Soy Milk",
+            "Calorie": "45 cal"
+        },
+        {
+            "Name": "Strawberry Milkshake",
+            "Calorie": "113 cal"
+        },
+        {
+            "Name": "Tang",
+            "Calorie": "381 cal"
+        },
+        {
+            "Name": "Tap Water",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Tea",
+            "Calorie": "1 cal"
+        },
+        {
+            "Name": "Vanilla Milkshake",
+            "Calorie": "149 cal"
+        },
+        {
+            "Name": "Volvic",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Water",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Yerba Mate",
+            "Calorie": "62 cal"
+        }
+    ]
+}

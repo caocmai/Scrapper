@@ -1,0 +1,197 @@
+{
+    "FoodType": "Sausage Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Andouille",
+            "Calorie": "232 cal"
+        },
+        {
+            "Name": "Bacon",
+            "Calorie": "407 cal"
+        },
+        {
+            "Name": "Black Pudding",
+            "Calorie": "379 cal"
+        },
+        {
+            "Name": "Blood Sausage",
+            "Calorie": "379 cal"
+        },
+        {
+            "Name": "Bockwurst",
+            "Calorie": "301 cal"
+        },
+        {
+            "Name": "Boiled Ham",
+            "Calorie": "104 cal"
+        },
+        {
+            "Name": "Bologna",
+            "Calorie": "247 cal"
+        },
+        {
+            "Name": "Boudin",
+            "Calorie": "194 cal"
+        },
+        {
+            "Name": "Bratwurst",
+            "Calorie": "297 cal"
+        },
+        {
+            "Name": "Brawn",
+            "Calorie": "157 cal"
+        },
+        {
+            "Name": "Breakfast Sausage Links",
+            "Calorie": "339 cal"
+        },
+        {
+            "Name": "Cheese Pastry",
+            "Calorie": "374 cal"
+        },
+        {
+            "Name": "Chicken Breast",
+            "Calorie": "79 cal"
+        },
+        {
+            "Name": "Chicken Meat",
+            "Calorie": "79 cal"
+        },
+        {
+            "Name": "Chicken Salad",
+            "Calorie": "81 cal"
+        },
+        {
+            "Name": "Chorizo",
+            "Calorie": "455 cal"
+        },
+        {
+            "Name": "Cooked Ham",
+            "Calorie": "133 cal"
+        },
+        {
+            "Name": "Corned Beef",
+            "Calorie": "153 cal"
+        },
+        {
+            "Name": "Cumberland Sausage",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Frankfurters",
+            "Calorie": "305 cal"
+        },
+        {
+            "Name": "Garlic Sausage",
+            "Calorie": "169 cal"
+        },
+        {
+            "Name": "Hot Dogs",
+            "Calorie": "278 cal"
+        },
+        {
+            "Name": "Hot Sausage",
+            "Calorie": "259 cal"
+        },
+        {
+            "Name": "Italian Sausage",
+            "Calorie": "149 cal"
+        },
+        {
+            "Name": "Jerky",
+            "Calorie": "410 cal"
+        },
+        {
+            "Name": "Kielbasa",
+            "Calorie": "309 cal"
+        },
+        {
+            "Name": "Knackwurst",
+            "Calorie": "307 cal"
+        },
+        {
+            "Name": "Landjaeger",
+            "Calorie": "352 cal"
+        },
+        {
+            "Name": "Linguica",
+            "Calorie": "282 cal"
+        },
+        {
+            "Name": "Liver Pate",
+            "Calorie": "319 cal"
+        },
+        {
+            "Name": "Liverwurst",
+            "Calorie": "326 cal"
+        },
+        {
+            "Name": "Luncheon Meat",
+            "Calorie": "117 cal"
+        },
+        {
+            "Name": "Mettwurst",
+            "Calorie": "310 cal"
+        },
+        {
+            "Name": "Mortadella",
+            "Calorie": "311 cal"
+        },
+        {
+            "Name": "Pastrami",
+            "Calorie": "133 cal"
+        },
+        {
+            "Name": "Pepperoni",
+            "Calorie": "494 cal"
+        },
+        {
+            "Name": "Polish Sausage",
+            "Calorie": "301 cal"
+        },
+        {
+            "Name": "Pork",
+            "Calorie": "247 cal"
+        },
+        {
+            "Name": "Pork Roll",
+            "Calorie": "302 cal"
+        },
+        {
+            "Name": "Prosciutto",
+            "Calorie": "195 cal"
+        },
+        {
+            "Name": "Ring Bologna",
+            "Calorie": "286 cal"
+        },
+        {
+            "Name": "Salami",
+            "Calorie": "336 cal"
+        },
+        {
+            "Name": "Sausage",
+            "Calorie": "230 cal"
+        },
+        {
+            "Name": "Smoked Sausage",
+            "Calorie": "301 cal"
+        },
+        {
+            "Name": "Souse",
+            "Calorie": "157 cal"
+        },
+        {
+            "Name": "Spam",
+            "Calorie": "315 cal"
+        },
+        {
+            "Name": "Weisswurst",
+            "Calorie": "313 cal"
+        }
+    ]
+}

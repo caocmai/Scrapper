@@ -1,0 +1,181 @@
+{
+    "FoodType": "Pizza Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "BBQ Chicken Pizza",
+            "Calorie": "234 cal"
+        },
+        {
+            "Name": "BBQ Pizza",
+            "Calorie": "224 cal"
+        },
+        {
+            "Name": "Beef Pizza",
+            "Calorie": "304 cal"
+        },
+        {
+            "Name": "Bianca Pizza",
+            "Calorie": "246 cal"
+        },
+        {
+            "Name": "Buffalo Chicken Pizza",
+            "Calorie": "252 cal"
+        },
+        {
+            "Name": "Calabrese Pizza",
+            "Calorie": "235 cal"
+        },
+        {
+            "Name": "Calzone",
+            "Calorie": "231 cal"
+        },
+        {
+            "Name": "Capricciosa Pizza",
+            "Calorie": "260 cal"
+        },
+        {
+            "Name": "Cheese Pizza",
+            "Calorie": "267 cal"
+        },
+        {
+            "Name": "Chicken Pizza",
+            "Calorie": "234 cal"
+        },
+        {
+            "Name": "Deep Dish Pizza",
+            "Calorie": "265 cal"
+        },
+        {
+            "Name": "Dominos Philly Cheese Steak Pizza",
+            "Calorie": "224 cal"
+        },
+        {
+            "Name": "Four Cheese Pizza",
+            "Calorie": "221 cal"
+        },
+        {
+            "Name": "Goat Cheese Pizza",
+            "Calorie": "219 cal"
+        },
+        {
+            "Name": "Grilled Pizza",
+            "Calorie": "226 cal"
+        },
+        {
+            "Name": "Hawaiian Pizza",
+            "Calorie": "115 cal"
+        },
+        {
+            "Name": "Margherita Pizza",
+            "Calorie": "275 cal"
+        },
+        {
+            "Name": "Mozzarella Pizza",
+            "Calorie": "249 cal"
+        },
+        {
+            "Name": "Mushroom Pizza",
+            "Calorie": "212 cal"
+        },
+        {
+            "Name": "Napoli Pizza",
+            "Calorie": "202 cal"
+        },
+        {
+            "Name": "New York Style Pizza",
+            "Calorie": "169 cal"
+        },
+        {
+            "Name": "Pepperoni Pizza",
+            "Calorie": "255 cal"
+        },
+        {
+            "Name": "Pizza Dough",
+            "Calorie": "228 cal"
+        },
+        {
+            "Name": "Pizza Hut Stuffed Crust Pizza",
+            "Calorie": "255 cal"
+        },
+        {
+            "Name": "Pizza Hut Supreme Pizza",
+            "Calorie": "248 cal"
+        },
+        {
+            "Name": "Pizza Rolls",
+            "Calorie": "247 cal"
+        },
+        {
+            "Name": "Quattro Formaggi Pizza",
+            "Calorie": "248 cal"
+        },
+        {
+            "Name": "Red Pepper Pizza",
+            "Calorie": "192 cal"
+        },
+        {
+            "Name": "Salami Pizza",
+            "Calorie": "255 cal"
+        },
+        {
+            "Name": "Sausage Pizza",
+            "Calorie": "246 cal"
+        },
+        {
+            "Name": "Seafood Pizza",
+            "Calorie": "245 cal"
+        },
+        {
+            "Name": "Shrimp Pizza",
+            "Calorie": "209 cal"
+        },
+        {
+            "Name": "Sicilian Pizza",
+            "Calorie": "241 cal"
+        },
+        {
+            "Name": "Spinach Feta Pizza",
+            "Calorie": "242 cal"
+        },
+        {
+            "Name": "Spinach Pizza",
+            "Calorie": "234 cal"
+        },
+        {
+            "Name": "Stuffed Crust Pizza",
+            "Calorie": "255 cal"
+        },
+        {
+            "Name": "Tarte Flambée",
+            "Calorie": "253 cal"
+        },
+        {
+            "Name": "Thin Crust Pizza",
+            "Calorie": "261 cal"
+        },
+        {
+            "Name": "Tuna Pizza",
+            "Calorie": "254 cal"
+        },
+        {
+            "Name": "Vegetable Pizza",
+            "Calorie": "256 cal"
+        },
+        {
+            "Name": "Vegetarian Pizza",
+            "Calorie": "256 cal"
+        },
+        {
+            "Name": "Veggie Pizza",
+            "Calorie": "231 cal"
+        },
+        {
+            "Name": "White Pizza",
+            "Calorie": "246 cal"
+        }
+    ]
+}

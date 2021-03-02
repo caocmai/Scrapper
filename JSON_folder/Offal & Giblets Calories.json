@@ -1,0 +1,141 @@
+{
+    "FoodType": "Offal \u0026 Giblets Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Beef Brain",
+            "Calorie": "196 cal"
+        },
+        {
+            "Name": "Beef Heart",
+            "Calorie": "165 cal"
+        },
+        {
+            "Name": "Beef Kidney",
+            "Calorie": "158 cal"
+        },
+        {
+            "Name": "Beef Liver",
+            "Calorie": "191 cal"
+        },
+        {
+            "Name": "Beef Lung",
+            "Calorie": "120 cal"
+        },
+        {
+            "Name": "Beef Melt",
+            "Calorie": "271 cal"
+        },
+        {
+            "Name": "Beef Tongue",
+            "Calorie": "284 cal"
+        },
+        {
+            "Name": "Calf Brain",
+            "Calorie": "136 cal"
+        },
+        {
+            "Name": "Calf Liver",
+            "Calorie": "192 cal"
+        },
+        {
+            "Name": "Calf Lung",
+            "Calorie": "104 cal"
+        },
+        {
+            "Name": "Calf Melt",
+            "Calorie": "256 cal"
+        },
+        {
+            "Name": "Chicken Giblets",
+            "Calorie": "277 cal"
+        },
+        {
+            "Name": "Chicken Heart",
+            "Calorie": "185 cal"
+        },
+        {
+            "Name": "Chicken Liver",
+            "Calorie": "172 cal"
+        },
+        {
+            "Name": "Chicken Stomach",
+            "Calorie": "148 cal"
+        },
+        {
+            "Name": "Chitterlings",
+            "Calorie": "233 cal"
+        },
+        {
+            "Name": "Duck Liver",
+            "Calorie": "136 cal"
+        },
+        {
+            "Name": "Goose Liver",
+            "Calorie": "133 cal"
+        },
+        {
+            "Name": "Hog Maws",
+            "Calorie": "157 cal"
+        },
+        {
+            "Name": "Pig Brain",
+            "Calorie": "138 cal"
+        },
+        {
+            "Name": "Pig Heart",
+            "Calorie": "148 cal"
+        },
+        {
+            "Name": "Pig Kidney",
+            "Calorie": "151 cal"
+        },
+        {
+            "Name": "Pig Lung",
+            "Calorie": "99 cal"
+        },
+        {
+            "Name": "Pork Liver",
+            "Calorie": "165 cal"
+        },
+        {
+            "Name": "Pork Melt",
+            "Calorie": "219 cal"
+        },
+        {
+            "Name": "Pork Tongue",
+            "Calorie": "271 cal"
+        },
+        {
+            "Name": "Turkey Giblets",
+            "Calorie": "173 cal"
+        },
+        {
+            "Name": "Turkey Heart",
+            "Calorie": "174 cal"
+        },
+        {
+            "Name": "Turkey Liver",
+            "Calorie": "189 cal"
+        },
+        {
+            "Name": "Turkey Stomach",
+            "Calorie": "148 cal"
+        },
+        {
+            "Name": "Veal Heart",
+            "Calorie": "186 cal"
+        },
+        {
+            "Name": "Veal Kidney",
+            "Calorie": "163 cal"
+        },
+        {
+            "Name": "Veal Tongue",
+            "Calorie": "202 cal"
+        }
+    ]
+}

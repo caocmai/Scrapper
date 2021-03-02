@@ -1,0 +1,349 @@
+{
+    "FoodType": "Beer Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Ale",
+            "Calorie": "35 cal"
+        },
+        {
+            "Name": "Altbier",
+            "Calorie": "43 cal"
+        },
+        {
+            "Name": "Bass",
+            "Calorie": "45 cal"
+        },
+        {
+            "Name": "Beck’s",
+            "Calorie": "39 cal"
+        },
+        {
+            "Name": "Beer",
+            "Calorie": "43 cal"
+        },
+        {
+            "Name": "Blue Moon",
+            "Calorie": "48 cal"
+        },
+        {
+            "Name": "Bock Beer",
+            "Calorie": "50 cal"
+        },
+        {
+            "Name": "Buckler (N.A.)",
+            "Calorie": "21 cal"
+        },
+        {
+            "Name": "Bud Ice",
+            "Calorie": "35 cal"
+        },
+        {
+            "Name": "Bud Light",
+            "Calorie": "29 cal"
+        },
+        {
+            "Name": "Bud Light Chelada",
+            "Calorie": "43 cal"
+        },
+        {
+            "Name": "Bud Light Lime",
+            "Calorie": "34 cal"
+        },
+        {
+            "Name": "Bud Select",
+            "Calorie": "28 cal"
+        },
+        {
+            "Name": "Bud Select 55",
+            "Calorie": "15 cal"
+        },
+        {
+            "Name": "Budweiser",
+            "Calorie": "41 cal"
+        },
+        {
+            "Name": "Budweiser Chelada",
+            "Calorie": "52 cal"
+        },
+        {
+            "Name": "Busch",
+            "Calorie": "37 cal"
+        },
+        {
+            "Name": "Busch Light",
+            "Calorie": "27 cal"
+        },
+        {
+            "Name": "Busch N.A.",
+            "Calorie": "17 cal"
+        },
+        {
+            "Name": "Carlsberg",
+            "Calorie": "32 cal"
+        },
+        {
+            "Name": "Clausthaler (N.A.)",
+            "Calorie": "26 cal"
+        },
+        {
+            "Name": "Colt 45",
+            "Calorie": "44 cal"
+        },
+        {
+            "Name": "Coors",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Coors Light",
+            "Calorie": "29 cal"
+        },
+        {
+            "Name": "Coors N.A.",
+            "Calorie": "18 cal"
+        },
+        {
+            "Name": "Corona",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Dark Beer",
+            "Calorie": "46 cal"
+        },
+        {
+            "Name": "Genesee Cream Ale",
+            "Calorie": "46 cal"
+        },
+        {
+            "Name": "Ginger Beer",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Guinness",
+            "Calorie": "35 cal"
+        },
+        {
+            "Name": "Heineken",
+            "Calorie": "35 cal"
+        },
+        {
+            "Name": "Honey Brown",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Hurricane High Gravity",
+            "Calorie": "39 cal"
+        },
+        {
+            "Name": "IPA",
+            "Calorie": "51 cal"
+        },
+        {
+            "Name": "Keystone Ice",
+            "Calorie": "40 cal"
+        },
+        {
+            "Name": "Keystone Light",
+            "Calorie": "29 cal"
+        },
+        {
+            "Name": "Koelsch",
+            "Calorie": "43 cal"
+        },
+        {
+            "Name": "Labatt",
+            "Calorie": "43 cal"
+        },
+        {
+            "Name": "Lager Beer",
+            "Calorie": "43 cal"
+        },
+        {
+            "Name": "Land Shark",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Light Beer",
+            "Calorie": "29 cal"
+        },
+        {
+            "Name": "Lowenbrau",
+            "Calorie": "45 cal"
+        },
+        {
+            "Name": "Malt Beer",
+            "Calorie": "37 cal"
+        },
+        {
+            "Name": "Michelob Amber Bock",
+            "Calorie": "47 cal"
+        },
+        {
+            "Name": "Michelob Lager",
+            "Calorie": "44 cal"
+        },
+        {
+            "Name": "Michelob Light",
+            "Calorie": "32 cal"
+        },
+        {
+            "Name": "Michelob Ultra",
+            "Calorie": "27 cal"
+        },
+        {
+            "Name": "Michelob Ultra Amber",
+            "Calorie": "26 cal"
+        },
+        {
+            "Name": "Michelob Ultra Lime Cactus",
+            "Calorie": "27 cal"
+        },
+        {
+            "Name": "Miller Chill",
+            "Calorie": "31 cal"
+        },
+        {
+            "Name": "Miller Genuine Draft",
+            "Calorie": "40 cal"
+        },
+        {
+            "Name": "Miller High Life",
+            "Calorie": "40 cal"
+        },
+        {
+            "Name": "Miller High Life Light",
+            "Calorie": "31 cal"
+        },
+        {
+            "Name": "Miller Lite",
+            "Calorie": "27 cal"
+        },
+        {
+            "Name": "Milwaukee’s Best",
+            "Calorie": "36 cal"
+        },
+        {
+            "Name": "Milwaukee’s Best Light",
+            "Calorie": "28 cal"
+        },
+        {
+            "Name": "Molson",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Natural Ice",
+            "Calorie": "44 cal"
+        },
+        {
+            "Name": "Natural Light",
+            "Calorie": "27 cal"
+        },
+        {
+            "Name": "Newcastle",
+            "Calorie": "39 cal"
+        },
+        {
+            "Name": "Non-alcoholic Beer",
+            "Calorie": "37 cal"
+        },
+        {
+            "Name": "O’Doul’s (N.A.)",
+            "Calorie": "19 cal"
+        },
+        {
+            "Name": "Old Milwaukee",
+            "Calorie": "41 cal"
+        },
+        {
+            "Name": "Old Milwaukee N.A.",
+            "Calorie": "16 cal"
+        },
+        {
+            "Name": "Olde English",
+            "Calorie": "45 cal"
+        },
+        {
+            "Name": "Pabst Blue Ribbon",
+            "Calorie": "41 cal"
+        },
+        {
+            "Name": "Pale Ale",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Pilsner",
+            "Calorie": "43 cal"
+        },
+        {
+            "Name": "Porter",
+            "Calorie": "54 cal"
+        },
+        {
+            "Name": "Redbridge (Gluten-free)",
+            "Calorie": "45 cal"
+        },
+        {
+            "Name": "Rolling Rock",
+            "Calorie": "37 cal"
+        },
+        {
+            "Name": "Rolling Rock Light",
+            "Calorie": "30 cal"
+        },
+        {
+            "Name": "Root Beer",
+            "Calorie": "41 cal"
+        },
+        {
+            "Name": "Samuel Adams",
+            "Calorie": "45 cal"
+        },
+        {
+            "Name": "Shock Top",
+            "Calorie": "47 cal"
+        },
+        {
+            "Name": "Shock Top Raspberry Wheat",
+            "Calorie": "50 cal"
+        },
+        {
+            "Name": "Sierra Nevada Strong",
+            "Calorie": "62 cal"
+        },
+        {
+            "Name": "Sparks",
+            "Calorie": "74 cal"
+        },
+        {
+            "Name": "St. Pauli Girl",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Steel Reserve",
+            "Calorie": "63 cal"
+        },
+        {
+            "Name": "Stout",
+            "Calorie": "51 cal"
+        },
+        {
+            "Name": "Stout Beer",
+            "Calorie": "51 cal"
+        },
+        {
+            "Name": "Strong Beer",
+            "Calorie": "55 cal"
+        },
+        {
+            "Name": "Tilt",
+            "Calorie": "64 cal"
+        },
+        {
+            "Name": "Wheat Beer",
+            "Calorie": "45 cal"
+        }
+    ]
+}

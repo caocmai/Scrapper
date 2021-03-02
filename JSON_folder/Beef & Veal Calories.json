@@ -1,0 +1,165 @@
+{
+    "FoodType": "Beef \u0026 Veal Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Beef",
+            "Calorie": "171 cal"
+        },
+        {
+            "Name": "Beef Brisket",
+            "Calorie": "137 cal"
+        },
+        {
+            "Name": "Beef Fillet",
+            "Calorie": "189 cal"
+        },
+        {
+            "Name": "Beef Goulash",
+            "Calorie": "123 cal"
+        },
+        {
+            "Name": "Beef Minute Steak",
+            "Calorie": "133 cal"
+        },
+        {
+            "Name": "Beef Neck",
+            "Calorie": "213 cal"
+        },
+        {
+            "Name": "Beef Pancreas",
+            "Calorie": "271 cal"
+        },
+        {
+            "Name": "Beef Patty",
+            "Calorie": "247 cal"
+        },
+        {
+            "Name": "Beef Prime Rib",
+            "Calorie": "404 cal"
+        },
+        {
+            "Name": "Beef Ribs",
+            "Calorie": "196 cal"
+        },
+        {
+            "Name": "Beef Sirloin",
+            "Calorie": "182 cal"
+        },
+        {
+            "Name": "Beef Suet",
+            "Calorie": "854 cal"
+        },
+        {
+            "Name": "Beef Tallow",
+            "Calorie": "902 cal"
+        },
+        {
+            "Name": "Beef Thymus",
+            "Calorie": "319 cal"
+        },
+        {
+            "Name": "Beef Tripe",
+            "Calorie": "94 cal"
+        },
+        {
+            "Name": "Chuck Roast",
+            "Calorie": "141 cal"
+        },
+        {
+            "Name": "Chuck Steak",
+            "Calorie": "137 cal"
+        },
+        {
+            "Name": "Filet Mignon",
+            "Calorie": "207 cal"
+        },
+        {
+            "Name": "Flank Steak",
+            "Calorie": "194 cal"
+        },
+        {
+            "Name": "Ground Beef",
+            "Calorie": "241 cal"
+        },
+        {
+            "Name": "Ground Chuck",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Ground Round",
+            "Calorie": "212 cal"
+        },
+        {
+            "Name": "Minced Veal",
+            "Calorie": "143 cal"
+        },
+        {
+            "Name": "Porterhouse Steak",
+            "Calorie": "247 cal"
+        },
+        {
+            "Name": "Rib Eye Steak",
+            "Calorie": "217 cal"
+        },
+        {
+            "Name": "Roast Beef",
+            "Calorie": "187 cal"
+        },
+        {
+            "Name": "Rump Steak",
+            "Calorie": "171 cal"
+        },
+        {
+            "Name": "Skirt Steak",
+            "Calorie": "205 cal"
+        },
+        {
+            "Name": "Stew Beef",
+            "Calorie": "191 cal"
+        },
+        {
+            "Name": "Strip Steak",
+            "Calorie": "117 cal"
+        },
+        {
+            "Name": "T-Bone-Steak",
+            "Calorie": "221 cal"
+        },
+        {
+            "Name": "Veal",
+            "Calorie": "282 cal"
+        },
+        {
+            "Name": "Veal Breast",
+            "Calorie": "282 cal"
+        },
+        {
+            "Name": "Veal Leg",
+            "Calorie": "211 cal"
+        },
+        {
+            "Name": "Veal Roast Beef",
+            "Calorie": "175 cal"
+        },
+        {
+            "Name": "Veal Shank",
+            "Calorie": "177 cal"
+        },
+        {
+            "Name": "Veal Shoulder",
+            "Calorie": "183 cal"
+        },
+        {
+            "Name": "Veal Sirloin",
+            "Calorie": "204 cal"
+        },
+        {
+            "Name": "Veal Tenderloin",
+            "Calorie": "217 cal"
+        }
+    ]
+}

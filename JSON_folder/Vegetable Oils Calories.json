@@ -1,0 +1,141 @@
+{
+    "FoodType": "Vegetable Oils Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Almond Oil",
+            "Calorie": "882 cal"
+        },
+        {
+            "Name": "Apricot Kernel Oil",
+            "Calorie": "889 cal"
+        },
+        {
+            "Name": "Argan Oil",
+            "Calorie": "896 cal"
+        },
+        {
+            "Name": "Avocado Oil",
+            "Calorie": "857 cal"
+        },
+        {
+            "Name": "Babassu Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Canola Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Coconut Oil",
+            "Calorie": "857 cal"
+        },
+        {
+            "Name": "Corn Oil",
+            "Calorie": "800 cal"
+        },
+        {
+            "Name": "Cottonseed Oil",
+            "Calorie": "882 cal"
+        },
+        {
+            "Name": "Flaxseed Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Grape Seed Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Hazelnut Oil",
+            "Calorie": "889 cal"
+        },
+        {
+            "Name": "Linseed Oil",
+            "Calorie": "837 cal"
+        },
+        {
+            "Name": "Menhaden Oil",
+            "Calorie": "911 cal"
+        },
+        {
+            "Name": "Mustard Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Oat Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Olive Oil",
+            "Calorie": "800 cal"
+        },
+        {
+            "Name": "Palm Kernel Oil",
+            "Calorie": "882 cal"
+        },
+        {
+            "Name": "Palm Oil",
+            "Calorie": "882 cal"
+        },
+        {
+            "Name": "Peanut Oil",
+            "Calorie": "857 cal"
+        },
+        {
+            "Name": "Poppy Seed Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Pumpkin Seed Oil",
+            "Calorie": "880 cal"
+        },
+        {
+            "Name": "Rice Bran Oil",
+            "Calorie": "889 cal"
+        },
+        {
+            "Name": "Safflower Oil",
+            "Calorie": "857 cal"
+        },
+        {
+            "Name": "Salmon Oil",
+            "Calorie": "911 cal"
+        },
+        {
+            "Name": "Sesame Oil",
+            "Calorie": "889 cal"
+        },
+        {
+            "Name": "Shea Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Soy Oil",
+            "Calorie": "882 cal"
+        },
+        {
+            "Name": "Sunflower Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Tomato Seed Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Vegetable Oil",
+            "Calorie": "800 cal"
+        },
+        {
+            "Name": "Walnut Oil",
+            "Calorie": "889 cal"
+        },
+        {
+            "Name": "Wheat Germ Oil",
+            "Calorie": "929 cal"
+        }
+    ]
+}

@@ -1,0 +1,389 @@
+{
+    "FoodType": "Baking Ingredients Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Agar-Agar",
+            "Calorie": "26 cal"
+        },
+        {
+            "Name": "Agave Syrup",
+            "Calorie": "310 cal"
+        },
+        {
+            "Name": "All Purpose Flour",
+            "Calorie": "364 cal"
+        },
+        {
+            "Name": "Almond Extract",
+            "Calorie": "258 cal"
+        },
+        {
+            "Name": "Almonds",
+            "Calorie": "529 cal"
+        },
+        {
+            "Name": "Apple Pie Filling",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Baking Powder",
+            "Calorie": "53 cal"
+        },
+        {
+            "Name": "Baking Soda",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Bread Flour",
+            "Calorie": "361 cal"
+        },
+        {
+            "Name": "Brittle",
+            "Calorie": "592 cal"
+        },
+        {
+            "Name": "Brown Sugar",
+            "Calorie": "395 cal"
+        },
+        {
+            "Name": "Buttermilk",
+            "Calorie": "62 cal"
+        },
+        {
+            "Name": "Butterscotch Chips",
+            "Calorie": "539 cal"
+        },
+        {
+            "Name": "Cake Flour",
+            "Calorie": "362 cal"
+        },
+        {
+            "Name": "Candied Orange Peel",
+            "Calorie": "97 cal"
+        },
+        {
+            "Name": "Cane Sugar",
+            "Calorie": "387 cal"
+        },
+        {
+            "Name": "Chocolate Chips",
+            "Calorie": "467 cal"
+        },
+        {
+            "Name": "Chocolate Sprinkles",
+            "Calorie": "500 cal"
+        },
+        {
+            "Name": "Cocoa Powder",
+            "Calorie": "228 cal"
+        },
+        {
+            "Name": "Coconut Flakes",
+            "Calorie": "456 cal"
+        },
+        {
+            "Name": "Coconut Milk",
+            "Calorie": "50 cal"
+        },
+        {
+            "Name": "Corn Flour",
+            "Calorie": "361 cal"
+        },
+        {
+            "Name": "Corn Syrup",
+            "Calorie": "281 cal"
+        },
+        {
+            "Name": "Cornmeal",
+            "Calorie": "362 cal"
+        },
+        {
+            "Name": "Cornstarch",
+            "Calorie": "381 cal"
+        },
+        {
+            "Name": "Couverture",
+            "Calorie": "600 cal"
+        },
+        {
+            "Name": "Cream Cheese",
+            "Calorie": "54 cal"
+        },
+        {
+            "Name": "Cream of Tartar",
+            "Calorie": "258 cal"
+        },
+        {
+            "Name": "Crystallized Ginger",
+            "Calorie": "335 cal"
+        },
+        {
+            "Name": "Custard Powder",
+            "Calorie": "337 cal"
+        },
+        {
+            "Name": "Dark Rum",
+            "Calorie": "216 cal"
+        },
+        {
+            "Name": "Dextrose",
+            "Calorie": "375 cal"
+        },
+        {
+            "Name": "Dried Apricots",
+            "Calorie": "241 cal"
+        },
+        {
+            "Name": "Dried Cranberries",
+            "Calorie": "308 cal"
+        },
+        {
+            "Name": "Dried Figs",
+            "Calorie": "249 cal"
+        },
+        {
+            "Name": "Dried Prunes",
+            "Calorie": "107 cal"
+        },
+        {
+            "Name": "Duck Egg",
+            "Calorie": "185 cal"
+        },
+        {
+            "Name": "Egg",
+            "Calorie": "97 cal"
+        },
+        {
+            "Name": "Egg Nog",
+            "Calorie": "88 cal"
+        },
+        {
+            "Name": "Egg White",
+            "Calorie": "13 cal"
+        },
+        {
+            "Name": "Egg Yolk",
+            "Calorie": "322 cal"
+        },
+        {
+            "Name": "Evaporated Milk",
+            "Calorie": "134 cal"
+        },
+        {
+            "Name": "Flour",
+            "Calorie": "364 cal"
+        },
+        {
+            "Name": "Fructose",
+            "Calorie": "368 cal"
+        },
+        {
+            "Name": "Gelatin",
+            "Calorie": "335 cal"
+        },
+        {
+            "Name": "Glucose",
+            "Calorie": "286 cal"
+        },
+        {
+            "Name": "Glucose Syrup",
+            "Calorie": "387 cal"
+        },
+        {
+            "Name": "Granulated Sugar",
+            "Calorie": "387 cal"
+        },
+        {
+            "Name": "Ground Cinnamon",
+            "Calorie": "247 cal"
+        },
+        {
+            "Name": "Hazelnuts",
+            "Calorie": "628 cal"
+        },
+        {
+            "Name": "Heavy Cream",
+            "Calorie": "345 cal"
+        },
+        {
+            "Name": "Jaggery",
+            "Calorie": "383 cal"
+        },
+        {
+            "Name": "Lemon Pie Filling",
+            "Calorie": "143 cal"
+        },
+        {
+            "Name": "Malt Powder",
+            "Calorie": "361 cal"
+        },
+        {
+            "Name": "Malted Milk",
+            "Calorie": "405 cal"
+        },
+        {
+            "Name": "Maltitol",
+            "Calorie": "210 cal"
+        },
+        {
+            "Name": "Maltodextrin",
+            "Calorie": "375 cal"
+        },
+        {
+            "Name": "Maltose",
+            "Calorie": "344 cal"
+        },
+        {
+            "Name": "Maple Syrup",
+            "Calorie": "270 cal"
+        },
+        {
+            "Name": "Molasses",
+            "Calorie": "290 cal"
+        },
+        {
+            "Name": "Nonpareils",
+            "Calorie": "475 cal"
+        },
+        {
+            "Name": "Peppermint Extract",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Poppy Seeds",
+            "Calorie": "525 cal"
+        },
+        {
+            "Name": "Powdered Milk",
+            "Calorie": "496 cal"
+        },
+        {
+            "Name": "Powdered Sugar",
+            "Calorie": "389 cal"
+        },
+        {
+            "Name": "Protein Powder",
+            "Calorie": "411 cal"
+        },
+        {
+            "Name": "Raisins",
+            "Calorie": "474 cal"
+        },
+        {
+            "Name": "Rice Milk",
+            "Calorie": "49 cal"
+        },
+        {
+            "Name": "Rock Sugar",
+            "Calorie": "625 cal"
+        },
+        {
+            "Name": "Rolled Oats",
+            "Calorie": "384 cal"
+        },
+        {
+            "Name": "Rum",
+            "Calorie": "246 cal"
+        },
+        {
+            "Name": "Semolina Flour",
+            "Calorie": "350 cal"
+        },
+        {
+            "Name": "Sesame Seeds",
+            "Calorie": "573 cal"
+        },
+        {
+            "Name": "Shredded Coconut",
+            "Calorie": "501 cal"
+        },
+        {
+            "Name": "Sorbitol",
+            "Calorie": "375 cal"
+        },
+        {
+            "Name": "Soy Milk",
+            "Calorie": "41 cal"
+        },
+        {
+            "Name": "Soy Protein Powder",
+            "Calorie": "338 cal"
+        },
+        {
+            "Name": "Sprinkles",
+            "Calorie": "500 cal"
+        },
+        {
+            "Name": "Starch",
+            "Calorie": "381 cal"
+        },
+        {
+            "Name": "Strawberry Preserves",
+            "Calorie": "278 cal"
+        },
+        {
+            "Name": "Sucrose",
+            "Calorie": "387 cal"
+        },
+        {
+            "Name": "Sugar",
+            "Calorie": "405 cal"
+        },
+        {
+            "Name": "Sunflower Seeds",
+            "Calorie": "117 cal"
+        },
+        {
+            "Name": "Sweetened Condensed Milk",
+            "Calorie": "321 cal"
+        },
+        {
+            "Name": "Sweetener",
+            "Calorie": "360 cal"
+        },
+        {
+            "Name": "Unsalted Butter",
+            "Calorie": "717 cal"
+        },
+        {
+            "Name": "Vanilla Extract",
+            "Calorie": "288 cal"
+        },
+        {
+            "Name": "Vanilla Sugar",
+            "Calorie": "357 cal"
+        },
+        {
+            "Name": "Vegetable Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Vegetable Shortening",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Walnuts",
+            "Calorie": "131 cal"
+        },
+        {
+            "Name": "Whole Milk",
+            "Calorie": "61 cal"
+        },
+        {
+            "Name": "Whole Wheat Flour",
+            "Calorie": "340 cal"
+        },
+        {
+            "Name": "Xylitol",
+            "Calorie": "240 cal"
+        },
+        {
+            "Name": "Yeast (dry)",
+            "Calorie": "325 cal"
+        }
+    ]
+}

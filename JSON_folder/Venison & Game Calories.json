@@ -1,0 +1,153 @@
+{
+    "FoodType": "Venison \u0026 Game Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Alligator",
+            "Calorie": "104 cal"
+        },
+        {
+            "Name": "Alligator Meat",
+            "Calorie": "232 cal"
+        },
+        {
+            "Name": "Antelope Meat",
+            "Calorie": "150 cal"
+        },
+        {
+            "Name": "Bear Meat",
+            "Calorie": "259 cal"
+        },
+        {
+            "Name": "Beaver Meat",
+            "Calorie": "212 cal"
+        },
+        {
+            "Name": "Bison",
+            "Calorie": "171 cal"
+        },
+        {
+            "Name": "Bison Meat",
+            "Calorie": "171 cal"
+        },
+        {
+            "Name": "Bison Sirloin",
+            "Calorie": "171 cal"
+        },
+        {
+            "Name": "Buffalo",
+            "Calorie": "131 cal"
+        },
+        {
+            "Name": "Buffalo Meat",
+            "Calorie": "131 cal"
+        },
+        {
+            "Name": "Caribou",
+            "Calorie": "159 cal"
+        },
+        {
+            "Name": "Goose",
+            "Calorie": "238 cal"
+        },
+        {
+            "Name": "Goose Meat",
+            "Calorie": "238 cal"
+        },
+        {
+            "Name": "Lamb",
+            "Calorie": "202 cal"
+        },
+        {
+            "Name": "Lamb Meat",
+            "Calorie": "202 cal"
+        },
+        {
+            "Name": "Mallard Duck Meat",
+            "Calorie": "211 cal"
+        },
+        {
+            "Name": "Mallard Meat",
+            "Calorie": "211 cal"
+        },
+        {
+            "Name": "Moose",
+            "Calorie": "134 cal"
+        },
+        {
+            "Name": "Moose Meat",
+            "Calorie": "134 cal"
+        },
+        {
+            "Name": "Mutton",
+            "Calorie": "234 cal"
+        },
+        {
+            "Name": "Mutton Meat",
+            "Calorie": "234 cal"
+        },
+        {
+            "Name": "Ostrich",
+            "Calorie": "175 cal"
+        },
+        {
+            "Name": "Ostrich Meat",
+            "Calorie": "175 cal"
+        },
+        {
+            "Name": "Pheasant",
+            "Calorie": "239 cal"
+        },
+        {
+            "Name": "Pheasant Meat",
+            "Calorie": "239 cal"
+        },
+        {
+            "Name": "Rabbit",
+            "Calorie": "197 cal"
+        },
+        {
+            "Name": "Racoon",
+            "Calorie": "255 cal"
+        },
+        {
+            "Name": "Racoon Meat",
+            "Calorie": "255 cal"
+        },
+        {
+            "Name": "Reindeer",
+            "Calorie": "200 cal"
+        },
+        {
+            "Name": "Reindeer Meat",
+            "Calorie": "200 cal"
+        },
+        {
+            "Name": "Squirrel",
+            "Calorie": "173 cal"
+        },
+        {
+            "Name": "Squirrel Meat",
+            "Calorie": "173 cal"
+        },
+        {
+            "Name": "Venison",
+            "Calorie": "164 cal"
+        },
+        {
+            "Name": "Venison Sirloin",
+            "Calorie": "158 cal"
+        },
+        {
+            "Name": "Wild Boar",
+            "Calorie": "160 cal"
+        },
+        {
+            "Name": "Wild Boar Meat",
+            "Calorie": "160 cal"
+        }
+    ]
+}

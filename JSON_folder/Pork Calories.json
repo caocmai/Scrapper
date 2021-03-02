@@ -1,0 +1,165 @@
+{
+    "FoodType": "Pork Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Bacon",
+            "Calorie": "407 cal"
+        },
+        {
+            "Name": "Brawn",
+            "Calorie": "309 cal"
+        },
+        {
+            "Name": "Canadian-Style Bacon",
+            "Calorie": "107 cal"
+        },
+        {
+            "Name": "Chitterlings",
+            "Calorie": "233 cal"
+        },
+        {
+            "Name": "Ground Pork",
+            "Calorie": "263 cal"
+        },
+        {
+            "Name": "Hog Maws",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Lard",
+            "Calorie": "898 cal"
+        },
+        {
+            "Name": "Meatloaf",
+            "Calorie": "89 cal"
+        },
+        {
+            "Name": "Parma Ham",
+            "Calorie": "261 cal"
+        },
+        {
+            "Name": "Pig Ear",
+            "Calorie": "166 cal"
+        },
+        {
+            "Name": "Pig Fat",
+            "Calorie": "638 cal"
+        },
+        {
+            "Name": "Pig’s Tail",
+            "Calorie": "396 cal"
+        },
+        {
+            "Name": "Pig’s Trotter",
+            "Calorie": "243 cal"
+        },
+        {
+            "Name": "Pork Bacon",
+            "Calorie": "407 cal"
+        },
+        {
+            "Name": "Pork Belly",
+            "Calorie": "518 cal"
+        },
+        {
+            "Name": "Pork Blade Steak",
+            "Calorie": "232 cal"
+        },
+        {
+            "Name": "Pork Chop",
+            "Calorie": "123 cal"
+        },
+        {
+            "Name": "Pork Country-Style Ribs",
+            "Calorie": "133 cal"
+        },
+        {
+            "Name": "Pork Crown Roast",
+            "Calorie": "212 cal"
+        },
+        {
+            "Name": "Pork Cutlet",
+            "Calorie": "131 cal"
+        },
+        {
+            "Name": "Pork Cutlets",
+            "Calorie": "131 cal"
+        },
+        {
+            "Name": "Pork Leg",
+            "Calorie": "201 cal"
+        },
+        {
+            "Name": "Pork Loin",
+            "Calorie": "143 cal"
+        },
+        {
+            "Name": "Pork Meatloaf",
+            "Calorie": "243 cal"
+        },
+        {
+            "Name": "Pork Ragout",
+            "Calorie": "73 cal"
+        },
+        {
+            "Name": "Pork Rib Roast",
+            "Calorie": "159 cal"
+        },
+        {
+            "Name": "Pork Ribs",
+            "Calorie": "292 cal"
+        },
+        {
+            "Name": "Pork Roast",
+            "Calorie": "194 cal"
+        },
+        {
+            "Name": "Pork Sausage",
+            "Calorie": "339 cal"
+        },
+        {
+            "Name": "Pork Shank",
+            "Calorie": "172 cal"
+        },
+        {
+            "Name": "Pork Shoulder",
+            "Calorie": "269 cal"
+        },
+        {
+            "Name": "Pork Shoulder Blade",
+            "Calorie": "232 cal"
+        },
+        {
+            "Name": "Pork Stomach",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Rack of Pork",
+            "Calorie": "241 cal"
+        },
+        {
+            "Name": "Salt Meat",
+            "Calorie": "286 cal"
+        },
+        {
+            "Name": "Salt Pork",
+            "Calorie": "286 cal"
+        },
+        {
+            "Name": "Serrano Ham",
+            "Calorie": "339 cal"
+        },
+        {
+            "Name": "Spare Ribs",
+            "Calorie": "396 cal"
+        },
+        {
+            "Name": "Spareribs",
+            "Calorie": "238 cal"
+        }
+    ]
+}

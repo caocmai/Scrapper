@@ -1,0 +1,141 @@
+{
+    "FoodType": "Poultry \u0026 Fowl Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Capon",
+            "Calorie": "229 cal"
+        },
+        {
+            "Name": "Chicken",
+            "Calorie": "219 cal"
+        },
+        {
+            "Name": "Chicken Breast",
+            "Calorie": "172 cal"
+        },
+        {
+            "Name": "Chicken Drumsticks",
+            "Calorie": "185 cal"
+        },
+        {
+            "Name": "Chicken Gizzards",
+            "Calorie": "154 cal"
+        },
+        {
+            "Name": "Chicken Legs",
+            "Calorie": "174 cal"
+        },
+        {
+            "Name": "Chicken Thighs",
+            "Calorie": "229 cal"
+        },
+        {
+            "Name": "Chicken Wings",
+            "Calorie": "266 cal"
+        },
+        {
+            "Name": "Cornish Hens",
+            "Calorie": "259 cal"
+        },
+        {
+            "Name": "Dove",
+            "Calorie": "213 cal"
+        },
+        {
+            "Name": "Duck",
+            "Calorie": "337 cal"
+        },
+        {
+            "Name": "Duck Breast",
+            "Calorie": "201 cal"
+        },
+        {
+            "Name": "Emu",
+            "Calorie": "152 cal"
+        },
+        {
+            "Name": "Goose",
+            "Calorie": "305 cal"
+        },
+        {
+            "Name": "Guinea-Fowl",
+            "Calorie": "158 cal"
+        },
+        {
+            "Name": "Ostrich",
+            "Calorie": "145 cal"
+        },
+        {
+            "Name": "Ostrich Meat",
+            "Calorie": "145 cal"
+        },
+        {
+            "Name": "Pheasant",
+            "Calorie": "239 cal"
+        },
+        {
+            "Name": "Pheasant Breast",
+            "Calorie": "133 cal"
+        },
+        {
+            "Name": "Pheasant Leg",
+            "Calorie": "239 cal"
+        },
+        {
+            "Name": "Pigeon",
+            "Calorie": "142 cal"
+        },
+        {
+            "Name": "Poularde",
+            "Calorie": "200 cal"
+        },
+        {
+            "Name": "Quail",
+            "Calorie": "227 cal"
+        },
+        {
+            "Name": "Quail Breast",
+            "Calorie": "123 cal"
+        },
+        {
+            "Name": "Rhea",
+            "Calorie": "160 cal"
+        },
+        {
+            "Name": "Turkey",
+            "Calorie": "189 cal"
+        },
+        {
+            "Name": "Turkey Breast",
+            "Calorie": "135 cal"
+        },
+        {
+            "Name": "Turkey Cutlet",
+            "Calorie": "189 cal"
+        },
+        {
+            "Name": "Turkey Drumsticks",
+            "Calorie": "208 cal"
+        },
+        {
+            "Name": "Turkey Legs",
+            "Calorie": "208 cal"
+        },
+        {
+            "Name": "Turkey Steak",
+            "Calorie": "189 cal"
+        },
+        {
+            "Name": "Turkey Wings",
+            "Calorie": "221 cal"
+        },
+        {
+            "Name": "Wild Duck",
+            "Calorie": "211 cal"
+        }
+    ]
+}

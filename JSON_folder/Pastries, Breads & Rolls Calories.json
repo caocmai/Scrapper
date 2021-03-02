@@ -1,0 +1,321 @@
+{
+    "FoodType": "Pastries, Breads \u0026 Rolls Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Apple Pie",
+            "Calorie": "237 cal"
+        },
+        {
+            "Name": "Apple Turnover",
+            "Calorie": "348 cal"
+        },
+        {
+            "Name": "Bagel",
+            "Calorie": "257 cal"
+        },
+        {
+            "Name": "Baguette",
+            "Calorie": "274 cal"
+        },
+        {
+            "Name": "Banana Bread",
+            "Calorie": "326 cal"
+        },
+        {
+            "Name": "Banana Nut Bread",
+            "Calorie": "326 cal"
+        },
+        {
+            "Name": "Beer Bread",
+            "Calorie": "227 cal"
+        },
+        {
+            "Name": "Biscuit",
+            "Calorie": "269 cal"
+        },
+        {
+            "Name": "Black Bread",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Bran Muffins",
+            "Calorie": "270 cal"
+        },
+        {
+            "Name": "Bread Pudding",
+            "Calorie": "153 cal"
+        },
+        {
+            "Name": "Breadsticks",
+            "Calorie": "400 cal"
+        },
+        {
+            "Name": "Brioche",
+            "Calorie": "346 cal"
+        },
+        {
+            "Name": "Brown Bread",
+            "Calorie": "246 cal"
+        },
+        {
+            "Name": "Brownies",
+            "Calorie": "405 cal"
+        },
+        {
+            "Name": "Bun",
+            "Calorie": "316 cal"
+        },
+        {
+            "Name": "Cannoli",
+            "Calorie": "254 cal"
+        },
+        {
+            "Name": "Caramel Cake",
+            "Calorie": "385 cal"
+        },
+        {
+            "Name": "Challah",
+            "Calorie": "283 cal"
+        },
+        {
+            "Name": "Chapati",
+            "Calorie": "240 cal"
+        },
+        {
+            "Name": "Ciabatta",
+            "Calorie": "271 cal"
+        },
+        {
+            "Name": "Cinnamon Bun",
+            "Calorie": "436 cal"
+        },
+        {
+            "Name": "Coffee Cake",
+            "Calorie": "418 cal"
+        },
+        {
+            "Name": "Conchas/Mexican Sweet Bread",
+            "Calorie": "353 cal"
+        },
+        {
+            "Name": "Cornbread",
+            "Calorie": "179 cal"
+        },
+        {
+            "Name": "Crepes",
+            "Calorie": "224 cal"
+        },
+        {
+            "Name": "Croissant",
+            "Calorie": "406 cal"
+        },
+        {
+            "Name": "Crumpet",
+            "Calorie": "178 cal"
+        },
+        {
+            "Name": "Cupcakes",
+            "Calorie": "305 cal"
+        },
+        {
+            "Name": "Donut/Doughnut",
+            "Calorie": "421 cal"
+        },
+        {
+            "Name": "Dosa",
+            "Calorie": "209 cal"
+        },
+        {
+            "Name": "Empanada",
+            "Calorie": "335 cal"
+        },
+        {
+            "Name": "English Muffin",
+            "Calorie": "227 cal"
+        },
+        {
+            "Name": "Flatbread",
+            "Calorie": "311 cal"
+        },
+        {
+            "Name": "Focaccia",
+            "Calorie": "249 cal"
+        },
+        {
+            "Name": "Garlic Bread",
+            "Calorie": "350 cal"
+        },
+        {
+            "Name": "Hot Dog Buns",
+            "Calorie": "279 cal"
+        },
+        {
+            "Name": "Italian Bread",
+            "Calorie": "271 cal"
+        },
+        {
+            "Name": "Latkes",
+            "Calorie": "189 cal"
+        },
+        {
+            "Name": "Matzo Bread",
+            "Calorie": "351 cal"
+        },
+        {
+            "Name": "Monkey Bread",
+            "Calorie": "290 cal"
+        },
+        {
+            "Name": "Muffin",
+            "Calorie": "296 cal"
+        },
+        {
+            "Name": "Multi-Grain Bread",
+            "Calorie": "265 cal"
+        },
+        {
+            "Name": "Naan",
+            "Calorie": "275 cal"
+        },
+        {
+            "Name": "Oatmeal Cookies",
+            "Calorie": "450 cal"
+        },
+        {
+            "Name": "Oatmeal Raisin Cookies",
+            "Calorie": "435 cal"
+        },
+        {
+            "Name": "Pan de Sal",
+            "Calorie": "293 cal"
+        },
+        {
+            "Name": "Pancake",
+            "Calorie": "233 cal"
+        },
+        {
+            "Name": "Pandesal",
+            "Calorie": "293 cal"
+        },
+        {
+            "Name": "Panettone",
+            "Calorie": "318 cal"
+        },
+        {
+            "Name": "Pide",
+            "Calorie": "268 cal"
+        },
+        {
+            "Name": "Pie",
+            "Calorie": "237 cal"
+        },
+        {
+            "Name": "Pita Bread",
+            "Calorie": "275 cal"
+        },
+        {
+            "Name": "Potato Bread",
+            "Calorie": "266 cal"
+        },
+        {
+            "Name": "Pretzel",
+            "Calorie": "338 cal"
+        },
+        {
+            "Name": "Pretzel Roll",
+            "Calorie": "338 cal"
+        },
+        {
+            "Name": "Puff Pastry",
+            "Calorie": "558 cal"
+        },
+        {
+            "Name": "Pumpernickel",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Raisin Bread",
+            "Calorie": "274 cal"
+        },
+        {
+            "Name": "Roll",
+            "Calorie": "316 cal"
+        },
+        {
+            "Name": "Roti",
+            "Calorie": "264 cal"
+        },
+        {
+            "Name": "Rye Bread",
+            "Calorie": "259 cal"
+        },
+        {
+            "Name": "Sandwich",
+            "Calorie": "304 cal"
+        },
+        {
+            "Name": "Sandwich Bread",
+            "Calorie": "251 cal"
+        },
+        {
+            "Name": "Scone",
+            "Calorie": "362 cal"
+        },
+        {
+            "Name": "Shortcrust Pastry",
+            "Calorie": "544 cal"
+        },
+        {
+            "Name": "Soda Bread",
+            "Calorie": "290 cal"
+        },
+        {
+            "Name": "Soufflé",
+            "Calorie": "204 cal"
+        },
+        {
+            "Name": "Sourdough Bread",
+            "Calorie": "289 cal"
+        },
+        {
+            "Name": "Spanakopita",
+            "Calorie": "246 cal"
+        },
+        {
+            "Name": "Spice Cake",
+            "Calorie": "332 cal"
+        },
+        {
+            "Name": "Sweet Rolls",
+            "Calorie": "333 cal"
+        },
+        {
+            "Name": "Swiss Roll",
+            "Calorie": "313 cal"
+        },
+        {
+            "Name": "Toast",
+            "Calorie": "261 cal"
+        },
+        {
+            "Name": "Tortilla",
+            "Calorie": "297 cal"
+        },
+        {
+            "Name": "Tortilla Bread",
+            "Calorie": "265 cal"
+        },
+        {
+            "Name": "White Bread",
+            "Calorie": "238 cal"
+        },
+        {
+            "Name": "Whole Wheat Bread",
+            "Calorie": "247 cal"
+        }
+    ]
+}

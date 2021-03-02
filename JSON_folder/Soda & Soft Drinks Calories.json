@@ -1,0 +1,189 @@
+{
+    "FoodType": "Soda \u0026 Soft Drinks Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "7up",
+            "Calorie": "44 cal"
+        },
+        {
+            "Name": "Barq’s",
+            "Calorie": "46 cal"
+        },
+        {
+            "Name": "Bitter Lemon",
+            "Calorie": "34 cal"
+        },
+        {
+            "Name": "Canada Dry Ginger Ale",
+            "Calorie": "41 cal"
+        },
+        {
+            "Name": "Cherry Coke",
+            "Calorie": "44 cal"
+        },
+        {
+            "Name": "Coke",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Coke Zero",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Diet Cherry Coke",
+            "Calorie": "1 cal"
+        },
+        {
+            "Name": "Diet Coke",
+            "Calorie": "1 cal"
+        },
+        {
+            "Name": "Diet Dr. Pepper",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Diet Pepsi",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Diet Sunkist",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Dr. Brown’s",
+            "Calorie": "53 cal"
+        },
+        {
+            "Name": "Dr. Pepper",
+            "Calorie": "27 cal"
+        },
+        {
+            "Name": "Fanta",
+            "Calorie": "39 cal"
+        },
+        {
+            "Name": "Fanta Zero",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Five Alive",
+            "Calorie": "35 cal"
+        },
+        {
+            "Name": "Fresca",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Full Throttle",
+            "Calorie": "110 cal"
+        },
+        {
+            "Name": "Fuze",
+            "Calorie": "20 cal"
+        },
+        {
+            "Name": "Fuze Tea",
+            "Calorie": "25 cal"
+        },
+        {
+            "Name": "Gatorade",
+            "Calorie": "25 cal"
+        },
+        {
+            "Name": "Ginger Ale",
+            "Calorie": "35 cal"
+        },
+        {
+            "Name": "Ice Tea",
+            "Calorie": "27 cal"
+        },
+        {
+            "Name": "Jolt Cola",
+            "Calorie": "44 cal"
+        },
+        {
+            "Name": "Kool-Aid",
+            "Calorie": "26 cal"
+        },
+        {
+            "Name": "Lemonade",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Mello Yello",
+            "Calorie": "49 cal"
+        },
+        {
+            "Name": "Minute Maid",
+            "Calorie": "46 cal"
+        },
+        {
+            "Name": "Minute Maid Light",
+            "Calorie": "2 cal"
+        },
+        {
+            "Name": "Mug Root Beer",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Orange Soda",
+            "Calorie": "48 cal"
+        },
+        {
+            "Name": "Pepsi",
+            "Calorie": "44 cal"
+        },
+        {
+            "Name": "Pibb Xtra",
+            "Calorie": "40 cal"
+        },
+        {
+            "Name": "Powerade",
+            "Calorie": "120 cal"
+        },
+        {
+            "Name": "Schweppes Ginger Ale",
+            "Calorie": "38 cal"
+        },
+        {
+            "Name": "Soda",
+            "Calorie": "53 cal"
+        },
+        {
+            "Name": "Sprite",
+            "Calorie": "37 cal"
+        },
+        {
+            "Name": "Sprite Zero",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Squirt",
+            "Calorie": "44 cal"
+        },
+        {
+            "Name": "Sunkist",
+            "Calorie": "25 cal"
+        },
+        {
+            "Name": "Surge",
+            "Calorie": "48 cal"
+        },
+        {
+            "Name": "TaB",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Tonic Water",
+            "Calorie": "35 cal"
+        },
+        {
+            "Name": "Vanilla Coke",
+            "Calorie": "45 cal"
+        }
+    ]
+}

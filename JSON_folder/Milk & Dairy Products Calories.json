@@ -1,0 +1,141 @@
+{
+    "FoodType": "Milk \u0026 Dairy Products Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Almond Milk",
+            "Calorie": "17 cal"
+        },
+        {
+            "Name": "Buttermilk",
+            "Calorie": "62 cal"
+        },
+        {
+            "Name": "Chocolate Mousse",
+            "Calorie": "225 cal"
+        },
+        {
+            "Name": "Coconut Milk",
+            "Calorie": "230 cal"
+        },
+        {
+            "Name": "Coffee Creamer",
+            "Calorie": "195 cal"
+        },
+        {
+            "Name": "Condensed Milk",
+            "Calorie": "321 cal"
+        },
+        {
+            "Name": "Cottage Cheese",
+            "Calorie": "98 cal"
+        },
+        {
+            "Name": "Cream",
+            "Calorie": "242 cal"
+        },
+        {
+            "Name": "Creme Fraiche",
+            "Calorie": "393 cal"
+        },
+        {
+            "Name": "Curd",
+            "Calorie": "98 cal"
+        },
+        {
+            "Name": "Custard",
+            "Calorie": "122 cal"
+        },
+        {
+            "Name": "Evaporated Milk",
+            "Calorie": "135 cal"
+        },
+        {
+            "Name": "Goat Milk",
+            "Calorie": "69 cal"
+        },
+        {
+            "Name": "Hot Chocolate",
+            "Calorie": "89 cal"
+        },
+        {
+            "Name": "Kefir",
+            "Calorie": "55 cal"
+        },
+        {
+            "Name": "Lactose-free Milk",
+            "Calorie": "52 cal"
+        },
+        {
+            "Name": "Lassi",
+            "Calorie": "75 cal"
+        },
+        {
+            "Name": "Milk",
+            "Calorie": "61 cal"
+        },
+        {
+            "Name": "Plain Yogurt",
+            "Calorie": "61 cal"
+        },
+        {
+            "Name": "Powdered Milk",
+            "Calorie": "496 cal"
+        },
+        {
+            "Name": "Quark",
+            "Calorie": "145 cal"
+        },
+        {
+            "Name": "Rice Milk",
+            "Calorie": "49 cal"
+        },
+        {
+            "Name": "Rice Pudding",
+            "Calorie": "118 cal"
+        },
+        {
+            "Name": "Semi-skimmed Milk",
+            "Calorie": "50 cal"
+        },
+        {
+            "Name": "Semolina Pudding",
+            "Calorie": "67 cal"
+        },
+        {
+            "Name": "Skim Milk",
+            "Calorie": "35 cal"
+        },
+        {
+            "Name": "Sour Cream",
+            "Calorie": "181 cal"
+        },
+        {
+            "Name": "Soy Milk",
+            "Calorie": "45 cal"
+        },
+        {
+            "Name": "Sweetened Condensed Milk",
+            "Calorie": "321 cal"
+        },
+        {
+            "Name": "Tzatziki",
+            "Calorie": "117 cal"
+        },
+        {
+            "Name": "Whipped Cream",
+            "Calorie": "257 cal"
+        },
+        {
+            "Name": "Whole Milk",
+            "Calorie": "61 cal"
+        },
+        {
+            "Name": "Yogurt",
+            "Calorie": "61 cal"
+        }
+    ]
+}

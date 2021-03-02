@@ -1,0 +1,201 @@
+{
+    "FoodType": "Alcoholic Drinks \u0026 Beverages Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Absinthe",
+            "Calorie": "348 cal"
+        },
+        {
+            "Name": "Advocaat",
+            "Calorie": "283 cal"
+        },
+        {
+            "Name": "Amaretto",
+            "Calorie": "310 cal"
+        },
+        {
+            "Name": "Applejack",
+            "Calorie": "233 cal"
+        },
+        {
+            "Name": "Asti",
+            "Calorie": "138 cal"
+        },
+        {
+            "Name": "Bailey’s Irish Cream",
+            "Calorie": "327 cal"
+        },
+        {
+            "Name": "Baileys",
+            "Calorie": "327 cal"
+        },
+        {
+            "Name": "Beer",
+            "Calorie": "43 cal"
+        },
+        {
+            "Name": "Blue Curacao",
+            "Calorie": "243 cal"
+        },
+        {
+            "Name": "Bourbon",
+            "Calorie": "233 cal"
+        },
+        {
+            "Name": "Brandy",
+            "Calorie": "213 cal"
+        },
+        {
+            "Name": "Canadian Whiskey",
+            "Calorie": "216 cal"
+        },
+        {
+            "Name": "Chambord",
+            "Calorie": "348 cal"
+        },
+        {
+            "Name": "Champagne",
+            "Calorie": "75 cal"
+        },
+        {
+            "Name": "Cider",
+            "Calorie": "49 cal"
+        },
+        {
+            "Name": "Cognac",
+            "Calorie": "235 cal"
+        },
+        {
+            "Name": "Cointreau",
+            "Calorie": "320 cal"
+        },
+        {
+            "Name": "Drambuie",
+            "Calorie": "358 cal"
+        },
+        {
+            "Name": "Frangelico",
+            "Calorie": "238 cal"
+        },
+        {
+            "Name": "Gin",
+            "Calorie": "263 cal"
+        },
+        {
+            "Name": "Glenfiddich",
+            "Calorie": "230 cal"
+        },
+        {
+            "Name": "Grand Marnier",
+            "Calorie": "253 cal"
+        },
+        {
+            "Name": "Irish Whiskey",
+            "Calorie": "233 cal"
+        },
+        {
+            "Name": "Jack Daniel’s",
+            "Calorie": "146 cal"
+        },
+        {
+            "Name": "Jagermeister",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Jim Beam",
+            "Calorie": "222 cal"
+        },
+        {
+            "Name": "Kahlua",
+            "Calorie": "180 cal"
+        },
+        {
+            "Name": "Liqueur",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Liquor",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Midori",
+            "Calorie": "267 cal"
+        },
+        {
+            "Name": "Prosecco",
+            "Calorie": "66 cal"
+        },
+        {
+            "Name": "Punch",
+            "Calorie": "62 cal"
+        },
+        {
+            "Name": "Red Wine",
+            "Calorie": "85 cal"
+        },
+        {
+            "Name": "Rose Wine",
+            "Calorie": "71 cal"
+        },
+        {
+            "Name": "Rum",
+            "Calorie": "231 cal"
+        },
+        {
+            "Name": "Sambuca",
+            "Calorie": "333 cal"
+        },
+        {
+            "Name": "Sangria",
+            "Calorie": "96 cal"
+        },
+        {
+            "Name": "Scotch",
+            "Calorie": "222 cal"
+        },
+        {
+            "Name": "Sherry",
+            "Calorie": "116 cal"
+        },
+        {
+            "Name": "Sloe Gin",
+            "Calorie": "332 cal"
+        },
+        {
+            "Name": "Southern Comfort",
+            "Calorie": "247 cal"
+        },
+        {
+            "Name": "Tequila",
+            "Calorie": "110 cal"
+        },
+        {
+            "Name": "Triple Sec",
+            "Calorie": "153 cal"
+        },
+        {
+            "Name": "Vermouth",
+            "Calorie": "130 cal"
+        },
+        {
+            "Name": "Vodka",
+            "Calorie": "231 cal"
+        },
+        {
+            "Name": "Whisky",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "White Wine",
+            "Calorie": "82 cal"
+        },
+        {
+            "Name": "Wine",
+            "Calorie": "83 cal"
+        }
+    ]
+}

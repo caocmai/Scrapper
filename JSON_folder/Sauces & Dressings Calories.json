@@ -1,0 +1,225 @@
+{
+    "FoodType": "Sauces \u0026 Dressings Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "1000 Island Dressing",
+            "Calorie": "370 cal"
+        },
+        {
+            "Name": "Ajvar",
+            "Calorie": "18 cal"
+        },
+        {
+            "Name": "Arrabiata Sauce",
+            "Calorie": "36 cal"
+        },
+        {
+            "Name": "Balsamic Vinaigrette Dressing",
+            "Calorie": "290 cal"
+        },
+        {
+            "Name": "Barbecue Sauce",
+            "Calorie": "150 cal"
+        },
+        {
+            "Name": "Bechamel Sauce",
+            "Calorie": "225 cal"
+        },
+        {
+            "Name": "Bernaise Sauce",
+            "Calorie": "414 cal"
+        },
+        {
+            "Name": "Blue Cheese Dressing",
+            "Calorie": "533 cal"
+        },
+        {
+            "Name": "Bolognese",
+            "Calorie": "106 cal"
+        },
+        {
+            "Name": "Buttermilk Ranch Dressing",
+            "Calorie": "533 cal"
+        },
+        {
+            "Name": "Caesar Dressing",
+            "Calorie": "429 cal"
+        },
+        {
+            "Name": "Catalina Dressing",
+            "Calorie": "282 cal"
+        },
+        {
+            "Name": "Chasseur Sauce",
+            "Calorie": "45 cal"
+        },
+        {
+            "Name": "Chili Sauce",
+            "Calorie": "112 cal"
+        },
+        {
+            "Name": "Cream Sauce",
+            "Calorie": "180 cal"
+        },
+        {
+            "Name": "Curry Ketchup",
+            "Calorie": "124 cal"
+        },
+        {
+            "Name": "Curry Sauce",
+            "Calorie": "26 cal"
+        },
+        {
+            "Name": "French Dressing",
+            "Calorie": "60 cal"
+        },
+        {
+            "Name": "Gravy",
+            "Calorie": "53 cal"
+        },
+        {
+            "Name": "Greek Dressing",
+            "Calorie": "467 cal"
+        },
+        {
+            "Name": "Hamburger Sauce",
+            "Calorie": "383 cal"
+        },
+        {
+            "Name": "Harissa",
+            "Calorie": "52 cal"
+        },
+        {
+            "Name": "Hollandaise Sauce",
+            "Calorie": "535 cal"
+        },
+        {
+            "Name": "Honey Mustard Dressing",
+            "Calorie": "464 cal"
+        },
+        {
+            "Name": "Horseradish",
+            "Calorie": "48 cal"
+        },
+        {
+            "Name": "Italian Dressing",
+            "Calorie": "293 cal"
+        },
+        {
+            "Name": "Ketchup",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Mayonnaise",
+            "Calorie": "692 cal"
+        },
+        {
+            "Name": "Mustard",
+            "Calorie": "60 cal"
+        },
+        {
+            "Name": "Mustard Sauce",
+            "Calorie": "645 cal"
+        },
+        {
+            "Name": "Orange Sauce",
+            "Calorie": "179 cal"
+        },
+        {
+            "Name": "Pesto",
+            "Calorie": "458 cal"
+        },
+        {
+            "Name": "Ranch Dressing",
+            "Calorie": "510 cal"
+        },
+        {
+            "Name": "Remoulade Sauce",
+            "Calorie": "635 cal"
+        },
+        {
+            "Name": "Russian Dressing",
+            "Calorie": "400 cal"
+        },
+        {
+            "Name": "Salad Dressing",
+            "Calorie": "449 cal"
+        },
+        {
+            "Name": "Sambal Oelek",
+            "Calorie": "21 cal"
+        },
+        {
+            "Name": "Sesame Ginger Dressing",
+            "Calorie": "464 cal"
+        },
+        {
+            "Name": "Sesame Paste",
+            "Calorie": "595 cal"
+        },
+        {
+            "Name": "Sour Cream",
+            "Calorie": "217 cal"
+        },
+        {
+            "Name": "Sour Cream Sauce",
+            "Calorie": "60 cal"
+        },
+        {
+            "Name": "Soy Sauce",
+            "Calorie": "67 cal"
+        },
+        {
+            "Name": "Sweet and Sour Sauce",
+            "Calorie": "179 cal"
+        },
+        {
+            "Name": "Tabasco",
+            "Calorie": "70 cal"
+        },
+        {
+            "Name": "Teriyaki Sauce",
+            "Calorie": "89 cal"
+        },
+        {
+            "Name": "Thai Curry Paste",
+            "Calorie": "155 cal"
+        },
+        {
+            "Name": "Tomato Paste",
+            "Calorie": "82 cal"
+        },
+        {
+            "Name": "Tomato Puree",
+            "Calorie": "38 cal"
+        },
+        {
+            "Name": "Tomato Sauce",
+            "Calorie": "24 cal"
+        },
+        {
+            "Name": "Tzatziki",
+            "Calorie": "94 cal"
+        },
+        {
+            "Name": "Vinaigrette",
+            "Calorie": "120 cal"
+        },
+        {
+            "Name": "Worcestershire Sauce",
+            "Calorie": "78 cal"
+        },
+        {
+            "Name": "Yogurt Dressing",
+            "Calorie": "45 cal"
+        },
+        {
+            "Name": "Zesty Italian Dressing",
+            "Calorie": "267 cal"
+        }
+    ]
+}

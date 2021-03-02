@@ -1,0 +1,217 @@
+{
+    "FoodType": "Soups Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Alphabet Soup",
+            "Calorie": "25 cal"
+        },
+        {
+            "Name": "Bean Stew",
+            "Calorie": "133 cal"
+        },
+        {
+            "Name": "Beef Bouillon",
+            "Calorie": "3 cal"
+        },
+        {
+            "Name": "Beef Noodle Soup",
+            "Calorie": "34 cal"
+        },
+        {
+            "Name": "Beef Soup",
+            "Calorie": "33 cal"
+        },
+        {
+            "Name": "Bouillon",
+            "Calorie": "16 cal"
+        },
+        {
+            "Name": "Broccoli Cheese Soup",
+            "Calorie": "87 cal"
+        },
+        {
+            "Name": "Broccoli Soup",
+            "Calorie": "87 cal"
+        },
+        {
+            "Name": "Cabbage Soup",
+            "Calorie": "28 cal"
+        },
+        {
+            "Name": "Carrot Ginger Soup",
+            "Calorie": "25 cal"
+        },
+        {
+            "Name": "Carrot Soup",
+            "Calorie": "25 cal"
+        },
+        {
+            "Name": "Chicken Bouillon",
+            "Calorie": "4 cal"
+        },
+        {
+            "Name": "Chicken Broth",
+            "Calorie": "16 cal"
+        },
+        {
+            "Name": "Chicken Gumbo Soup",
+            "Calorie": "23 cal"
+        },
+        {
+            "Name": "Chicken Noodle Soup",
+            "Calorie": "25 cal"
+        },
+        {
+            "Name": "Chicken Stock",
+            "Calorie": "16 cal"
+        },
+        {
+            "Name": "Chicken Vegetable Soup",
+            "Calorie": "31 cal"
+        },
+        {
+            "Name": "Chicken with Rice Soup",
+            "Calorie": "24 cal"
+        },
+        {
+            "Name": "Cream of Asparagus Soup",
+            "Calorie": "35 cal"
+        },
+        {
+            "Name": "Cream of Broccoli Soup",
+            "Calorie": "45 cal"
+        },
+        {
+            "Name": "Cream of Celery Soup",
+            "Calorie": "37 cal"
+        },
+        {
+            "Name": "Cream of Chicken Soup",
+            "Calorie": "48 cal"
+        },
+        {
+            "Name": "Cream of Mushroom Soup",
+            "Calorie": "39 cal"
+        },
+        {
+            "Name": "Cream of Onion Soup",
+            "Calorie": "44 cal"
+        },
+        {
+            "Name": "Cream of Potato Soup",
+            "Calorie": "30 cal"
+        },
+        {
+            "Name": "Creamy Chicken Noodle Soup",
+            "Calorie": "23 cal"
+        },
+        {
+            "Name": "French Onion Soup",
+            "Calorie": "23 cal"
+        },
+        {
+            "Name": "Golden Mushroom Soup",
+            "Calorie": "65 cal"
+        },
+        {
+            "Name": "Goulash",
+            "Calorie": "1009 cal"
+        },
+        {
+            "Name": "Instant Ramen",
+            "Calorie": "436 cal"
+        },
+        {
+            "Name": "Lentil Soup",
+            "Calorie": "56 cal"
+        },
+        {
+            "Name": "Lobster Bisque Soup",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Meatball Soup",
+            "Calorie": "49 cal"
+        },
+        {
+            "Name": "Minestrone",
+            "Calorie": "34 cal"
+        },
+        {
+            "Name": "Mushroom Soup",
+            "Calorie": "35 cal"
+        },
+        {
+            "Name": "Noodle Soup",
+            "Calorie": "34 cal"
+        },
+        {
+            "Name": "Onion Soup",
+            "Calorie": "23 cal"
+        },
+        {
+            "Name": "Oxtail Soup",
+            "Calorie": "28 cal"
+        },
+        {
+            "Name": "Pea Soup",
+            "Calorie": "75 cal"
+        },
+        {
+            "Name": "Potato Soup",
+            "Calorie": "80 cal"
+        },
+        {
+            "Name": "Pumpkin Soup",
+            "Calorie": "29 cal"
+        },
+        {
+            "Name": "Ramen",
+            "Calorie": "436 cal"
+        },
+        {
+            "Name": "Scotch Broth",
+            "Calorie": "33 cal"
+        },
+        {
+            "Name": "Succotash",
+            "Calorie": "115 cal"
+        },
+        {
+            "Name": "Thai Soup",
+            "Calorie": "60 cal"
+        },
+        {
+            "Name": "Tomato Rice Soup",
+            "Calorie": "47 cal"
+        },
+        {
+            "Name": "Tomato Soup",
+            "Calorie": "30 cal"
+        },
+        {
+            "Name": "Vegetable Beef Soup",
+            "Calorie": "31 cal"
+        },
+        {
+            "Name": "Vegetable Broth",
+            "Calorie": "5 cal"
+        },
+        {
+            "Name": "Vegetable Soup",
+            "Calorie": "28 cal"
+        },
+        {
+            "Name": "Vegetable Stock",
+            "Calorie": "5 cal"
+        },
+        {
+            "Name": "Wedding Soup",
+            "Calorie": "53 cal"
+        }
+    ]
+}

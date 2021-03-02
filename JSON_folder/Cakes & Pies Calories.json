@@ -1,0 +1,373 @@
+{
+    "FoodType": "Cakes \u0026 Pies Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Angel Food Cake",
+            "Calorie": "258 cal"
+        },
+        {
+            "Name": "Apple Cake",
+            "Calorie": "252 cal"
+        },
+        {
+            "Name": "Apple Cobbler",
+            "Calorie": "198 cal"
+        },
+        {
+            "Name": "Apple Crisp",
+            "Calorie": "156 cal"
+        },
+        {
+            "Name": "Apple Crumble",
+            "Calorie": "156 cal"
+        },
+        {
+            "Name": "Apple Pie",
+            "Calorie": "237 cal"
+        },
+        {
+            "Name": "Apple Strudel",
+            "Calorie": "274 cal"
+        },
+        {
+            "Name": "Apple Turnover",
+            "Calorie": "348 cal"
+        },
+        {
+            "Name": "Applesauce Cake",
+            "Calorie": "358 cal"
+        },
+        {
+            "Name": "Baked Alaska",
+            "Calorie": "247 cal"
+        },
+        {
+            "Name": "Bakewell Tart",
+            "Calorie": "430 cal"
+        },
+        {
+            "Name": "Banoffee Pie",
+            "Calorie": "395 cal"
+        },
+        {
+            "Name": "Birthday Cake",
+            "Calorie": "465 cal"
+        },
+        {
+            "Name": "Black and White Cookie",
+            "Calorie": "381 cal"
+        },
+        {
+            "Name": "Black Forest Cake",
+            "Calorie": "264 cal"
+        },
+        {
+            "Name": "Blueberry Cobbler",
+            "Calorie": "234 cal"
+        },
+        {
+            "Name": "Blueberry Muffin",
+            "Calorie": "377 cal"
+        },
+        {
+            "Name": "Blueberry Pie",
+            "Calorie": "232 cal"
+        },
+        {
+            "Name": "Bundt Cake",
+            "Calorie": "370 cal"
+        },
+        {
+            "Name": "Buttermilk Pie",
+            "Calorie": "380 cal"
+        },
+        {
+            "Name": "Caramel Cake",
+            "Calorie": "475 cal"
+        },
+        {
+            "Name": "Carrot Cake",
+            "Calorie": "408 cal"
+        },
+        {
+            "Name": "Cheesecake",
+            "Calorie": "321 cal"
+        },
+        {
+            "Name": "Cherry Pie",
+            "Calorie": "260 cal"
+        },
+        {
+            "Name": "Chess Pie",
+            "Calorie": "411 cal"
+        },
+        {
+            "Name": "Chocolate Cake",
+            "Calorie": "389 cal"
+        },
+        {
+            "Name": "Chocolate Cream Pie",
+            "Calorie": "304 cal"
+        },
+        {
+            "Name": "Chocolate Mousse Cake",
+            "Calorie": "260 cal"
+        },
+        {
+            "Name": "Chocolate Mousse Pie",
+            "Calorie": "260 cal"
+        },
+        {
+            "Name": "Chocolate Muffin",
+            "Calorie": "420 cal"
+        },
+        {
+            "Name": "Coconut Cake",
+            "Calorie": "356 cal"
+        },
+        {
+            "Name": "Coffee Cake",
+            "Calorie": "331 cal"
+        },
+        {
+            "Name": "Cream Puff",
+            "Calorie": "334 cal"
+        },
+        {
+            "Name": "Crumb Cake",
+            "Calorie": "441 cal"
+        },
+        {
+            "Name": "Cupcake",
+            "Calorie": "305 cal"
+        },
+        {
+            "Name": "Danish Pastry",
+            "Calorie": "374 cal"
+        },
+        {
+            "Name": "Donut",
+            "Calorie": "403 cal"
+        },
+        {
+            "Name": "Doughnut",
+            "Calorie": "403 cal"
+        },
+        {
+            "Name": "Flan",
+            "Calorie": "145 cal"
+        },
+        {
+            "Name": "Flourless Chocolate Cake",
+            "Calorie": "509 cal"
+        },
+        {
+            "Name": "French Cruller",
+            "Calorie": "412 cal"
+        },
+        {
+            "Name": "Fruit Cake",
+            "Calorie": "324 cal"
+        },
+        {
+            "Name": "Funnel Cake",
+            "Calorie": "307 cal"
+        },
+        {
+            "Name": "German Chocolate Cake",
+            "Calorie": "370 cal"
+        },
+        {
+            "Name": "Gingerbread",
+            "Calorie": "356 cal"
+        },
+        {
+            "Name": "Ice Cream Cake",
+            "Calorie": "200 cal"
+        },
+        {
+            "Name": "Key Lime Pie",
+            "Calorie": "359 cal"
+        },
+        {
+            "Name": "King Cake",
+            "Calorie": "377 cal"
+        },
+        {
+            "Name": "Layer Cake",
+            "Calorie": "402 cal"
+        },
+        {
+            "Name": "Lemon Cake",
+            "Calorie": "352 cal"
+        },
+        {
+            "Name": "Lemon Meringue Pie",
+            "Calorie": "268 cal"
+        },
+        {
+            "Name": "Madeira Cake",
+            "Calorie": "394 cal"
+        },
+        {
+            "Name": "Marble Cake",
+            "Calorie": "339 cal"
+        },
+        {
+            "Name": "Meringue",
+            "Calorie": "285 cal"
+        },
+        {
+            "Name": "Opera Cake",
+            "Calorie": "320 cal"
+        },
+        {
+            "Name": "Paczki",
+            "Calorie": "336 cal"
+        },
+        {
+            "Name": "Pancake",
+            "Calorie": "227 cal"
+        },
+        {
+            "Name": "Panettone",
+            "Calorie": "360 cal"
+        },
+        {
+            "Name": "Pavlova",
+            "Calorie": "294 cal"
+        },
+        {
+            "Name": "Peach Cobbler",
+            "Calorie": "65 cal"
+        },
+        {
+            "Name": "Peach Pie",
+            "Calorie": "223 cal"
+        },
+        {
+            "Name": "Pecan Pie",
+            "Calorie": "407 cal"
+        },
+        {
+            "Name": "Pineapple Upside-Down Cake",
+            "Calorie": "319 cal"
+        },
+        {
+            "Name": "Plum Cake",
+            "Calorie": "109 cal"
+        },
+        {
+            "Name": "Poppy-Seed Cake",
+            "Calorie": "394 cal"
+        },
+        {
+            "Name": "Pound Cake",
+            "Calorie": "390 cal"
+        },
+        {
+            "Name": "Profiterole",
+            "Calorie": "334 cal"
+        },
+        {
+            "Name": "Puff Pastry",
+            "Calorie": "558 cal"
+        },
+        {
+            "Name": "Pumpkin Bread",
+            "Calorie": "298 cal"
+        },
+        {
+            "Name": "Pumpkin Cheesecake",
+            "Calorie": "340 cal"
+        },
+        {
+            "Name": "Pumpkin Pie",
+            "Calorie": "243 cal"
+        },
+        {
+            "Name": "Raspberry Pie",
+            "Calorie": "240 cal"
+        },
+        {
+            "Name": "Red Velvet Cake",
+            "Calorie": "367 cal"
+        },
+        {
+            "Name": "Rhubarb Pie",
+            "Calorie": "245 cal"
+        },
+        {
+            "Name": "Rum Cake",
+            "Calorie": "351 cal"
+        },
+        {
+            "Name": "Sacher Torte",
+            "Calorie": "352 cal"
+        },
+        {
+            "Name": "Sponge Cake",
+            "Calorie": "289 cal"
+        },
+        {
+            "Name": "Strawberry Cheesecake",
+            "Calorie": "327 cal"
+        },
+        {
+            "Name": "Strawberry Pie",
+            "Calorie": "230 cal"
+        },
+        {
+            "Name": "Strawberry Rhubarb Pie",
+            "Calorie": "281 cal"
+        },
+        {
+            "Name": "Sweet Potato Pie",
+            "Calorie": "260 cal"
+        },
+        {
+            "Name": "Swiss Roll",
+            "Calorie": "439 cal"
+        },
+        {
+            "Name": "Tarte Tatin",
+            "Calorie": "210 cal"
+        },
+        {
+            "Name": "Tiramisu",
+            "Calorie": "283 cal"
+        },
+        {
+            "Name": "Tiramisu Cake",
+            "Calorie": "291 cal"
+        },
+        {
+            "Name": "Treacle Tart",
+            "Calorie": "369 cal"
+        },
+        {
+            "Name": "Tres Leches Cake",
+            "Calorie": "246 cal"
+        },
+        {
+            "Name": "Trifle",
+            "Calorie": "180 cal"
+        },
+        {
+            "Name": "Victoria Sponge Cake",
+            "Calorie": "257 cal"
+        },
+        {
+            "Name": "Waffles",
+            "Calorie": "312 cal"
+        },
+        {
+            "Name": "Wedding Cake",
+            "Calorie": "381 cal"
+        }
+    ]
+}

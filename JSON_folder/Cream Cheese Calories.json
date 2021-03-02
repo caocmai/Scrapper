@@ -1,0 +1,77 @@
+{
+    "FoodType": "Cream Cheese Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Chive Cream Cheese",
+            "Calorie": "342 cal"
+        },
+        {
+            "Name": "Cottage Cheese",
+            "Calorie": "98 cal"
+        },
+        {
+            "Name": "Cream Cheese",
+            "Calorie": "342 cal"
+        },
+        {
+            "Name": "Cream Cheese with Herbs",
+            "Calorie": "342 cal"
+        },
+        {
+            "Name": "Feta Cream Cheese",
+            "Calorie": "342 cal"
+        },
+        {
+            "Name": "Garlic Cream Cheese",
+            "Calorie": "342 cal"
+        },
+        {
+            "Name": "Goat Cheese",
+            "Calorie": "364 cal"
+        },
+        {
+            "Name": "Horseradish",
+            "Calorie": "48 cal"
+        },
+        {
+            "Name": "Mascarpone",
+            "Calorie": "450 cal"
+        },
+        {
+            "Name": "Obatzda",
+            "Calorie": "303 cal"
+        },
+        {
+            "Name": "Olive Cream Cheese",
+            "Calorie": "342 cal"
+        },
+        {
+            "Name": "Pesto Cream Cheese",
+            "Calorie": "342 cal"
+        },
+        {
+            "Name": "Philadelphia Cream Cheese",
+            "Calorie": "342 cal"
+        },
+        {
+            "Name": "Pineapple Cream Cheese",
+            "Calorie": "342 cal"
+        },
+        {
+            "Name": "Salmon Cream Cheese",
+            "Calorie": "342 cal"
+        },
+        {
+            "Name": "Vegetable Cream Cheese",
+            "Calorie": "342 cal"
+        },
+        {
+            "Name": "Walnut Cream Cheese",
+            "Calorie": "342 cal"
+        }
+    ]
+}

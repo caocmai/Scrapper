@@ -1,0 +1,165 @@
+{
+    "FoodType": "Nuts \u0026 Seeds Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Acorn",
+            "Calorie": "387 cal"
+        },
+        {
+            "Name": "Alfalfa Sprouts",
+            "Calorie": "23 cal"
+        },
+        {
+            "Name": "Almonds",
+            "Calorie": "575 cal"
+        },
+        {
+            "Name": "Beechnut",
+            "Calorie": "576 cal"
+        },
+        {
+            "Name": "Brazil Nuts",
+            "Calorie": "656 cal"
+        },
+        {
+            "Name": "Breadfruit",
+            "Calorie": "191 cal"
+        },
+        {
+            "Name": "Butternut",
+            "Calorie": "612 cal"
+        },
+        {
+            "Name": "Cashew",
+            "Calorie": "553 cal"
+        },
+        {
+            "Name": "Chestnut",
+            "Calorie": "213 cal"
+        },
+        {
+            "Name": "Chia Seeds",
+            "Calorie": "486 cal"
+        },
+        {
+            "Name": "Coconut",
+            "Calorie": "354 cal"
+        },
+        {
+            "Name": "Cotton Seeds",
+            "Calorie": "506 cal"
+        },
+        {
+            "Name": "Flaxseed",
+            "Calorie": "534 cal"
+        },
+        {
+            "Name": "Ginkgo Nuts",
+            "Calorie": "182 cal"
+        },
+        {
+            "Name": "Goa Bean",
+            "Calorie": "409 cal"
+        },
+        {
+            "Name": "Hazelnut",
+            "Calorie": "628 cal"
+        },
+        {
+            "Name": "Hickory Nuts",
+            "Calorie": "657 cal"
+        },
+        {
+            "Name": "Lima Beans",
+            "Calorie": "71 cal"
+        },
+        {
+            "Name": "Lotus Seed",
+            "Calorie": "89 cal"
+        },
+        {
+            "Name": "Macadamia Nuts",
+            "Calorie": "718 cal"
+        },
+        {
+            "Name": "Peanuts",
+            "Calorie": "567 cal"
+        },
+        {
+            "Name": "Peas",
+            "Calorie": "81 cal"
+        },
+        {
+            "Name": "Pecan Nuts",
+            "Calorie": "691 cal"
+        },
+        {
+            "Name": "Pecans",
+            "Calorie": "691 cal"
+        },
+        {
+            "Name": "Pili Nuts",
+            "Calorie": "719 cal"
+        },
+        {
+            "Name": "Pine Nuts",
+            "Calorie": "673 cal"
+        },
+        {
+            "Name": "Pinto Beans",
+            "Calorie": "347 cal"
+        },
+        {
+            "Name": "Pistachios",
+            "Calorie": "562 cal"
+        },
+        {
+            "Name": "Poppy Seeds",
+            "Calorie": "525 cal"
+        },
+        {
+            "Name": "Pumpkin Seeds",
+            "Calorie": "559 cal"
+        },
+        {
+            "Name": "Radish Seeds",
+            "Calorie": "43 cal"
+        },
+        {
+            "Name": "Safflower Seeds",
+            "Calorie": "517 cal"
+        },
+        {
+            "Name": "Sesame Seeds",
+            "Calorie": "573 cal"
+        },
+        {
+            "Name": "Smoked Almonds",
+            "Calorie": "575 cal"
+        },
+        {
+            "Name": "Soy Beans",
+            "Calorie": "147 cal"
+        },
+        {
+            "Name": "Sunflower Seeds",
+            "Calorie": "584 cal"
+        },
+        {
+            "Name": "Sweet Chestnut",
+            "Calorie": "194 cal"
+        },
+        {
+            "Name": "Walnuts",
+            "Calorie": "654 cal"
+        },
+        {
+            "Name": "Watermelon",
+            "Calorie": "30 cal"
+        }
+    ]
+}

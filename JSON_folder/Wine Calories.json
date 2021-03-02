@@ -1,0 +1,165 @@
+{
+    "FoodType": "Wine Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Cabernet Sauvignon",
+            "Calorie": "77 cal"
+        },
+        {
+            "Name": "Cava",
+            "Calorie": "76 cal"
+        },
+        {
+            "Name": "Champagne",
+            "Calorie": "76 cal"
+        },
+        {
+            "Name": "Chardonnay",
+            "Calorie": "85 cal"
+        },
+        {
+            "Name": "Chenin Blanc",
+            "Calorie": "80 cal"
+        },
+        {
+            "Name": "Chocolate Wine",
+            "Calorie": "256 cal"
+        },
+        {
+            "Name": "Dry Red Wine",
+            "Calorie": "85 cal"
+        },
+        {
+            "Name": "Gamay",
+            "Calorie": "78 cal"
+        },
+        {
+            "Name": "Malbec",
+            "Calorie": "82 cal"
+        },
+        {
+            "Name": "Malbec Wine",
+            "Calorie": "82 cal"
+        },
+        {
+            "Name": "Marsala Wine",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Merlot",
+            "Calorie": "83 cal"
+        },
+        {
+            "Name": "Merlot Wine",
+            "Calorie": "83 cal"
+        },
+        {
+            "Name": "Moscato Wine",
+            "Calorie": "76 cal"
+        },
+        {
+            "Name": "Mulled Wine",
+            "Calorie": "196 cal"
+        },
+        {
+            "Name": "Pinot Gris",
+            "Calorie": "83 cal"
+        },
+        {
+            "Name": "Pinot Noir",
+            "Calorie": "75 cal"
+        },
+        {
+            "Name": "Plum Wine",
+            "Calorie": "163 cal"
+        },
+        {
+            "Name": "Port Wine",
+            "Calorie": "160 cal"
+        },
+        {
+            "Name": "Prosecco",
+            "Calorie": "71 cal"
+        },
+        {
+            "Name": "Red Wine",
+            "Calorie": "85 cal"
+        },
+        {
+            "Name": "Red Wines",
+            "Calorie": "85 cal"
+        },
+        {
+            "Name": "Riesling",
+            "Calorie": "80 cal"
+        },
+        {
+            "Name": "Riesling Wine",
+            "Calorie": "80 cal"
+        },
+        {
+            "Name": "Rose Wine",
+            "Calorie": "71 cal"
+        },
+        {
+            "Name": "Sangria",
+            "Calorie": "132 cal"
+        },
+        {
+            "Name": "Sauvignon Blanc",
+            "Calorie": "81 cal"
+        },
+        {
+            "Name": "Sherry",
+            "Calorie": "116 cal"
+        },
+        {
+            "Name": "Shiraz",
+            "Calorie": "71 cal"
+        },
+        {
+            "Name": "Sparkling Wine",
+            "Calorie": "190 cal"
+        },
+        {
+            "Name": "Sweet Red Wine",
+            "Calorie": "81 cal"
+        },
+        {
+            "Name": "Sweet White Wine",
+            "Calorie": "82 cal"
+        },
+        {
+            "Name": "Sweet Wines",
+            "Calorie": "83 cal"
+        },
+        {
+            "Name": "Vermouth",
+            "Calorie": "108 cal"
+        },
+        {
+            "Name": "White Wine",
+            "Calorie": "82 cal"
+        },
+        {
+            "Name": "White Zinfandel",
+            "Calorie": "88 cal"
+        },
+        {
+            "Name": "Wine",
+            "Calorie": "83 cal"
+        },
+        {
+            "Name": "Yellow Tail Wine",
+            "Calorie": "71 cal"
+        },
+        {
+            "Name": "Zinfandel",
+            "Calorie": "88 cal"
+        }
+    ]
+}

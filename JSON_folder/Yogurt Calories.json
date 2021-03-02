@@ -1,0 +1,169 @@
+{
+    "FoodType": "Yogurt Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Activia",
+            "Calorie": "74 cal"
+        },
+        {
+            "Name": "Activia Lemon",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Activia Strawberry",
+            "Calorie": "97 cal"
+        },
+        {
+            "Name": "Aloe Vera Yogurt",
+            "Calorie": "85 cal"
+        },
+        {
+            "Name": "Ayran",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Bircher Muesli Yogurt",
+            "Calorie": "109 cal"
+        },
+        {
+            "Name": "Blueberry Yogurt",
+            "Calorie": "105 cal"
+        },
+        {
+            "Name": "Cherry Yogurt",
+            "Calorie": "97 cal"
+        },
+        {
+            "Name": "Chocolate Yogurt",
+            "Calorie": "128 cal"
+        },
+        {
+            "Name": "Cream Yogurt",
+            "Calorie": "124 cal"
+        },
+        {
+            "Name": "Creamy Yogurt",
+            "Calorie": "90 cal"
+        },
+        {
+            "Name": "Diet Yogurt",
+            "Calorie": "54 cal"
+        },
+        {
+            "Name": "Fruit Yogurt",
+            "Calorie": "97 cal"
+        },
+        {
+            "Name": "Greek Yogurt",
+            "Calorie": "53 cal"
+        },
+        {
+            "Name": "Low-Fat Yogurt",
+            "Calorie": "63 cal"
+        },
+        {
+            "Name": "Mocca Yogurt",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Organic Yogurt",
+            "Calorie": "75 cal"
+        },
+        {
+            "Name": "Peach Yogurt",
+            "Calorie": "97 cal"
+        },
+        {
+            "Name": "Plain Yogurt",
+            "Calorie": "61 cal"
+        },
+        {
+            "Name": "Probiotic Yogurt",
+            "Calorie": "80 cal"
+        },
+        {
+            "Name": "Skim Milk Yogurt",
+            "Calorie": "56 cal"
+        },
+        {
+            "Name": "Stracciatella Yogurt",
+            "Calorie": "139 cal"
+        },
+        {
+            "Name": "Strawberry Yogurt",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Vanilla Yogurt",
+            "Calorie": "101 cal"
+        },
+        {
+            "Name": "Yogurt",
+            "Calorie": "61 cal"
+        },
+        {
+            "Name": "Yogurt Corner",
+            "Calorie": "119 cal"
+        },
+        {
+            "Name": "Yoplait Boston Cream Pie",
+            "Calorie": "90 cal"
+        },
+        {
+            "Name": "Yoplait French Vanilla",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Yoplait Greek Blueberry",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Yoplait Greek Coconut",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Yoplait Greek Strawberry",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Yoplait Greek Vanilla",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Yoplait Harvest Peach",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Yoplait Key Lime Pie",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Yoplait Mango",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Yoplait Mixed Berry",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Yoplait Pina Colada",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Yoplait Strawberry",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Yoplait Strawberry Banana",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Yoplait Strawberry Cheesecake",
+            "Calorie": "100 cal"
+        }
+    ]
+}

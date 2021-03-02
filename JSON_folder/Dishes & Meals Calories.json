@@ -1,0 +1,321 @@
+{
+    "FoodType": "Dishes \u0026 Meals Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Baby Back Ribs",
+            "Calorie": "259 cal"
+        },
+        {
+            "Name": "Bacon and Eggs",
+            "Calorie": "252 cal"
+        },
+        {
+            "Name": "Baked Beans",
+            "Calorie": "94 cal"
+        },
+        {
+            "Name": "Baked Chicken",
+            "Calorie": "164 cal"
+        },
+        {
+            "Name": "BBQ Ribs",
+            "Calorie": "255 cal"
+        },
+        {
+            "Name": "Beef Stew",
+            "Calorie": "95 cal"
+        },
+        {
+            "Name": "Biryani",
+            "Calorie": "176 cal"
+        },
+        {
+            "Name": "Black Pudding",
+            "Calorie": "253 cal"
+        },
+        {
+            "Name": "Black Rice",
+            "Calorie": "323 cal"
+        },
+        {
+            "Name": "BLT",
+            "Calorie": "247 cal"
+        },
+        {
+            "Name": "Brown Rice",
+            "Calorie": "362 cal"
+        },
+        {
+            "Name": "Burrito",
+            "Calorie": "163 cal"
+        },
+        {
+            "Name": "Butter Chicken",
+            "Calorie": "140 cal"
+        },
+        {
+            "Name": "California Roll",
+            "Calorie": "93 cal"
+        },
+        {
+            "Name": "Chicken Caesar Salad",
+            "Calorie": "127 cal"
+        },
+        {
+            "Name": "Chicken Fried Steak",
+            "Calorie": "151 cal"
+        },
+        {
+            "Name": "Chicken Marsala",
+            "Calorie": "96 cal"
+        },
+        {
+            "Name": "Chicken Parmesan",
+            "Calorie": "110 cal"
+        },
+        {
+            "Name": "Chicken Pot Pie",
+            "Calorie": "223 cal"
+        },
+        {
+            "Name": "Chicken Tikka Masala",
+            "Calorie": "81 cal"
+        },
+        {
+            "Name": "Chili con Carne",
+            "Calorie": "105 cal"
+        },
+        {
+            "Name": "Chimichanga",
+            "Calorie": "232 cal"
+        },
+        {
+            "Name": "Cobb Salad",
+            "Calorie": "118 cal"
+        },
+        {
+            "Name": "Collard Greens",
+            "Calorie": "28 cal"
+        },
+        {
+            "Name": "Corn Dog",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Corned Beef Hash",
+            "Calorie": "164 cal"
+        },
+        {
+            "Name": "Cottage Pie",
+            "Calorie": "139 cal"
+        },
+        {
+            "Name": "Dal",
+            "Calorie": "330 cal"
+        },
+        {
+            "Name": "Deviled Eggs",
+            "Calorie": "201 cal"
+        },
+        {
+            "Name": "Dim Sum",
+            "Calorie": "193 cal"
+        },
+        {
+            "Name": "Dosa",
+            "Calorie": "66 cal"
+        },
+        {
+            "Name": "Enchiladas",
+            "Calorie": "168 cal"
+        },
+        {
+            "Name": "Fajita",
+            "Calorie": "117 cal"
+        },
+        {
+            "Name": "Fish and Chips",
+            "Calorie": "195 cal"
+        },
+        {
+            "Name": "Fried Rice",
+            "Calorie": "186 cal"
+        },
+        {
+            "Name": "Fried Shrimp",
+            "Calorie": "277 cal"
+        },
+        {
+            "Name": "Grilled Cheese Sandwich",
+            "Calorie": "288 cal"
+        },
+        {
+            "Name": "Ham and Cheese Sandwich",
+            "Calorie": "241 cal"
+        },
+        {
+            "Name": "Hummus",
+            "Calorie": "177 cal"
+        },
+        {
+            "Name": "Jambalaya",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Kebab",
+            "Calorie": "215 cal"
+        },
+        {
+            "Name": "Lasagne",
+            "Calorie": "132 cal"
+        },
+        {
+            "Name": "Mac and Cheese",
+            "Calorie": "370 cal"
+        },
+        {
+            "Name": "Macaroni and Cheese",
+            "Calorie": "370 cal"
+        },
+        {
+            "Name": "Mashed Potatoes",
+            "Calorie": "83 cal"
+        },
+        {
+            "Name": "Meat Pie",
+            "Calorie": "242 cal"
+        },
+        {
+            "Name": "Meatloaf",
+            "Calorie": "254 cal"
+        },
+        {
+            "Name": "Naan",
+            "Calorie": "310 cal"
+        },
+        {
+            "Name": "Orange Chicken",
+            "Calorie": "259 cal"
+        },
+        {
+            "Name": "Pad Thai",
+            "Calorie": "150 cal"
+        },
+        {
+            "Name": "Paella",
+            "Calorie": "156 cal"
+        },
+        {
+            "Name": "Paratha",
+            "Calorie": "325 cal"
+        },
+        {
+            "Name": "Pea Soup",
+            "Calorie": "75 cal"
+        },
+        {
+            "Name": "Peanut Butter Sandwich",
+            "Calorie": "408 cal"
+        },
+        {
+            "Name": "Peking Duck",
+            "Calorie": "225 cal"
+        },
+        {
+            "Name": "Philly Cheese Steak",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Pizza",
+            "Calorie": "267 cal"
+        },
+        {
+            "Name": "Pork Chop",
+            "Calorie": "225 cal"
+        },
+        {
+            "Name": "Potato Salad",
+            "Calorie": "143 cal"
+        },
+        {
+            "Name": "Pulled Pork Sandwich",
+            "Calorie": "211 cal"
+        },
+        {
+            "Name": "Ramen",
+            "Calorie": "447 cal"
+        },
+        {
+            "Name": "Ravioli",
+            "Calorie": "203 cal"
+        },
+        {
+            "Name": "Reuben Sandwich",
+            "Calorie": "208 cal"
+        },
+        {
+            "Name": "Roast Beef",
+            "Calorie": "111 cal"
+        },
+        {
+            "Name": "Roast Dinner",
+            "Calorie": "198 cal"
+        },
+        {
+            "Name": "Samosa",
+            "Calorie": "214 cal"
+        },
+        {
+            "Name": "Sausage Roll",
+            "Calorie": "350 cal"
+        },
+        {
+            "Name": "Sausage Rolls",
+            "Calorie": "297 cal"
+        },
+        {
+            "Name": "Shepherds Pie",
+            "Calorie": "70 cal"
+        },
+        {
+            "Name": "Shrimp Cocktail",
+            "Calorie": "464 cal"
+        },
+        {
+            "Name": "Sloppy Joe",
+            "Calorie": "71 cal"
+        },
+        {
+            "Name": "Sloppy Joes",
+            "Calorie": "154 cal"
+        },
+        {
+            "Name": "Spaghetti Bolognese",
+            "Calorie": "132 cal"
+        },
+        {
+            "Name": "Spring Roll",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Spring Rolls",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Taco",
+            "Calorie": "217 cal"
+        },
+        {
+            "Name": "Tandoori Chicken",
+            "Calorie": "113 cal"
+        },
+        {
+            "Name": "Yorkshire Pudding",
+            "Calorie": "553 cal"
+        }
+    ]
+}

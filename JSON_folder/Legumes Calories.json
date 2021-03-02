@@ -1,0 +1,257 @@
+{
+    "FoodType": "Legumes Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Azuki Bean",
+            "Calorie": "124 cal"
+        },
+        {
+            "Name": "Bamboo Shoots",
+            "Calorie": "27 cal"
+        },
+        {
+            "Name": "Bean Curd",
+            "Calorie": "76 cal"
+        },
+        {
+            "Name": "Bean Sprouts",
+            "Calorie": "30 cal"
+        },
+        {
+            "Name": "Bengal Gram",
+            "Calorie": "364 cal"
+        },
+        {
+            "Name": "Black Beans",
+            "Calorie": "341 cal"
+        },
+        {
+            "Name": "Black Chickpeas",
+            "Calorie": "364 cal"
+        },
+        {
+            "Name": "Black Gram",
+            "Calorie": "341 cal"
+        },
+        {
+            "Name": "Brown Lentil",
+            "Calorie": "353 cal"
+        },
+        {
+            "Name": "Butternut",
+            "Calorie": "612 cal"
+        },
+        {
+            "Name": "Chickpeas",
+            "Calorie": "364 cal"
+        },
+        {
+            "Name": "Chili Bean",
+            "Calorie": "97 cal"
+        },
+        {
+            "Name": "Dal",
+            "Calorie": "230 cal"
+        },
+        {
+            "Name": "Deep-Fried Tofu",
+            "Calorie": "271 cal"
+        },
+        {
+            "Name": "Extra-Firm Tofu",
+            "Calorie": "91 cal"
+        },
+        {
+            "Name": "Firm Tofu",
+            "Calorie": "70 cal"
+        },
+        {
+            "Name": "Flageolet",
+            "Calorie": "85 cal"
+        },
+        {
+            "Name": "Fried Bean Curd",
+            "Calorie": "271 cal"
+        },
+        {
+            "Name": "Green Beans",
+            "Calorie": "31 cal"
+        },
+        {
+            "Name": "Green Gram",
+            "Calorie": "347 cal"
+        },
+        {
+            "Name": "Green Lentil",
+            "Calorie": "257 cal"
+        },
+        {
+            "Name": "Kidney Beans",
+            "Calorie": "337 cal"
+        },
+        {
+            "Name": "Lentils",
+            "Calorie": "353 cal"
+        },
+        {
+            "Name": "Lima Beans",
+            "Calorie": "71 cal"
+        },
+        {
+            "Name": "Marron",
+            "Calorie": "210 cal"
+        },
+        {
+            "Name": "Miso",
+            "Calorie": "199 cal"
+        },
+        {
+            "Name": "Mung Beans",
+            "Calorie": "12 cal"
+        },
+        {
+            "Name": "Natto",
+            "Calorie": "212 cal"
+        },
+        {
+            "Name": "Navy Bean",
+            "Calorie": "337 cal"
+        },
+        {
+            "Name": "Okara",
+            "Calorie": "77 cal"
+        },
+        {
+            "Name": "Okra",
+            "Calorie": "33 cal"
+        },
+        {
+            "Name": "Peanuts",
+            "Calorie": "567 cal"
+        },
+        {
+            "Name": "Peas",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Pecan",
+            "Calorie": "691 cal"
+        },
+        {
+            "Name": "Pinto Beans",
+            "Calorie": "347 cal"
+        },
+        {
+            "Name": "Puy Lentils",
+            "Calorie": "345 cal"
+        },
+        {
+            "Name": "Rajma",
+            "Calorie": "140 cal"
+        },
+        {
+            "Name": "Red Beans",
+            "Calorie": "124 cal"
+        },
+        {
+            "Name": "Red Kidney Bean",
+            "Calorie": "337 cal"
+        },
+        {
+            "Name": "Red Lentils",
+            "Calorie": "329 cal"
+        },
+        {
+            "Name": "Refried Beans",
+            "Calorie": "91 cal"
+        },
+        {
+            "Name": "Roasted Soybeans",
+            "Calorie": "471 cal"
+        },
+        {
+            "Name": "Silken Tofu",
+            "Calorie": "55 cal"
+        },
+        {
+            "Name": "Soft Tofu",
+            "Calorie": "61 cal"
+        },
+        {
+            "Name": "Soy Cheese",
+            "Calorie": "235 cal"
+        },
+        {
+            "Name": "Soy Mayonnaise",
+            "Calorie": "322 cal"
+        },
+        {
+            "Name": "Soy Nut Butter",
+            "Calorie": "562 cal"
+        },
+        {
+            "Name": "Soy Nuts",
+            "Calorie": "471 cal"
+        },
+        {
+            "Name": "Soy Yogurt",
+            "Calorie": "66 cal"
+        },
+        {
+            "Name": "Soya Cheese",
+            "Calorie": "235 cal"
+        },
+        {
+            "Name": "Soybeans",
+            "Calorie": "147 cal"
+        },
+        {
+            "Name": "Soynut Butter",
+            "Calorie": "562 cal"
+        },
+        {
+            "Name": "Sugar Peas",
+            "Calorie": "42 cal"
+        },
+        {
+            "Name": "Sweet Peas",
+            "Calorie": "48 cal"
+        },
+        {
+            "Name": "Tempeh",
+            "Calorie": "193 cal"
+        },
+        {
+            "Name": "Textured Soy Protein",
+            "Calorie": "571 cal"
+        },
+        {
+            "Name": "Textured Vegetable Protein",
+            "Calorie": "333 cal"
+        },
+        {
+            "Name": "Tofu",
+            "Calorie": "76 cal"
+        },
+        {
+            "Name": "White Beans",
+            "Calorie": "336 cal"
+        },
+        {
+            "Name": "Yam Bean",
+            "Calorie": "38 cal"
+        },
+        {
+            "Name": "Yellow Lentils",
+            "Calorie": "304 cal"
+        },
+        {
+            "Name": "Yuba",
+            "Calorie": "176 cal"
+        }
+    ]
+}

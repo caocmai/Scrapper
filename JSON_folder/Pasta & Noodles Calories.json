@@ -1,0 +1,169 @@
+{
+    "FoodType": "Pasta \u0026 Noodles Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Cannelloni",
+            "Calorie": "146 cal"
+        },
+        {
+            "Name": "Capellini",
+            "Calorie": "353 cal"
+        },
+        {
+            "Name": "Cappelletti",
+            "Calorie": "164 cal"
+        },
+        {
+            "Name": "Cellophane Noodles",
+            "Calorie": "351 cal"
+        },
+        {
+            "Name": "Cheese Tortellini",
+            "Calorie": "291 cal"
+        },
+        {
+            "Name": "Dampfnudel",
+            "Calorie": "274 cal"
+        },
+        {
+            "Name": "Dumpling Dough",
+            "Calorie": "99 cal"
+        },
+        {
+            "Name": "Durum Wheat Semolina",
+            "Calorie": "397 cal"
+        },
+        {
+            "Name": "Egg Noodles",
+            "Calorie": "384 cal"
+        },
+        {
+            "Name": "Farfalle",
+            "Calorie": "358 cal"
+        },
+        {
+            "Name": "Fettuccine",
+            "Calorie": "353 cal"
+        },
+        {
+            "Name": "Fusilli",
+            "Calorie": "352 cal"
+        },
+        {
+            "Name": "Glass Noodles",
+            "Calorie": "192 cal"
+        },
+        {
+            "Name": "Lasagne Sheets",
+            "Calorie": "271 cal"
+        },
+        {
+            "Name": "Linguine",
+            "Calorie": "357 cal"
+        },
+        {
+            "Name": "Low Carb Pasta",
+            "Calorie": "282 cal"
+        },
+        {
+            "Name": "Macaroni",
+            "Calorie": "370 cal"
+        },
+        {
+            "Name": "Manicotti",
+            "Calorie": "357 cal"
+        },
+        {
+            "Name": "Mostaccioli",
+            "Calorie": "184 cal"
+        },
+        {
+            "Name": "Orecchiette",
+            "Calorie": "370 cal"
+        },
+        {
+            "Name": "Orzo",
+            "Calorie": "357 cal"
+        },
+        {
+            "Name": "Penne",
+            "Calorie": "351 cal"
+        },
+        {
+            "Name": "Penne Rigate",
+            "Calorie": "370 cal"
+        },
+        {
+            "Name": "Pierogi",
+            "Calorie": "200 cal"
+        },
+        {
+            "Name": "Ravioli",
+            "Calorie": "77 cal"
+        },
+        {
+            "Name": "Rigatoni",
+            "Calorie": "353 cal"
+        },
+        {
+            "Name": "Rotini",
+            "Calorie": "353 cal"
+        },
+        {
+            "Name": "Shells",
+            "Calorie": "353 cal"
+        },
+        {
+            "Name": "Shirataki Noodles",
+            "Calorie": "18 cal"
+        },
+        {
+            "Name": "Soy Noodles",
+            "Calorie": "216 cal"
+        },
+        {
+            "Name": "Spaetzle",
+            "Calorie": "368 cal"
+        },
+        {
+            "Name": "Spaghetti",
+            "Calorie": "370 cal"
+        },
+        {
+            "Name": "Spinach Tortellini",
+            "Calorie": "314 cal"
+        },
+        {
+            "Name": "Spirelli",
+            "Calorie": "367 cal"
+        },
+        {
+            "Name": "Tagliatelle",
+            "Calorie": "370 cal"
+        },
+        {
+            "Name": "Tortellini",
+            "Calorie": "291 cal"
+        },
+        {
+            "Name": "Vermicelli",
+            "Calorie": "368 cal"
+        },
+        {
+            "Name": "Whole Grain Noodles",
+            "Calorie": "347 cal"
+        },
+        {
+            "Name": "Whole Grain Spaghetti",
+            "Calorie": "351 cal"
+        },
+        {
+            "Name": "Ziti",
+            "Calorie": "352 cal"
+        }
+    ]
+}

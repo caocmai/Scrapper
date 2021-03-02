@@ -1,0 +1,149 @@
+{
+    "FoodType": "Cold Cuts \u0026 Lunch Meat Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Baked Ham",
+            "Calorie": "343 cal"
+        },
+        {
+            "Name": "Beef Salami",
+            "Calorie": "375 cal"
+        },
+        {
+            "Name": "Boiled Ham",
+            "Calorie": "126 cal"
+        },
+        {
+            "Name": "Bologna",
+            "Calorie": "247 cal"
+        },
+        {
+            "Name": "Bresaola",
+            "Calorie": "178 cal"
+        },
+        {
+            "Name": "Capicola",
+            "Calorie": "110 cal"
+        },
+        {
+            "Name": "Chicken Breast Fillet",
+            "Calorie": "79 cal"
+        },
+        {
+            "Name": "Chopped Ham",
+            "Calorie": "180 cal"
+        },
+        {
+            "Name": "Chorizo",
+            "Calorie": "455 cal"
+        },
+        {
+            "Name": "Corned Beef",
+            "Calorie": "251 cal"
+        },
+        {
+            "Name": "Dutch Loaf",
+            "Calorie": "268 cal"
+        },
+        {
+            "Name": "Ham",
+            "Calorie": "145 cal"
+        },
+        {
+            "Name": "Ham Sausage",
+            "Calorie": "164 cal"
+        },
+        {
+            "Name": "Head Cheese",
+            "Calorie": "157 cal"
+        },
+        {
+            "Name": "Hickory Ham",
+            "Calorie": "188 cal"
+        },
+        {
+            "Name": "Honey Ham",
+            "Calorie": "122 cal"
+        },
+        {
+            "Name": "Liverwurst",
+            "Calorie": "326 cal"
+        },
+        {
+            "Name": "Olive Loaf",
+            "Calorie": "232 cal"
+        },
+        {
+            "Name": "Oven-Roasted Turkey Breast",
+            "Calorie": "104 cal"
+        },
+        {
+            "Name": "Parma Ham",
+            "Calorie": "345 cal"
+        },
+        {
+            "Name": "Pastrami",
+            "Calorie": "133 cal"
+        },
+        {
+            "Name": "Pepperoni",
+            "Calorie": "494 cal"
+        },
+        {
+            "Name": "Pimento Loaf",
+            "Calorie": "265 cal"
+        },
+        {
+            "Name": "Pork Roast",
+            "Calorie": "247 cal"
+        },
+        {
+            "Name": "Prosciutto",
+            "Calorie": "195 cal"
+        },
+        {
+            "Name": "Roast Beef",
+            "Calorie": "267 cal"
+        },
+        {
+            "Name": "Salami",
+            "Calorie": "336 cal"
+        },
+        {
+            "Name": "Serrano Ham",
+            "Calorie": "300 cal"
+        },
+        {
+            "Name": "Smoked Ham",
+            "Calorie": "107 cal"
+        },
+        {
+            "Name": "Smoked Turkey Breast",
+            "Calorie": "104 cal"
+        },
+        {
+            "Name": "Summer Sausage",
+            "Calorie": "298 cal"
+        },
+        {
+            "Name": "Tongue",
+            "Calorie": "284 cal"
+        },
+        {
+            "Name": "Turkey Breast",
+            "Calorie": "104 cal"
+        },
+        {
+            "Name": "Turkey Ham",
+            "Calorie": "126 cal"
+        },
+        {
+            "Name": "Turkey Salami",
+            "Calorie": "152 cal"
+        }
+    ]
+}

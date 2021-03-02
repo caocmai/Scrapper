@@ -1,0 +1,165 @@
+{
+    "FoodType": "Potato Products Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "All-blue Potatoes",
+            "Calorie": "61 cal"
+        },
+        {
+            "Name": "Baked Potato",
+            "Calorie": "93 cal"
+        },
+        {
+            "Name": "Boiled Potatoes",
+            "Calorie": "87 cal"
+        },
+        {
+            "Name": "Cassava",
+            "Calorie": "160 cal"
+        },
+        {
+            "Name": "Croquettes",
+            "Calorie": "127 cal"
+        },
+        {
+            "Name": "Dumpling Dough",
+            "Calorie": "124 cal"
+        },
+        {
+            "Name": "Dumplings",
+            "Calorie": "124 cal"
+        },
+        {
+            "Name": "French Fingerling Potatoes",
+            "Calorie": "82 cal"
+        },
+        {
+            "Name": "French Fries",
+            "Calorie": "312 cal"
+        },
+        {
+            "Name": "Fried Potatoes",
+            "Calorie": "312 cal"
+        },
+        {
+            "Name": "Gnocchi",
+            "Calorie": "133 cal"
+        },
+        {
+            "Name": "Japanese Sweet Potatoes",
+            "Calorie": "87 cal"
+        },
+        {
+            "Name": "Marrow Dumplings",
+            "Calorie": "424 cal"
+        },
+        {
+            "Name": "Mashed Potatoes",
+            "Calorie": "89 cal"
+        },
+        {
+            "Name": "Norland Red Potatoes",
+            "Calorie": "89 cal"
+        },
+        {
+            "Name": "Omelette",
+            "Calorie": "154 cal"
+        },
+        {
+            "Name": "Potato",
+            "Calorie": "77 cal"
+        },
+        {
+            "Name": "Potato Dumpling",
+            "Calorie": "124 cal"
+        },
+        {
+            "Name": "Potato Fritter",
+            "Calorie": "185 cal"
+        },
+        {
+            "Name": "Potato Gratin",
+            "Calorie": "132 cal"
+        },
+        {
+            "Name": "Potato Pancakes",
+            "Calorie": "268 cal"
+        },
+        {
+            "Name": "Potato Salad",
+            "Calorie": "143 cal"
+        },
+        {
+            "Name": "Potato Starch",
+            "Calorie": "331 cal"
+        },
+        {
+            "Name": "Potato Sticks",
+            "Calorie": "522 cal"
+        },
+        {
+            "Name": "Potato Waffles",
+            "Calorie": "167 cal"
+        },
+        {
+            "Name": "Potato Wedges",
+            "Calorie": "123 cal"
+        },
+        {
+            "Name": "Potatoes au Gratin",
+            "Calorie": "132 cal"
+        },
+        {
+            "Name": "Purple Majesty Potatoes",
+            "Calorie": "72 cal"
+        },
+        {
+            "Name": "Red Gold Potatoes",
+            "Calorie": "89 cal"
+        },
+        {
+            "Name": "Red Potatoes",
+            "Calorie": "89 cal"
+        },
+        {
+            "Name": "Roast Potatoes",
+            "Calorie": "149 cal"
+        },
+        {
+            "Name": "Rosemary Potatoes",
+            "Calorie": "93 cal"
+        },
+        {
+            "Name": "Rösti",
+            "Calorie": "138 cal"
+        },
+        {
+            "Name": "Russet Potatoes",
+            "Calorie": "97 cal"
+        },
+        {
+            "Name": "Russian Banana Potatoes",
+            "Calorie": "67 cal"
+        },
+        {
+            "Name": "Sweet Potato",
+            "Calorie": "92 cal"
+        },
+        {
+            "Name": "White Potatoes",
+            "Calorie": "94 cal"
+        },
+        {
+            "Name": "Yams",
+            "Calorie": "116 cal"
+        },
+        {
+            "Name": "Yukon Gold Potatoes",
+            "Calorie": "82 cal"
+        }
+    ]
+}

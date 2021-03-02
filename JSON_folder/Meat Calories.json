@@ -1,0 +1,193 @@
+{
+    "FoodType": "Meat Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Alligator",
+            "Calorie": "232 cal"
+        },
+        {
+            "Name": "Beef",
+            "Calorie": "248 cal"
+        },
+        {
+            "Name": "Beef Brisket",
+            "Calorie": "242 cal"
+        },
+        {
+            "Name": "Beef Jerky",
+            "Calorie": "410 cal"
+        },
+        {
+            "Name": "Beef Ribs",
+            "Calorie": "238 cal"
+        },
+        {
+            "Name": "Beef Tenderloin",
+            "Calorie": "218 cal"
+        },
+        {
+            "Name": "Chicken",
+            "Calorie": "219 cal"
+        },
+        {
+            "Name": "Chicken Breast",
+            "Calorie": "172 cal"
+        },
+        {
+            "Name": "Chicken Drumstick",
+            "Calorie": "185 cal"
+        },
+        {
+            "Name": "Chicken Fat",
+            "Calorie": "898 cal"
+        },
+        {
+            "Name": "Chicken Giblets",
+            "Calorie": "158 cal"
+        },
+        {
+            "Name": "Chicken Gizzards",
+            "Calorie": "146 cal"
+        },
+        {
+            "Name": "Chicken Leg",
+            "Calorie": "174 cal"
+        },
+        {
+            "Name": "Chicken Liver",
+            "Calorie": "167 cal"
+        },
+        {
+            "Name": "Chicken Meat",
+            "Calorie": "172 cal"
+        },
+        {
+            "Name": "Chicken Thigh",
+            "Calorie": "229 cal"
+        },
+        {
+            "Name": "Chicken Wing",
+            "Calorie": "266 cal"
+        },
+        {
+            "Name": "Chuck Steak",
+            "Calorie": "277 cal"
+        },
+        {
+            "Name": "Cubed Steak",
+            "Calorie": "199 cal"
+        },
+        {
+            "Name": "Duck",
+            "Calorie": "337 cal"
+        },
+        {
+            "Name": "Filet Mignon",
+            "Calorie": "267 cal"
+        },
+        {
+            "Name": "Flank Steak",
+            "Calorie": "194 cal"
+        },
+        {
+            "Name": "Flat Iron Steak",
+            "Calorie": "137 cal"
+        },
+        {
+            "Name": "Ground Beef",
+            "Calorie": "246 cal"
+        },
+        {
+            "Name": "Ground Round",
+            "Calorie": "246 cal"
+        },
+        {
+            "Name": "Ham",
+            "Calorie": "163 cal"
+        },
+        {
+            "Name": "New York Strip Steak",
+            "Calorie": "199 cal"
+        },
+        {
+            "Name": "Ostrich",
+            "Calorie": "145 cal"
+        },
+        {
+            "Name": "Pork",
+            "Calorie": "196 cal"
+        },
+        {
+            "Name": "Pork Baby Back Ribs",
+            "Calorie": "212 cal"
+        },
+        {
+            "Name": "Pork Chops",
+            "Calorie": "196 cal"
+        },
+        {
+            "Name": "Pork Country-Style Ribs",
+            "Calorie": "247 cal"
+        },
+        {
+            "Name": "Pork Loin",
+            "Calorie": "204 cal"
+        },
+        {
+            "Name": "Pork Roast",
+            "Calorie": "254 cal"
+        },
+        {
+            "Name": "Pork Steaks",
+            "Calorie": "196 cal"
+        },
+        {
+            "Name": "Roast Beef",
+            "Calorie": "140 cal"
+        },
+        {
+            "Name": "Round Steak",
+            "Calorie": "182 cal"
+        },
+        {
+            "Name": "Schnitzel",
+            "Calorie": "156 cal"
+        },
+        {
+            "Name": "Spare Ribs",
+            "Calorie": "238 cal"
+        },
+        {
+            "Name": "Standing Rib Roast",
+            "Calorie": "333 cal"
+        },
+        {
+            "Name": "T-Bone Steak",
+            "Calorie": "202 cal"
+        },
+        {
+            "Name": "Turkey",
+            "Calorie": "189 cal"
+        },
+        {
+            "Name": "Turkey Breast",
+            "Calorie": "135 cal"
+        },
+        {
+            "Name": "Turkey Legs",
+            "Calorie": "208 cal"
+        },
+        {
+            "Name": "Turkey Steak",
+            "Calorie": "189 cal"
+        },
+        {
+            "Name": "Turkey Wings",
+            "Calorie": "221 cal"
+        }
+    ]
+}

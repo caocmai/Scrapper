@@ -1,0 +1,145 @@
+{
+    "FoodType": "Sliced Cheese Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "American Cheese",
+            "Calorie": "148 cal"
+        },
+        {
+            "Name": "Applewood",
+            "Calorie": "410 cal"
+        },
+        {
+            "Name": "Bergkäse",
+            "Calorie": "418 cal"
+        },
+        {
+            "Name": "Butter Cheese",
+            "Calorie": "388 cal"
+        },
+        {
+            "Name": "Cheddar",
+            "Calorie": "403 cal"
+        },
+        {
+            "Name": "Cheese Platter",
+            "Calorie": "357 cal"
+        },
+        {
+            "Name": "Cheese Slices",
+            "Calorie": "356 cal"
+        },
+        {
+            "Name": "Colby Cheese",
+            "Calorie": "394 cal"
+        },
+        {
+            "Name": "Colby-Jack Cheese",
+            "Calorie": "394 cal"
+        },
+        {
+            "Name": "Cold Pack Cheese",
+            "Calorie": "246 cal"
+        },
+        {
+            "Name": "Edam",
+            "Calorie": "357 cal"
+        },
+        {
+            "Name": "Edam Cheese",
+            "Calorie": "357 cal"
+        },
+        {
+            "Name": "Emmental",
+            "Calorie": "357 cal"
+        },
+        {
+            "Name": "Emmentaler",
+            "Calorie": "357 cal"
+        },
+        {
+            "Name": "Esrom (Cheese)",
+            "Calorie": "322 cal"
+        },
+        {
+            "Name": "Fol Epi",
+            "Calorie": "388 cal"
+        },
+        {
+            "Name": "Fresh Mozzarella",
+            "Calorie": "280 cal"
+        },
+        {
+            "Name": "Gouda",
+            "Calorie": "356 cal"
+        },
+        {
+            "Name": "Gouda Cheese",
+            "Calorie": "356 cal"
+        },
+        {
+            "Name": "Havarti",
+            "Calorie": "371 cal"
+        },
+        {
+            "Name": "Lacy Swiss Cheese",
+            "Calorie": "321 cal"
+        },
+        {
+            "Name": "Leerdammer",
+            "Calorie": "284 cal"
+        },
+        {
+            "Name": "Leerdammer Cheese",
+            "Calorie": "284 cal"
+        },
+        {
+            "Name": "Maasdam Cheese",
+            "Calorie": "344 cal"
+        },
+        {
+            "Name": "Monterey Jack Cheese",
+            "Calorie": "373 cal"
+        },
+        {
+            "Name": "Mozzarella",
+            "Calorie": "280 cal"
+        },
+        {
+            "Name": "Muenster Cheese",
+            "Calorie": "368 cal"
+        },
+        {
+            "Name": "Pepper Cheese",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Sandwich Cheese",
+            "Calorie": "148 cal"
+        },
+        {
+            "Name": "Smoked Cheese",
+            "Calorie": "410 cal"
+        },
+        {
+            "Name": "Tilsit",
+            "Calorie": "340 cal"
+        },
+        {
+            "Name": "White American",
+            "Calorie": "148 cal"
+        },
+        {
+            "Name": "White Cheddar",
+            "Calorie": "403 cal"
+        },
+        {
+            "Name": "Young Gouda",
+            "Calorie": "356 cal"
+        }
+    ]
+}

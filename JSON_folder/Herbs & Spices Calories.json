@@ -1,0 +1,369 @@
+{
+    "FoodType": "Herbs \u0026 Spices Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Almond Extract",
+            "Calorie": "374 cal"
+        },
+        {
+            "Name": "Anise",
+            "Calorie": "337 cal"
+        },
+        {
+            "Name": "Anise Seed",
+            "Calorie": "337 cal"
+        },
+        {
+            "Name": "Arrowroot",
+            "Calorie": "65 cal"
+        },
+        {
+            "Name": "Arugula",
+            "Calorie": "25 cal"
+        },
+        {
+            "Name": "Balsamic Vinegar",
+            "Calorie": "88 cal"
+        },
+        {
+            "Name": "Basil",
+            "Calorie": "233 cal"
+        },
+        {
+            "Name": "Black Pepper",
+            "Calorie": "251 cal"
+        },
+        {
+            "Name": "Black Sesame Seeds",
+            "Calorie": "573 cal"
+        },
+        {
+            "Name": "Broth",
+            "Calorie": "100 cal"
+        },
+        {
+            "Name": "Capers",
+            "Calorie": "23 cal"
+        },
+        {
+            "Name": "Caraway Seeds",
+            "Calorie": "333 cal"
+        },
+        {
+            "Name": "Cardamom",
+            "Calorie": "311 cal"
+        },
+        {
+            "Name": "Cassava",
+            "Calorie": "160 cal"
+        },
+        {
+            "Name": "Cayenne Pepper",
+            "Calorie": "318 cal"
+        },
+        {
+            "Name": "Chard",
+            "Calorie": "19 cal"
+        },
+        {
+            "Name": "Chicory Greens",
+            "Calorie": "23 cal"
+        },
+        {
+            "Name": "Chicory Roots",
+            "Calorie": "72 cal"
+        },
+        {
+            "Name": "Chili",
+            "Calorie": "282 cal"
+        },
+        {
+            "Name": "Chili Powder",
+            "Calorie": "282 cal"
+        },
+        {
+            "Name": "Chives",
+            "Calorie": "30 cal"
+        },
+        {
+            "Name": "Cider Vinegar",
+            "Calorie": "21 cal"
+        },
+        {
+            "Name": "Cilantro",
+            "Calorie": "23 cal"
+        },
+        {
+            "Name": "Cinnamon",
+            "Calorie": "247 cal"
+        },
+        {
+            "Name": "Cloves",
+            "Calorie": "274 cal"
+        },
+        {
+            "Name": "Coriander",
+            "Calorie": "23 cal"
+        },
+        {
+            "Name": "Cream of Tartar",
+            "Calorie": "258 cal"
+        },
+        {
+            "Name": "Cress",
+            "Calorie": "32 cal"
+        },
+        {
+            "Name": "Crystallized Ginger",
+            "Calorie": "335 cal"
+        },
+        {
+            "Name": "Cumin",
+            "Calorie": "375 cal"
+        },
+        {
+            "Name": "Cumin Seed",
+            "Calorie": "375 cal"
+        },
+        {
+            "Name": "Curry",
+            "Calorie": "325 cal"
+        },
+        {
+            "Name": "Dandelion",
+            "Calorie": "45 cal"
+        },
+        {
+            "Name": "Dill",
+            "Calorie": "43 cal"
+        },
+        {
+            "Name": "Dill Weed",
+            "Calorie": "43 cal"
+        },
+        {
+            "Name": "Fennel",
+            "Calorie": "31 cal"
+        },
+        {
+            "Name": "Fennel Seed",
+            "Calorie": "345 cal"
+        },
+        {
+            "Name": "Fenugreek",
+            "Calorie": "323 cal"
+        },
+        {
+            "Name": "Garlic",
+            "Calorie": "149 cal"
+        },
+        {
+            "Name": "Garlic Powder",
+            "Calorie": "331 cal"
+        },
+        {
+            "Name": "Garlic Salt",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Ginger",
+            "Calorie": "80 cal"
+        },
+        {
+            "Name": "Grape Leaves",
+            "Calorie": "93 cal"
+        },
+        {
+            "Name": "Ground Ginger",
+            "Calorie": "335 cal"
+        },
+        {
+            "Name": "Horseradish",
+            "Calorie": "48 cal"
+        },
+        {
+            "Name": "Hot Pepper",
+            "Calorie": "318 cal"
+        },
+        {
+            "Name": "Iodized Salt",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Jalapeno",
+            "Calorie": "13 cal"
+        },
+        {
+            "Name": "Juniper",
+            "Calorie": "45 cal"
+        },
+        {
+            "Name": "Lemon Grass",
+            "Calorie": "99 cal"
+        },
+        {
+            "Name": "Licorice",
+            "Calorie": "375 cal"
+        },
+        {
+            "Name": "Maggi",
+            "Calorie": "104 cal"
+        },
+        {
+            "Name": "Marjoram",
+            "Calorie": "271 cal"
+        },
+        {
+            "Name": "Minced Onion",
+            "Calorie": "40 cal"
+        },
+        {
+            "Name": "Mint",
+            "Calorie": "70 cal"
+        },
+        {
+            "Name": "Mustard Seed",
+            "Calorie": "508 cal"
+        },
+        {
+            "Name": "Nutmeg",
+            "Calorie": "525 cal"
+        },
+        {
+            "Name": "Okra",
+            "Calorie": "33 cal"
+        },
+        {
+            "Name": "Onion",
+            "Calorie": "40 cal"
+        },
+        {
+            "Name": "Onion Powder",
+            "Calorie": "341 cal"
+        },
+        {
+            "Name": "Orange Peel",
+            "Calorie": "97 cal"
+        },
+        {
+            "Name": "Oregano",
+            "Calorie": "265 cal"
+        },
+        {
+            "Name": "Paprika",
+            "Calorie": "282 cal"
+        },
+        {
+            "Name": "Parsley",
+            "Calorie": "36 cal"
+        },
+        {
+            "Name": "Parsnip",
+            "Calorie": "75 cal"
+        },
+        {
+            "Name": "Pepper",
+            "Calorie": "251 cal"
+        },
+        {
+            "Name": "Poppy Seed",
+            "Calorie": "525 cal"
+        },
+        {
+            "Name": "Poultry Seasoning",
+            "Calorie": "307 cal"
+        },
+        {
+            "Name": "Pumpkin Pie Spice",
+            "Calorie": "342 cal"
+        },
+        {
+            "Name": "Red Pepper",
+            "Calorie": "251 cal"
+        },
+        {
+            "Name": "Red Wine Vinegar",
+            "Calorie": "19 cal"
+        },
+        {
+            "Name": "Rosemary",
+            "Calorie": "131 cal"
+        },
+        {
+            "Name": "Saffron",
+            "Calorie": "310 cal"
+        },
+        {
+            "Name": "Sage",
+            "Calorie": "315 cal"
+        },
+        {
+            "Name": "Salt",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Savory",
+            "Calorie": "272 cal"
+        },
+        {
+            "Name": "Sea Salt",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Serrano Pepper",
+            "Calorie": "32 cal"
+        },
+        {
+            "Name": "Sesame Seeds",
+            "Calorie": "573 cal"
+        },
+        {
+            "Name": "Stevia",
+            "Calorie": "0 cal"
+        },
+        {
+            "Name": "Tamarind",
+            "Calorie": "239 cal"
+        },
+        {
+            "Name": "Taro",
+            "Calorie": "112 cal"
+        },
+        {
+            "Name": "Tarragon",
+            "Calorie": "295 cal"
+        },
+        {
+            "Name": "Thyme",
+            "Calorie": "276 cal"
+        },
+        {
+            "Name": "Turmeric",
+            "Calorie": "354 cal"
+        },
+        {
+            "Name": "Vanilla Bean",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Vanilla Extract",
+            "Calorie": "288 cal"
+        },
+        {
+            "Name": "Vinegar",
+            "Calorie": "18 cal"
+        },
+        {
+            "Name": "White Pepper",
+            "Calorie": "296 cal"
+        },
+        {
+            "Name": "Yam",
+            "Calorie": "118 cal"
+        }
+    ]
+}

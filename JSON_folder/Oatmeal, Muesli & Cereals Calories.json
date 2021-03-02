@@ -1,0 +1,313 @@
+{
+    "FoodType": "Oatmeal, Muesli \u0026 Cereals Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Bran Flakes",
+            "Calorie": "356 cal"
+        },
+        {
+            "Name": "Cap’n Crunch",
+            "Calorie": "404 cal"
+        },
+        {
+            "Name": "Cheerios",
+            "Calorie": "347 cal"
+        },
+        {
+            "Name": "Chex",
+            "Calorie": "387 cal"
+        },
+        {
+            "Name": "Chocolate Cheerios",
+            "Calorie": "367 cal"
+        },
+        {
+            "Name": "Chocos",
+            "Calorie": "380 cal"
+        },
+        {
+            "Name": "Cinnamon Toast Crunch",
+            "Calorie": "433 cal"
+        },
+        {
+            "Name": "Coco Pops",
+            "Calorie": "376 cal"
+        },
+        {
+            "Name": "Cocoa Krispies",
+            "Calorie": "386 cal"
+        },
+        {
+            "Name": "Cocoa Pebbles",
+            "Calorie": "367 cal"
+        },
+        {
+            "Name": "Cocoa Puffs",
+            "Calorie": "400 cal"
+        },
+        {
+            "Name": "Cookie Crisp",
+            "Calorie": "400 cal"
+        },
+        {
+            "Name": "Corn Flakes",
+            "Calorie": "357 cal"
+        },
+        {
+            "Name": "Corn Pops",
+            "Calorie": "377 cal"
+        },
+        {
+            "Name": "Count Chocula",
+            "Calorie": "407 cal"
+        },
+        {
+            "Name": "Cracklin Oat Bran",
+            "Calorie": "402 cal"
+        },
+        {
+            "Name": "Cream of Wheat",
+            "Calorie": "364 cal"
+        },
+        {
+            "Name": "Crunchy Nut",
+            "Calorie": "600 cal"
+        },
+        {
+            "Name": "Crunchy Nut Cornflakes",
+            "Calorie": "600 cal"
+        },
+        {
+            "Name": "Fiber One",
+            "Calorie": "267 cal"
+        },
+        {
+            "Name": "Froot Loops",
+            "Calorie": "379 cal"
+        },
+        {
+            "Name": "Frosted Cheerios",
+            "Calorie": "393 cal"
+        },
+        {
+            "Name": "Frosted Flakes",
+            "Calorie": "367 cal"
+        },
+        {
+            "Name": "Frosted Mini-Wheats",
+            "Calorie": "353 cal"
+        },
+        {
+            "Name": "Frosties",
+            "Calorie": "367 cal"
+        },
+        {
+            "Name": "Fruity Pebbles",
+            "Calorie": "400 cal"
+        },
+        {
+            "Name": "Golden Grahams",
+            "Calorie": "400 cal"
+        },
+        {
+            "Name": "Grape-Nuts",
+            "Calorie": "362 cal"
+        },
+        {
+            "Name": "Honey Nut Cheerios",
+            "Calorie": "393 cal"
+        },
+        {
+            "Name": "Honey Smacks",
+            "Calorie": "370 cal"
+        },
+        {
+            "Name": "Honeycomb",
+            "Calorie": "397 cal"
+        },
+        {
+            "Name": "Just Right",
+            "Calorie": "391 cal"
+        },
+        {
+            "Name": "Kashi",
+            "Calorie": "377 cal"
+        },
+        {
+            "Name": "Kelloggs Corn Flakes",
+            "Calorie": "357 cal"
+        },
+        {
+            "Name": "Kix",
+            "Calorie": "367 cal"
+        },
+        {
+            "Name": "Krave",
+            "Calorie": "372 cal"
+        },
+        {
+            "Name": "Life Cereal",
+            "Calorie": "375 cal"
+        },
+        {
+            "Name": "Lucky Charms",
+            "Calorie": "406 cal"
+        },
+        {
+            "Name": "Malt-O-Meal",
+            "Calorie": "51 cal"
+        },
+        {
+            "Name": "Mini-Wheats",
+            "Calorie": "353 cal"
+        },
+        {
+            "Name": "Muesli",
+            "Calorie": "336 cal"
+        },
+        {
+            "Name": "Multigrain Cheerios",
+            "Calorie": "380 cal"
+        },
+        {
+            "Name": "Nutri-Grain",
+            "Calorie": "351 cal"
+        },
+        {
+            "Name": "Oatibix",
+            "Calorie": "421 cal"
+        },
+        {
+            "Name": "Oatmeal",
+            "Calorie": "375 cal"
+        },
+        {
+            "Name": "Peanut Butter Toast Crunch",
+            "Calorie": "431 cal"
+        },
+        {
+            "Name": "Post Raisin Bran",
+            "Calorie": "322 cal"
+        },
+        {
+            "Name": "Post Shredded Wheat",
+            "Calorie": "347 cal"
+        },
+        {
+            "Name": "Puff",
+            "Calorie": "367 cal"
+        },
+        {
+            "Name": "Puffed Rice",
+            "Calorie": "383 cal"
+        },
+        {
+            "Name": "Puffed Wheat",
+            "Calorie": "367 cal"
+        },
+        {
+            "Name": "Quaker Grits",
+            "Calorie": "344 cal"
+        },
+        {
+            "Name": "Quaker Oatmeal",
+            "Calorie": "375 cal"
+        },
+        {
+            "Name": "Quaker Oatmeal Squares",
+            "Calorie": "400 cal"
+        },
+        {
+            "Name": "Raisin Bran",
+            "Calorie": "322 cal"
+        },
+        {
+            "Name": "Raisin Bran Crunch",
+            "Calorie": "355 cal"
+        },
+        {
+            "Name": "Raisin Bran Crunch",
+            "Calorie": "355 cal"
+        },
+        {
+            "Name": "Raisin Nut Bran",
+            "Calorie": "367 cal"
+        },
+        {
+            "Name": "Ready Brek",
+            "Calorie": "359 cal"
+        },
+        {
+            "Name": "Rice Chex",
+            "Calorie": "387 cal"
+        },
+        {
+            "Name": "Rice Krispies",
+            "Calorie": "394 cal"
+        },
+        {
+            "Name": "Scooters",
+            "Calorie": "367 cal"
+        },
+        {
+            "Name": "Shredded Wheat",
+            "Calorie": "340 cal"
+        },
+        {
+            "Name": "Shreddies",
+            "Calorie": "351 cal"
+        },
+        {
+            "Name": "Smart Start",
+            "Calorie": "371 cal"
+        },
+        {
+            "Name": "Special K",
+            "Calorie": "377 cal"
+        },
+        {
+            "Name": "Special K Chocolatey Delight",
+            "Calorie": "388 cal"
+        },
+        {
+            "Name": "Special K Protein Plus",
+            "Calorie": "375 cal"
+        },
+        {
+            "Name": "Special K Red Berries",
+            "Calorie": "345 cal"
+        },
+        {
+            "Name": "Sugar Puffs",
+            "Calorie": "379 cal"
+        },
+        {
+            "Name": "Toasties",
+            "Calorie": "361 cal"
+        },
+        {
+            "Name": "Trix",
+            "Calorie": "400 cal"
+        },
+        {
+            "Name": "Weet-Bix",
+            "Calorie": "353 cal"
+        },
+        {
+            "Name": "Weetabix",
+            "Calorie": "358 cal"
+        },
+        {
+            "Name": "Weetos",
+            "Calorie": "378 cal"
+        },
+        {
+            "Name": "Wheaties",
+            "Calorie": "367 cal"
+        }
+    ]
+}

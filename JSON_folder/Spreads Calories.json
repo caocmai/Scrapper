@@ -1,0 +1,165 @@
+{
+    "FoodType": "Spreads Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Almond Butter",
+            "Calorie": "614 cal"
+        },
+        {
+            "Name": "Apple Butter",
+            "Calorie": "173 cal"
+        },
+        {
+            "Name": "Applesauce",
+            "Calorie": "68 cal"
+        },
+        {
+            "Name": "Apricot Jam",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Blackberry Jam",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Blackcurrant Jam",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Blueberry Jam",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Cheese Spread",
+            "Calorie": "290 cal"
+        },
+        {
+            "Name": "Cherry Jam",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Chocolate Philadelphia",
+            "Calorie": "287 cal"
+        },
+        {
+            "Name": "Chocolate Spread",
+            "Calorie": "541 cal"
+        },
+        {
+            "Name": "Cream Cheese",
+            "Calorie": "342 cal"
+        },
+        {
+            "Name": "Egg",
+            "Calorie": "97 cal"
+        },
+        {
+            "Name": "Grape Jelly",
+            "Calorie": "255 cal"
+        },
+        {
+            "Name": "Honey",
+            "Calorie": "304 cal"
+        },
+        {
+            "Name": "Jelly",
+            "Calorie": "278 cal"
+        },
+        {
+            "Name": "Jif Peanut Butter",
+            "Calorie": "580 cal"
+        },
+        {
+            "Name": "Liverwurst",
+            "Calorie": "305 cal"
+        },
+        {
+            "Name": "Margarine",
+            "Calorie": "717 cal"
+        },
+        {
+            "Name": "Marmite",
+            "Calorie": "225 cal"
+        },
+        {
+            "Name": "Marshmallow Fluff",
+            "Calorie": "666 cal"
+        },
+        {
+            "Name": "Nutella",
+            "Calorie": "544 cal"
+        },
+        {
+            "Name": "Olive Spread",
+            "Calorie": "550 cal"
+        },
+        {
+            "Name": "Pâté (720), Pate",
+            "Calorie": "319 cal"
+        },
+        {
+            "Name": "Peanut Butter",
+            "Calorie": "589 cal"
+        },
+        {
+            "Name": "Peter Pan Peanut Butter",
+            "Calorie": "609 cal"
+        },
+        {
+            "Name": "Philadelphia Cream Cheese",
+            "Calorie": "342 cal"
+        },
+        {
+            "Name": "Plum Jam",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Salted Butter",
+            "Calorie": "717 cal"
+        },
+        {
+            "Name": "Skippy Peanut Butter",
+            "Calorie": "594 cal"
+        },
+        {
+            "Name": "Smuckers Strawberry Jam",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Strawberry Jam",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Strawberry Jelly",
+            "Calorie": "250 cal"
+        },
+        {
+            "Name": "Sunbutter",
+            "Calorie": "617 cal"
+        },
+        {
+            "Name": "Sunflower Butter",
+            "Calorie": "617 cal"
+        },
+        {
+            "Name": "Tapenade",
+            "Calorie": "233 cal"
+        },
+        {
+            "Name": "Unsalted Butter",
+            "Calorie": "717 cal"
+        },
+        {
+            "Name": "Vegemite",
+            "Calorie": "180 cal"
+        },
+        {
+            "Name": "Wild Honey",
+            "Calorie": "286 cal"
+        }
+    ]
+}

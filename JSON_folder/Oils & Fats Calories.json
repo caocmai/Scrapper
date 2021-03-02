@@ -1,0 +1,129 @@
+{
+    "FoodType": "Oils \u0026 Fats Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "Almond Oil",
+            "Calorie": "882 cal"
+        },
+        {
+            "Name": "Avocado Oil",
+            "Calorie": "857 cal"
+        },
+        {
+            "Name": "Butter",
+            "Calorie": "720 cal"
+        },
+        {
+            "Name": "Canola Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Coconut Oil",
+            "Calorie": "857 cal"
+        },
+        {
+            "Name": "Cod Liver Oil",
+            "Calorie": "1000 cal"
+        },
+        {
+            "Name": "Corn Oil",
+            "Calorie": "800 cal"
+        },
+        {
+            "Name": "Cottonseed Oil",
+            "Calorie": "882 cal"
+        },
+        {
+            "Name": "Flaxseed Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Ghee",
+            "Calorie": "120 cal"
+        },
+        {
+            "Name": "Goose Fat",
+            "Calorie": "898 cal"
+        },
+        {
+            "Name": "Grape Seed Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Hemp Oil",
+            "Calorie": "807 cal"
+        },
+        {
+            "Name": "Herring Oil",
+            "Calorie": "902 cal"
+        },
+        {
+            "Name": "I can\\’t believe it\\’s not Butter",
+            "Calorie": "357 cal"
+        },
+        {
+            "Name": "Lard",
+            "Calorie": "902 cal"
+        },
+        {
+            "Name": "Macadamia Oil",
+            "Calorie": "819 cal"
+        },
+        {
+            "Name": "Margarine",
+            "Calorie": "717 cal"
+        },
+        {
+            "Name": "Mustard Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Olive Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Palm Oil",
+            "Calorie": "882 cal"
+        },
+        {
+            "Name": "Peanut Oil",
+            "Calorie": "857 cal"
+        },
+        {
+            "Name": "Real Butter",
+            "Calorie": "720 cal"
+        },
+        {
+            "Name": "Rice Bran Oil",
+            "Calorie": "889 cal"
+        },
+        {
+            "Name": "Safflower Oil",
+            "Calorie": "857 cal"
+        },
+        {
+            "Name": "Sardine Oil",
+            "Calorie": "902 cal"
+        },
+        {
+            "Name": "Sesame Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Soybean Oil",
+            "Calorie": "889 cal"
+        },
+        {
+            "Name": "Sunflower Oil",
+            "Calorie": "884 cal"
+        },
+        {
+            "Name": "Walnut Oil",
+            "Calorie": "889 cal"
+        }
+    ]
+}

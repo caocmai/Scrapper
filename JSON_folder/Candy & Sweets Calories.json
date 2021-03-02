@@ -1,0 +1,333 @@
+{
+    "FoodType": "Candy \u0026 Sweets Calories",
+    "Foods": [
+        {
+            "Name": "Food",
+            "Calorie": "Calories"
+        },
+        {
+            "Name": "3 Musketeers",
+            "Calorie": "400 cal"
+        },
+        {
+            "Name": "After Eight",
+            "Calorie": "452 cal"
+        },
+        {
+            "Name": "Airheads",
+            "Calorie": "375 cal"
+        },
+        {
+            "Name": "Almond Roca",
+            "Calorie": "571 cal"
+        },
+        {
+            "Name": "Angel Delight",
+            "Calorie": "451 cal"
+        },
+        {
+            "Name": "Animal Crackers",
+            "Calorie": "446 cal"
+        },
+        {
+            "Name": "Baby Ruth",
+            "Calorie": "469 cal"
+        },
+        {
+            "Name": "Butterfinger",
+            "Calorie": "450 cal"
+        },
+        {
+            "Name": "Buttermilk Pancakes",
+            "Calorie": "238 cal"
+        },
+        {
+            "Name": "Candy Apple",
+            "Calorie": "152 cal"
+        },
+        {
+            "Name": "Candy Cane",
+            "Calorie": "423 cal"
+        },
+        {
+            "Name": "Candy canes",
+            "Calorie": "423 cal"
+        },
+        {
+            "Name": "Candy Corn",
+            "Calorie": "360 cal"
+        },
+        {
+            "Name": "Candy Floss",
+            "Calorie": "400 cal"
+        },
+        {
+            "Name": "Caramel Popcorn",
+            "Calorie": "376 cal"
+        },
+        {
+            "Name": "Caramel squares",
+            "Calorie": "367 cal"
+        },
+        {
+            "Name": "Celebrations",
+            "Calorie": "490 cal"
+        },
+        {
+            "Name": "Cheez-It’s",
+            "Calorie": "533 cal"
+        },
+        {
+            "Name": "Chocolate",
+            "Calorie": "529 cal"
+        },
+        {
+            "Name": "Chocolate Bar",
+            "Calorie": "533 cal"
+        },
+        {
+            "Name": "Chocolate Chips",
+            "Calorie": "493 cal"
+        },
+        {
+            "Name": "Cookies",
+            "Calorie": "488 cal"
+        },
+        {
+            "Name": "Cotton Candy",
+            "Calorie": "643 cal"
+        },
+        {
+            "Name": "Eggy Bread",
+            "Calorie": "196 cal"
+        },
+        {
+            "Name": "Fairy Cakes",
+            "Calorie": "440 cal"
+        },
+        {
+            "Name": "Ferrero Rocher",
+            "Calorie": "576 cal"
+        },
+        {
+            "Name": "Flapjack",
+            "Calorie": "486 cal"
+        },
+        {
+            "Name": "Fortune Cookies",
+            "Calorie": "214 cal"
+        },
+        {
+            "Name": "Granola Bars",
+            "Calorie": "452 cal"
+        },
+        {
+            "Name": "Gumdrops",
+            "Calorie": "321 cal"
+        },
+        {
+            "Name": "Gummi Bears",
+            "Calorie": "316 cal"
+        },
+        {
+            "Name": "Hanuta",
+            "Calorie": "541 cal"
+        },
+        {
+            "Name": "Hershey Kisses",
+            "Calorie": "471 cal"
+        },
+        {
+            "Name": "Jelly Beans",
+            "Calorie": "354 cal"
+        },
+        {
+            "Name": "Jelly Belly",
+            "Calorie": "354 cal"
+        },
+        {
+            "Name": "Jolly Ranchers",
+            "Calorie": "385 cal"
+        },
+        {
+            "Name": "Jordan Almonds",
+            "Calorie": "429 cal"
+        },
+        {
+            "Name": "Kit Kat",
+            "Calorie": "521 cal"
+        },
+        {
+            "Name": "Laffy Taffy",
+            "Calorie": "372 cal"
+        },
+        {
+            "Name": "Licorice",
+            "Calorie": "375 cal"
+        },
+        {
+            "Name": "LifeSavers",
+            "Calorie": "500 cal"
+        },
+        {
+            "Name": "Lindt Chocolate",
+            "Calorie": "548 cal"
+        },
+        {
+            "Name": "Liquorice",
+            "Calorie": "375 cal"
+        },
+        {
+            "Name": "Lollipop",
+            "Calorie": "392 cal"
+        },
+        {
+            "Name": "M\u0026M’s",
+            "Calorie": "479 cal"
+        },
+        {
+            "Name": "Maltesers",
+            "Calorie": "498 cal"
+        },
+        {
+            "Name": "Mars Bar",
+            "Calorie": "448 cal"
+        },
+        {
+            "Name": "Marshmallows",
+            "Calorie": "318 cal"
+        },
+        {
+            "Name": "Marzipan",
+            "Calorie": "411 cal"
+        },
+        {
+            "Name": "Mike and Ike",
+            "Calorie": "360 cal"
+        },
+        {
+            "Name": "Milk Duds",
+            "Calorie": "422 cal"
+        },
+        {
+            "Name": "Milky Way",
+            "Calorie": "449 cal"
+        },
+        {
+            "Name": "PayDay",
+            "Calorie": "462 cal"
+        },
+        {
+            "Name": "Peanut Bar",
+            "Calorie": "533 cal"
+        },
+        {
+            "Name": "Peanut Brittle",
+            "Calorie": "183 cal"
+        },
+        {
+            "Name": "Peanut Butter Bars",
+            "Calorie": "379 cal"
+        },
+        {
+            "Name": "Peanut Butter Cookies",
+            "Calorie": "475 cal"
+        },
+        {
+            "Name": "Peppermint bark",
+            "Calorie": "500 cal"
+        },
+        {
+            "Name": "Pez",
+            "Calorie": "427 cal"
+        },
+        {
+            "Name": "Pop Rocks",
+            "Calorie": "358 cal"
+        },
+        {
+            "Name": "Popcorn",
+            "Calorie": "582 cal"
+        },
+        {
+            "Name": "Pumpkin Seeds",
+            "Calorie": "560 cal"
+        },
+        {
+            "Name": "Reeses Peanut Butter Cups",
+            "Calorie": "536 cal"
+        },
+        {
+            "Name": "Rice Pudding",
+            "Calorie": "134 cal"
+        },
+        {
+            "Name": "Roasted Almonds",
+            "Calorie": "452 cal"
+        },
+        {
+            "Name": "Rolo",
+            "Calorie": "474 cal"
+        },
+        {
+            "Name": "S’mores",
+            "Calorie": "500 cal"
+        },
+        {
+            "Name": "Semolina",
+            "Calorie": "340 cal"
+        },
+        {
+            "Name": "Skittles",
+            "Calorie": "405 cal"
+        },
+        {
+            "Name": "Smarties",
+            "Calorie": "357 cal"
+        },
+        {
+            "Name": "Smores",
+            "Calorie": "500 cal"
+        },
+        {
+            "Name": "Snickers",
+            "Calorie": "484 cal"
+        },
+        {
+            "Name": "Sour Patch Kids",
+            "Calorie": "363 cal"
+        },
+        {
+            "Name": "Speculoos",
+            "Calorie": "469 cal"
+        },
+        {
+            "Name": "Spritz Cookies",
+            "Calorie": "500 cal"
+        },
+        {
+            "Name": "Take 5",
+            "Calorie": "476 cal"
+        },
+        {
+            "Name": "Toblerone",
+            "Calorie": "525 cal"
+        },
+        {
+            "Name": "Trifle",
+            "Calorie": "186 cal"
+        },
+        {
+            "Name": "Twix",
+            "Calorie": "495 cal"
+        },
+        {
+            "Name": "Waffles",
+            "Calorie": "272 cal"
+        },
+        {
+            "Name": "Whoopie Pie",
+            "Calorie": "400 cal"
+        }
+    ]
+}

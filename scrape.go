@@ -5,6 +5,8 @@ import (
 	"fmt"
 	"io/ioutil"
 	"log"
+	"os"
+	"path/filepath"
 
 	"github.com/gocolly/colly"
 )
@@ -19,6 +21,14 @@ type FoodList struct {
 type Food struct {
 	Name    string `json: "name"`
 	Calorie string `json: "calorie"`
+}
+
+func getWorkingDir() (dir string) {
+	workingDir, err := os.Getwd()
+	if err != nil {
+		log.Fatal(err)
+	}
+	return workingDir
 }
 
 func main() {
@@ -69,10 +79,25 @@ func main() {
 		if err != nil {
 			log.Fatal(err)
 		}
-		fmt.Println(string(js))
+		// fmt.Println(string(js))
 
-		// Write file to HD
-		_ = ioutil.WriteFile(foodType+".json", js, 0644)
+		outputFolderName := "JSON_folder"
+
+		_, folderErr := os.Stat(outputFolderName)
+
+		// If not create a file
+		if os.IsNotExist(folderErr) {
+			errDir := os.MkdirAll(outputFolderName, 0755)
+			if errDir != nil {
+				log.Fatal(err)
+			}
+		} else {
+			workingDir := getWorkingDir()
+			specifiedWorkingDir := workingDir + "/" + outputFolderName
+			// Write file to HD
+			_ = ioutil.WriteFile(filepath.Join(specifiedWorkingDir, foodType+".json"), js, 0644)
+
+		}
 
 	})
 
