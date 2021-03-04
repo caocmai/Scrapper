@@ -75,3 +75,8 @@ _Complete each task in the order they appear. Use [GitHub Task List](https://hel
 - [JSON to Struct](https://mholt.github.io/json-to-go/): Paste any JSON data and convert it into a Go structure that will support storing that data.
 - [GoByExample - JSON](https://gobyexample.com/json): Covers Go's built-in support for JSON encoding and decoding to and from built-in and custom data types (structs).
 - [GoByExample - Writing Files](https://gobyexample.com/writing-files): Covers creating new files and writing to them.
+
+## Usage
+To scrape https://www.calories.info/, in terminal run:
+
+`go run scrape.go`

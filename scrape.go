@@ -81,8 +81,10 @@ func main() {
 		}
 		// fmt.Println(string(js))
 
+		// Set output folder name as
 		outputFolderName := "JSON_folder"
 
+		// Checks if it exists if not then creat with os.IsNotExist
 		_, folderErr := os.Stat(outputFolderName)
 
 		// If not create a file
